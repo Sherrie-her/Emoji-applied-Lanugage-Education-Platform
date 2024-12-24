@@ -1,0 +1,3617 @@
+﻿idx,emoji,category,codepoints
+2,🍎,Food & Drink,1F34E
+3,🍐,Food & Drink,1F350
+4,🍊,Food & Drink,1F34A
+5,🍋,Food & Drink,1F34B
+6,🍌,Food & Drink,1F34C
+7,🍉,Food & Drink,1F349
+8,🍇,Food & Drink,1F347
+9,🍓,Food & Drink,1F353
+10,🫐,Food & Drink,1FAD0
+11,🍈,Food & Drink,1F348
+12,🍒,Food & Drink,1F352
+13,🍑,Food & Drink,1F351
+14,🥭,Food & Drink,1F96D
+15,🍍,Food & Drink,1F34D
+16,🥥,Food & Drink,1F965
+17,🥝,Food & Drink,1F95D
+18,🍅,Food & Drink,1F345
+19,🍆,Food & Drink,1F346
+20,🥑,Food & Drink,1F951
+21,🥦,Food & Drink,1F966
+22,🥬,Food & Drink,1F96C
+23,🥒,Food & Drink,1F952
+25,🫑,Food & Drink,1FAD1
+26,🥕,Food & Drink,1F955
+27,🧄,Food & Drink,1F9C4
+28,🧅,Food & Drink,1F9C5
+29,🥔,Food & Drink,1F954
+30,🍠,Food & Drink,1F360
+31,🥐,Food & Drink,1F950
+32,🥯,Food & Drink,1F96F
+33,🍞,Food & Drink,1F35E
+34,🥖,Food & Drink,1F956
+35,🥨,Food & Drink,1F968
+36,🧀,Food & Drink,1F9C0
+37,🥚,Food & Drink,1F95A
+38,🍳,Food & Drink,1F373
+39,🧈,Food & Drink,1F9C8
+40,🥞,Food & Drink,1F95E
+41,🧇,Food & Drink,1F9C7
+42,🥓,Food & Drink,1F953
+43,🥩,Food & Drink,1F969
+44,🍗,Food & Drink,1F357
+45,🍖,Food & Drink,1F356
+46,🌭,Food & Drink,1F32D
+47,🍔,Food & Drink,1F354
+48,🍟,Food & Drink,1F35F
+49,🍕,Food & Drink,1F355
+50,🥪,Food & Drink,1F96A
+51,🥙,Food & Drink,1F959
+52,🧆,Food & Drink,1F9C6
+53,🌮,Food & Drink,1F32E
+54,🌯,Food & Drink,1F32F
+55,🫔,Food & Drink,1FAD4
+56,🥗,Food & Drink,1F957
+57,🥘,Food & Drink,1F958
+58,🫕,Food & Drink,1FAD5
+59,🥫,Food & Drink,1F96B
+60,🍝,Food & Drink,1F35D
+61,🍜,Food & Drink,1F35C
+62,🍲,Food & Drink,1F372
+63,🍛,Food & Drink,1F35B
+64,🍣,Food & Drink,1F363
+65,🍱,Food & Drink,1F371
+66,🥟,Food & Drink,1F95F
+67,🦪,Food & Drink,1F9AA
+68,🍤,Food & Drink,1F364
+69,🍙,Food & Drink,1F359
+70,🍚,Food & Drink,1F35A
+71,🍘,Food & Drink,1F358
+72,🍥,Food & Drink,1F365
+73,🥠,Food & Drink,1F960
+74,🥮,Food & Drink,1F96E
+75,🍢,Food & Drink,1F362
+76,🍡,Food & Drink,1F361
+77,🍧,Food & Drink,1F367
+78,🍨,Food & Drink,1F368
+79,🍦,Food & Drink,1F366
+80,🥧,Food & Drink,1F967
+81,🧁,Food & Drink,1F9C1
+82,🍰,Food & Drink,1F370
+83,🎂,Food & Drink,1F382
+84,🍮,Food & Drink,1F36E
+85,🍭,Food & Drink,1F36D
+86,🍬,Food & Drink,1F36C
+87,🍫,Food & Drink,1F36B
+88,🍿,Food & Drink,1F37F
+89,🍩,Food & Drink,1F369
+90,🍪,Food & Drink,1F36A
+91,🌰,Food & Drink,1F330
+92,🥜,Food & Drink,1F95C
+93,🍯,Food & Drink,1F36F
+94,🥛,Food & Drink,1F95B
+95,🍼,Food & Drink,1F37C
+96,☕,Food & Drink,2615
+97,🫖,Food & Drink,1FAD6
+98,🍵,Food & Drink,1F375
+99,🧃,Food & Drink,1F9C3
+100,🥤,Food & Drink,1F964
+101,🧋,Food & Drink,1F9CB
+102,🍶,Food & Drink,1F376
+103,🍺,Food & Drink,1F37A
+104,🍻,Food & Drink,1F37B
+105,🥂,Food & Drink,1F942
+106,🍷,Food & Drink,1F377
+107,🥃,Food & Drink,1F943
+108,🍸,Food & Drink,1F378
+109,🍹,Food & Drink,1F379
+110,🧉,Food & Drink,1F9C9
+111,🍾,Food & Drink,1F37E
+112,🐶,Animals & Nature,1F436
+113,🐱,Animals & Nature,1F431
+114,🐭,Animals & Nature,1F42D
+115,🐹,Animals & Nature,1F439
+116,🐰,Animals & Nature,1F430
+117,🦊,Animals & Nature,1F98A
+118,🐻,Animals & Nature,1F43B
+119,🐼,Animals & Nature,1F43C
+120,🐻‍❄️,Animals & Nature,1F43B 200D 2744 FE0F
+121,🐨,Animals & Nature,1F428
+122,🐯,Animals & Nature,1F42F
+123,🦁,Animals & Nature,1F981
+124,🐮,Animals & Nature,1F42E
+125,🐷,Animals & Nature,1F437
+126,🐽,Animals & Nature,1F43D
+127,🐸,Animals & Nature,1F438
+128,🐵,Animals & Nature,1F435
+129,🙈,Smileys & Emotion,1F648
+130,🙈,Smileys & Emotion,1F648
+131,🙉,Smileys & Emotion,1F649
+132,🙉,Smileys & Emotion,1F649
+133,🙊,Smileys & Emotion,1F64A
+134,🙊,Smileys & Emotion,1F64A
+135,🐒,Animals & Nature,1F412
+136,🐔,Animals & Nature,1F414
+137,🐧,Animals & Nature,1F427
+138,🐦,Animals & Nature,1F426
+139,🐤,Animals & Nature,1F424
+140,🐣,Animals & Nature,1F423
+141,🐥,Animals & Nature,1F425
+142,🦆,Animals & Nature,1F986
+143,🦅,Animals & Nature,1F985
+144,🦉,Animals & Nature,1F989
+145,🦇,Animals & Nature,1F987
+146,🐺,Animals & Nature,1F43A
+147,🐗,Animals & Nature,1F417
+148,🐴,Animals & Nature,1F434
+149,🦄,Animals & Nature,1F984
+150,🐝,Animals & Nature,1F41D
+151,🪱,Animals & Nature,1FAB1
+152,🐛,Animals & Nature,1F41B
+153,🦋,Animals & Nature,1F98B
+154,🐌,Animals & Nature,1F40C
+155,🐞,Animals & Nature,1F41E
+156,🐜,Animals & Nature,1F41C
+157,🪰,Animals & Nature,1FAB0
+158,🪲,Animals & Nature,1FAB2
+159,🪳,Animals & Nature,1FAB3
+160,🦟,Animals & Nature,1F99F
+161,🦗,Animals & Nature,1F997
+164,🦂,Animals & Nature,1F982
+165,🐢,Animals & Nature,1F422
+166,🐍,Animals & Nature,1F40D
+167,🦎,Animals & Nature,1F98E
+168,🦖,Animals & Nature,1F996
+169,🦕,Animals & Nature,1F995
+170,🐙,Animals & Nature,1F419
+171,🦑,Food & Drink,1F991
+172,🦐,Food & Drink,1F990
+173,🦞,Food & Drink,1F99E
+174,🦀,Food & Drink,1F980
+175,🐡,Animals & Nature,1F421
+176,🐠,Animals & Nature,1F420
+177,🐟,Animals & Nature,1F41F
+178,🐬,Animals & Nature,1F42C
+179,🐳,Animals & Nature,1F433
+180,🐋,Animals & Nature,1F40B
+181,🦈,Animals & Nature,1F988
+182,🐊,Animals & Nature,1F40A
+183,🐅,Animals & Nature,1F405
+184,🐆,Animals & Nature,1F406
+185,🦓,Animals & Nature,1F993
+186,🦍,Animals & Nature,1F98D
+187,🦧,Animals & Nature,1F9A7
+188,🦣,Animals & Nature,1F9A3
+189,🐘,Animals & Nature,1F418
+190,🦛,Animals & Nature,1F99B
+191,🦏,Animals & Nature,1F98F
+192,🐪,Animals & Nature,1F42A
+193,🐫,Animals & Nature,1F42B
+194,🦒,Animals & Nature,1F992
+195,🦘,Animals & Nature,1F998
+196,🦬,Animals & Nature,1F9AC
+197,🐃,Animals & Nature,1F403
+198,🐂,Animals & Nature,1F402
+199,🐄,Animals & Nature,1F404
+200,🐎,Animals & Nature,1F40E
+201,🐖,Animals & Nature,1F416
+202,🐏,Animals & Nature,1F40F
+203,🐑,Animals & Nature,1F411
+204,🦙,Animals & Nature,1F999
+205,🐐,Animals & Nature,1F410
+206,🦌,Animals & Nature,1F98C
+207,🐕,Animals & Nature,1F415
+208,🐩,Animals & Nature,1F429
+209,🦮,Animals & Nature,1F9AE
+210,🐕‍🦺,Animals & Nature,1F415 200D 1F9BA
+211,🐈,Animals & Nature,1F408
+212,🐈‍⬛,Animals & Nature,1F408 200D 2B1B
+213,🪶,Animals & Nature,1FAB6
+214,🐓,Animals & Nature,1F413
+215,🦃,Animals & Nature,1F983
+216,🦤,Animals & Nature,1F9A4
+217,🦚,Animals & Nature,1F99A
+218,🦜,Animals & Nature,1F99C
+219,🦢,Animals & Nature,1F9A2
+220,🦩,Animals & Nature,1F9A9
+222,🐇,Animals & Nature,1F407
+223,🦝,Animals & Nature,1F99D
+224,🦨,Animals & Nature,1F9A8
+225,🦡,Animals & Nature,1F9A1
+226,🦫,Animals & Nature,1F9AB
+227,🦦,Animals & Nature,1F9A6
+228,🦥,Animals & Nature,1F9A5
+229,🐁,Animals & Nature,1F401
+230,🐀,Animals & Nature,1F400
+232,🦔,Animals & Nature,1F994
+233,🐾,Animals & Nature,1F43E
+234,🐉,Animals & Nature,1F409
+235,🐲,Animals & Nature,1F432
+236,🐚,Animals & Nature,1F41A
+237,😀,Smileys & Emotion,1F600
+238,😃,Smileys & Emotion,1F603
+239,😄,Smileys & Emotion,1F604
+240,😁,Smileys & Emotion,1F601
+241,😆,Smileys & Emotion,1F606
+242,😅,Smileys & Emotion,1F605
+243,🤣,Smileys & Emotion,1F923
+244,😂,Smileys & Emotion,1F602
+245,🙂,Smileys & Emotion,1F642
+246,🙃,Smileys & Emotion,1F643
+247,😉,Smileys & Emotion,1F609
+248,😊,Smileys & Emotion,1F60A
+249,😇,Smileys & Emotion,1F607
+250,🥰,Smileys & Emotion,1F970
+251,😍,Smileys & Emotion,1F60D
+252,🤩,Smileys & Emotion,1F929
+253,😘,Smileys & Emotion,1F618
+254,😗,Smileys & Emotion,1F617
+256,😚,Smileys & Emotion,1F61A
+257,😙,Smileys & Emotion,1F619
+258,🥲,Smileys & Emotion,1F972
+259,😋,Smileys & Emotion,1F60B
+260,😛,Smileys & Emotion,1F61B
+261,😜,Smileys & Emotion,1F61C
+262,🤪,Smileys & Emotion,1F92A
+263,😝,Smileys & Emotion,1F61D
+264,🤑,Smileys & Emotion,1F911
+265,🤗,Smileys & Emotion,1F917
+266,🤭,Smileys & Emotion,1F92D
+267,🤫,Smileys & Emotion,1F92B
+268,🤔,Smileys & Emotion,1F914
+269,🤐,Smileys & Emotion,1F910
+270,🤨,Smileys & Emotion,1F928
+271,😐,Smileys & Emotion,1F610
+272,😑,Smileys & Emotion,1F611
+273,😶,Smileys & Emotion,1F636
+274,😶‍🌫️,Smileys & Emotion,1F636 200D 1F32B FE0F
+275,😏,Smileys & Emotion,1F60F
+276,😒,Smileys & Emotion,1F612
+277,🙄,Smileys & Emotion,1F644
+278,😬,Smileys & Emotion,1F62C
+279,😮‍💨,Smileys & Emotion,1F62E 200D 1F4A8
+280,🤥,Smileys & Emotion,1F925
+281,😌,Smileys & Emotion,1F60C
+282,😔,Smileys & Emotion,1F614
+283,😪,Smileys & Emotion,1F62A
+284,🤤,Smileys & Emotion,1F924
+285,😴,Smileys & Emotion,1F634
+286,😷,Smileys & Emotion,1F637
+287,🤒,Smileys & Emotion,1F912
+288,🤕,Smileys & Emotion,1F915
+289,🤢,Smileys & Emotion,1F922
+290,🤮,Smileys & Emotion,1F92E
+291,🤧,Smileys & Emotion,1F927
+292,🥵,Smileys & Emotion,1F975
+293,🥶,Smileys & Emotion,1F976
+294,🥴,Smileys & Emotion,1F974
+295,😵,Smileys & Emotion,1F635
+296,😵‍💫,Smileys & Emotion,1F635 200D 1F4AB
+297,🤯,Smileys & Emotion,1F92F
+298,🤠,Smileys & Emotion,1F920
+299,🥳,Smileys & Emotion,1F973
+300,🥸,Smileys & Emotion,1F978
+301,😎,Smileys & Emotion,1F60E
+302,🤓,Smileys & Emotion,1F913
+303,🧐,Smileys & Emotion,1F9D0
+304,😕,Smileys & Emotion,1F615
+305,😟,Smileys & Emotion,1F61F
+306,🙁,Smileys & Emotion,1F641
+308,😮,Smileys & Emotion,1F62E
+309,😯,Smileys & Emotion,1F62F
+310,😲,Smileys & Emotion,1F632
+311,😳,Smileys & Emotion,1F633
+312,🥺,Smileys & Emotion,1F97A
+313,😦,Smileys & Emotion,1F626
+314,😧,Smileys & Emotion,1F627
+315,😨,Smileys & Emotion,1F628
+316,😰,Smileys & Emotion,1F630
+317,😥,Smileys & Emotion,1F625
+318,😢,Smileys & Emotion,1F622
+319,😭,Smileys & Emotion,1F62D
+320,😱,Smileys & Emotion,1F631
+321,😖,Smileys & Emotion,1F616
+322,😣,Smileys & Emotion,1F623
+323,😞,Smileys & Emotion,1F61E
+324,😓,Smileys & Emotion,1F613
+325,😩,Smileys & Emotion,1F629
+326,😫,Smileys & Emotion,1F62B
+327,🥱,Smileys & Emotion,1F971
+328,😤,Smileys & Emotion,1F624
+329,😡,Smileys & Emotion,1F621
+330,😠,Smileys & Emotion,1F620
+331,🤬,Smileys & Emotion,1F92C
+332,😈,Smileys & Emotion,1F608
+333,👿,Smileys & Emotion,1F47F
+334,💀,Smileys & Emotion,1F480
+336,💩,Smileys & Emotion,1F4A9
+337,🤡,Smileys & Emotion,1F921
+338,👹,Smileys & Emotion,1F479
+339,👺,Smileys & Emotion,1F47A
+340,👻,Smileys & Emotion,1F47B
+341,👽,Smileys & Emotion,1F47D
+342,👾,Smileys & Emotion,1F47E
+343,🤖,Smileys & Emotion,1F916
+344,😺,Smileys & Emotion,1F63A
+345,😸,Smileys & Emotion,1F638
+346,😹,Smileys & Emotion,1F639
+347,😻,Smileys & Emotion,1F63B
+348,😼,Smileys & Emotion,1F63C
+349,😽,Smileys & Emotion,1F63D
+350,🙀,Smileys & Emotion,1F640
+351,😿,Smileys & Emotion,1F63F
+352,😾,Smileys & Emotion,1F63E
+353,🌍,Travel & Places,1F30D
+354,🌎,Travel & Places,1F30E
+355,🌏,Travel & Places,1F30F
+356,🌐,Travel & Places,1F310
+358,🗾,Travel & Places,1F5FE
+361,🌋,Travel & Places,1F30B
+362,🗻,Travel & Places,1F5FB
+371,🛖,Travel & Places,1F6D6
+374,🏠,Travel & Places,1F3E0
+375,🏡,Travel & Places,1F3E1
+376,🏢,Travel & Places,1F3E2
+377,🏣,Travel & Places,1F3E3
+378,🏤,Travel & Places,1F3E4
+379,🏥,Travel & Places,1F3E5
+380,🏦,Travel & Places,1F3E6
+381,🏨,Travel & Places,1F3E8
+382,🏩,Travel & Places,1F3E9
+383,🏪,Travel & Places,1F3EA
+384,🏫,Travel & Places,1F3EB
+385,🏬,Travel & Places,1F3EC
+386,🏭,Travel & Places,1F3ED
+387,🏯,Travel & Places,1F3EF
+388,🏰,Travel & Places,1F3F0
+389,💒,Travel & Places,1F492
+390,🗼,Travel & Places,1F5FC
+391,🗽,Travel & Places,1F5FD
+392,⛪,Travel & Places,26EA
+393,🕌,Travel & Places,1F54C
+394,🛕,Travel & Places,1F6D5
+395,🕍,Travel & Places,1F54D
+397,🕋,Travel & Places,1F54B
+398,⛲,Travel & Places,26F2
+399,⛺,Travel & Places,26FA
+400,🌁,Travel & Places,1F301
+401,🌃,Travel & Places,1F303
+403,🌄,Travel & Places,1F304
+404,🌅,Travel & Places,1F305
+405,🌆,Travel & Places,1F306
+406,🌇,Travel & Places,1F307
+407,🌉,Travel & Places,1F309
+409,🎠,Travel & Places,1F3A0
+410,🎡,Travel & Places,1F3A1
+411,🎢,Travel & Places,1F3A2
+412,💈,Travel & Places,1F488
+413,💈,Travel & Places,1F488
+414,🎪,Travel & Places,1F3AA
+415,🚏,Travel & Places,1F68F
+418,⛽,Travel & Places,26FD
+419,🚥,Travel & Places,1F6A5
+420,🚦,Travel & Places,1F6A6
+421,🧱,Travel & Places,1F9F1
+422,🪨,Travel & Places,1FAA8
+423,🪵,Travel & Places,1FAB5
+424,⌚,Travel & Places,231A
+425,📱,Objects,1F4F1
+426,📲,Objects,1F4F2
+427,💻,Objects,1F4BB
+431,🧭,Travel & Places,1F9ED
+437,💽,Objects,1F4BD
+438,💾,Objects,1F4BE
+439,💿,Objects,1F4BF
+440,📀,Objects,1F4C0
+441,📼,Objects,1F4FC
+442,📷,Objects,1F4F7
+443,📸,Objects,1F4F8
+444,📹,Objects,1F4F9
+445,🎥,Objects,1F3A5
+448,📞,Objects,1F4DE
+450,📟,Objects,1F4DF
+451,📠,Objects,1F4E0
+452,📺,Objects,1F4FA
+453,📻,Objects,1F4FB
+459,⏰,Travel & Places,23F0
+461,⌛,Travel & Places,231B
+462,⏳,Travel & Places,23F3
+463,📡,Objects,1F4E1
+464,🔋,Objects,1F50B
+465,🔌,Objects,1F50C
+466,💡,Objects,1F4A1
+467,🔦,Objects,1F526
+469,🪔,Objects,1FA94
+470,🧯,Objects,1F9EF
+472,💸,Objects,1F4B8
+473,💵,Objects,1F4B5
+474,💴,Objects,1F4B4
+475,💶,Objects,1F4B6
+476,💷,Objects,1F4B7
+477,💰,Objects,1F4B0
+478,💳,Objects,1F4B3
+479,💎,Objects,1F48E
+481,🪜,Objects,1FA9C
+482,🧰,Objects,1F9F0
+483,🪛,Objects,1FA9B
+484,🔧,Objects,1F527
+485,🔨,Objects,1F528
+489,🪚,Objects,1FA9A
+490,🔩,Objects,1F529
+492,🪤,Objects,1FAA4
+494,🧲,Objects,1F9F2
+495,🔫,Activities,1F52B
+496,💣,Objects,1F4A3
+497,🧨,Activities,1F9E8
+498,🪓,Objects,1FA93
+499,🔪,Food & Drink,1F52A
+503,🚬,Objects,1F6AC
+505,🪦,Objects,1FAA6
+507,🏺,Food & Drink,1F3FA
+508,🔮,Activities,1F52E
+509,🔮,Activities,1F52E
+510,📿,Objects,1F4FF
+511,🧿,Objects,1F9FF
+512,🧿,Objects,1F9FF
+514,🔭,Objects,1F52D
+515,🔬,Objects,1F52C
+517,🩹,Objects,1FA79
+518,🩺,Objects,1FA7A
+519,💊,Objects,1F48A
+520,💉,Objects,1F489
+521,🩸,Objects,1FA78
+522,🧬,Objects,1F9EC
+523,🦠,Animals & Nature,1F9A0
+524,🧫,Objects,1F9EB
+525,🧪,Objects,1F9EA
+527,🧹,Objects,1F9F9
+528,🪠,Objects,1FAA0
+529,🧺,Objects,1F9FA
+530,🧻,Objects,1F9FB
+531,🚽,Objects,1F6BD
+532,🚰,Symbols,1F6B0
+533,🚿,Objects,1F6BF
+534,🛁,Objects,1F6C1
+535,🛀,People & Body,1F6C0
+536,🧼,Objects,1F9FC
+537,🪥,Objects,1FAA5
+538,🪒,Objects,1FA92
+539,🧽,Objects,1F9FD
+540,🪣,Objects,1FAA3
+541,🧴,Objects,1F9F4
+543,🔑,Objects,1F511
+545,🚪,Objects,1F6AA
+546,🪑,Objects,1FA91
+549,🛌,People & Body,1F6CC
+550,🧸,Activities,1F9F8
+551,🧸,Activities,1F9F8
+555,🛒,Objects,1F6D2
+556,🎁,Activities,1F381
+557,🎈,Activities,1F388
+558,🎏,Activities,1F38F
+559,🎀,Activities,1F380
+560,🪄,Activities,1FA84
+561,🪄,Activities,1FA84
+562,🎊,Activities,1F38A
+563,🎉,Activities,1F389
+564,🎎,Activities,1F38E
+565,🏮,Objects,1F3EE
+566,🎐,Activities,1F390
+567,🧧,Activities,1F9E7
+569,📩,Objects,1F4E9
+570,📨,Objects,1F4E8
+571,📧,Objects,1F4E7
+572,💌,Smileys & Emotion,1F48C
+573,📥,Objects,1F4E5
+574,📤,Objects,1F4E4
+575,📦,Objects,1F4E6
+577,📪,Objects,1F4EA
+578,📫,Objects,1F4EB
+579,📬,Objects,1F4EC
+580,📭,Objects,1F4ED
+581,📮,Objects,1F4EE
+582,📯,Objects,1F4EF
+583,📜,Objects,1F4DC
+584,📃,Objects,1F4C3
+585,📄,Objects,1F4C4
+586,📑,Objects,1F4D1
+587,🧾,Objects,1F9FE
+588,📊,Objects,1F4CA
+589,📈,Objects,1F4C8
+590,📉,Objects,1F4C9
+593,📆,Objects,1F4C6
+594,📅,Objects,1F4C5
+596,📇,Objects,1F4C7
+600,📋,Objects,1F4CB
+601,📁,Objects,1F4C1
+602,📂,Objects,1F4C2
+605,📰,Objects,1F4F0
+606,📓,Objects,1F4D3
+607,📔,Objects,1F4D4
+608,📒,Objects,1F4D2
+609,📕,Objects,1F4D5
+610,📗,Objects,1F4D7
+611,📘,Objects,1F4D8
+612,📙,Objects,1F4D9
+613,📚,Objects,1F4DA
+614,📖,Objects,1F4D6
+615,🔖,Objects,1F516
+616,🧷,Objects,1F9F7
+617,🔗,Objects,1F517
+618,📎,Objects,1F4CE
+620,📐,Objects,1F4D0
+621,📏,Objects,1F4CF
+622,🧮,Objects,1F9EE
+623,📌,Objects,1F4CC
+624,📍,Objects,1F4CD
+631,📝,Objects,1F4DD
+633,🔍,Objects,1F50D
+634,🔎,Objects,1F50E
+635,🔏,Objects,1F50F
+636,🔐,Objects,1F510
+637,🔒,Objects,1F512
+638,🔓,Objects,1F513
+639,🚎,Travel & Places,1F68E
+640,🚐,Travel & Places,1F690
+641,🚑,Travel & Places,1F691
+642,🚒,Travel & Places,1F692
+643,🚓,Travel & Places,1F693
+644,🚔,Travel & Places,1F694
+645,🚕,Travel & Places,1F695
+646,🚖,Travel & Places,1F696
+647,🚗,Travel & Places,1F697
+648,🚘,Travel & Places,1F698
+649,🚙,Travel & Places,1F699
+650,🛻,Travel & Places,1F6FB
+651,🚚,Travel & Places,1F69A
+652,🚛,Travel & Places,1F69B
+653,🚜,Travel & Places,1F69C
+656,🛵,Travel & Places,1F6F5
+657,🦽,Travel & Places,1F9BD
+658,🦼,Travel & Places,1F9BC
+659,🛺,Travel & Places,1F6FA
+660,🚲,Travel & Places,1F6B2
+661,🛴,Travel & Places,1F6F4
+662,🛹,Travel & Places,1F6F9
+663,🛼,Travel & Places,1F6FC
+664,🚂,Travel & Places,1F682
+665,🚃,Travel & Places,1F683
+666,🚄,Travel & Places,1F684
+667,🚅,Travel & Places,1F685
+668,🚆,Travel & Places,1F686
+669,🚇,Travel & Places,1F687
+670,🚈,Travel & Places,1F688
+671,🚉,Travel & Places,1F689
+672,🚊,Travel & Places,1F68A
+673,🚝,Travel & Places,1F69D
+674,🚞,Travel & Places,1F69E
+675,🚋,Travel & Places,1F68B
+676,🚌,Travel & Places,1F68C
+677,🚍,Travel & Places,1F68D
+681,🚢,Travel & Places,1F6A2
+684,🛫,Travel & Places,1F6EB
+685,🛬,Travel & Places,1F6EC
+686,🪂,Travel & Places,1FA82
+687,💺,Travel & Places,1F4BA
+688,🚁,Travel & Places,1F681
+689,🚟,Travel & Places,1F69F
+690,🚠,Travel & Places,1F6A0
+691,🚡,Travel & Places,1F6A1
+693,🚀,Travel & Places,1F680
+694,🛸,Travel & Places,1F6F8
+695,🚨,Travel & Places,1F6A8
+696,🛑,Travel & Places,1F6D1
+697,🚧,Travel & Places,1F6A7
+698,⚓,Travel & Places,2693
+699,⛵,Travel & Places,26F5
+700,🛶,Travel & Places,1F6F6
+701,🚤,Travel & Places,1F6A4
+702,👋,People & Body,1F44B
+703,🤚,People & Body,1F91A
+705,✋,People & Body,270B
+706,🖖,People & Body,1F596
+707,👌,People & Body,1F44C
+708,🤌,People & Body,1F90C
+709,🤏,People & Body,1F90F
+711,🤞,People & Body,1F91E
+712,🤟,People & Body,1F91F
+713,🤘,People & Body,1F918
+714,🤙,People & Body,1F919
+715,👈,People & Body,1F448
+716,👉,People & Body,1F449
+717,👆,People & Body,1F446
+718,🖕,People & Body,1F595
+719,👇,People & Body,1F447
+721,👍,People & Body,1F44D
+722,👎,People & Body,1F44E
+723,✊,People & Body,270A
+724,👊,People & Body,1F44A
+725,🤛,People & Body,1F91B
+726,🤜,People & Body,1F91C
+727,👏,People & Body,1F44F
+728,🙌,People & Body,1F64C
+729,👐,People & Body,1F450
+730,🤲,People & Body,1F932
+731,🤝,People & Body,1F91D
+732,🙏,People & Body,1F64F
+734,💅,People & Body,1F485
+735,🤳,People & Body,1F933
+736,💪,People & Body,1F4AA
+737,🦾,People & Body,1F9BE
+738,🦿,People & Body,1F9BF
+739,🦵,People & Body,1F9B5
+740,🦶,People & Body,1F9B6
+741,👂,People & Body,1F442
+742,🦻,People & Body,1F9BB
+743,👃,People & Body,1F443
+744,👀,People & Body,1F440
+746,👅,People & Body,1F445
+747,🫦,People & Body,1FAE6
+748,🫰,People & Body,1FAF0
+749,🫱,People & Body,1FAF1
+750,🫲,People & Body,1FAF2
+751,🫳,People & Body,1FAF3
+752,🫴,People & Body,1FAF4
+753,🫵,People & Body,1FAF5
+754,🫶,People & Body,1FAF6
+757,🙋,People & Body,1F64B
+758,🙋‍♂️,People & Body,1F64B 200D 2642 FE0F
+759,🙋‍♀️,People & Body,1F64B 200D 2640 FE0F
+760,🙆,People & Body,1F646
+761,🙆‍♂️,People & Body,1F646 200D 2642 FE0F
+762,🙆‍♀️,People & Body,1F646 200D 2640 FE0F
+763,🙅,People & Body,1F645
+764,🙅‍♂️,People & Body,1F645 200D 2642 FE0F
+765,🙅‍♀️,People & Body,1F645 200D 2640 FE0F
+766,🤷,People & Body,1F937
+767,🤷‍♂️,People & Body,1F937 200D 2642 FE0F
+768,🤷‍♀️,People & Body,1F937 200D 2640 FE0F
+769,🙇,People & Body,1F647
+770,🙇‍♂️,People & Body,1F647 200D 2642 FE0F
+771,🙇‍♀️,People & Body,1F647 200D 2640 FE0F
+772,🤦,People & Body,1F926
+773,🤦‍♂️,People & Body,1F926 200D 2642 FE0F
+774,🤦‍♀️,People & Body,1F926 200D 2640 FE0F
+776,🏆,Activities,1F3C6
+777,🏅,Activities,1F3C5
+778,🥇,Activities,1F947
+779,🥈,Activities,1F948
+780,🥉,Activities,1F949
+781,⚽,Activities,26BD
+782,⚾,Activities,26BE
+783,🥎,Activities,1F94E
+784,🏀,Activities,1F3C0
+785,🏐,Activities,1F3D0
+786,🏈,Activities,1F3C8
+787,🏉,Activities,1F3C9
+788,🎾,Activities,1F3BE
+789,🥏,Activities,1F94F
+790,🎳,Activities,1F3B3
+791,🏏,Activities,1F3CF
+792,🏑,Activities,1F3D1
+793,🏒,Activities,1F3D2
+794,🥍,Activities,1F94D
+795,🏓,Activities,1F3D3
+796,🏸,Activities,1F3F8
+797,🥊,Activities,1F94A
+798,🥋,Activities,1F94B
+799,🥅,Activities,1F945
+800,⛳,Activities,26F3
+802,🎣,Activities,1F3A3
+803,🤿,Activities,1F93F
+804,🎽,Activities,1F3BD
+805,🎿,Activities,1F3BF
+806,🛷,Activities,1F6F7
+807,🥌,Activities,1F94C
+808,🎯,Activities,1F3AF
+809,🪀,Activities,1FA80
+810,🪁,Activities,1FA81
+811,🎱,Activities,1F3B1
+812,🎮,Activities,1F3AE
+813,🎰,Activities,1F3B0
+814,🎲,Activities,1F3B2
+815,🧩,Activities,1F9E9
+816,🪅,Activities,1FA85
+817,🪆,Activities,1FA86
+823,🃏,Activities,1F0CF
+824,🀄,Activities,1F004
+825,🎴,Activities,1F3B4
+826,🎭,Activities,1F3AD
+827,🎨,Activities,1F3A8
+828,🧵,Activities,1F9F5
+829,🪡,Activities,1FAA1
+830,🧶,Activities,1F9F6
+831,🪢,Activities,1FAA2
+832,👨‍⚕️,People & Body,1F468 200D 2695 FE0F
+833,👩‍⚕️,People & Body,1F469 200D 2695 FE0F
+834,👨‍🎓,People & Body,1F468 200D 1F393
+835,👩‍🎓,People & Body,1F469 200D 1F393
+836,👨‍🏫,People & Body,1F468 200D 1F3EB
+837,👩‍🏫,People & Body,1F469 200D 1F3EB
+838,👨‍⚖️,People & Body,1F468 200D 2696 FE0F
+839,👩‍⚖️,People & Body,1F469 200D 2696 FE0F
+840,👨‍🌾,People & Body,1F468 200D 1F33E
+841,👩‍🌾,People & Body,1F469 200D 1F33E
+842,👨‍🍳,People & Body,1F468 200D 1F373
+843,👩‍🍳,People & Body,1F469 200D 1F373
+844,👨‍🔧,People & Body,1F468 200D 1F527
+845,👩‍🔧,People & Body,1F469 200D 1F527
+846,👨‍🏭,People & Body,1F468 200D 1F3ED
+847,👩‍🏭,People & Body,1F469 200D 1F3ED
+848,👨‍💼,People & Body,1F468 200D 1F4BC
+849,👩‍💼,People & Body,1F469 200D 1F4BC
+850,👨‍🔬,People & Body,1F468 200D 1F52C
+851,👩‍🔬,People & Body,1F469 200D 1F52C
+852,👨‍💻,People & Body,1F468 200D 1F4BB
+853,👩‍💻,People & Body,1F469 200D 1F4BB
+854,👨‍🎤,People & Body,1F468 200D 1F3A4
+855,👩‍🎤,People & Body,1F469 200D 1F3A4
+856,👨‍🎨,People & Body,1F468 200D 1F3A8
+857,👩‍🎨,People & Body,1F469 200D 1F3A8
+858,👨‍✈️,People & Body,1F468 200D 2708 FE0F
+859,👩‍✈️,People & Body,1F469 200D 2708 FE0F
+860,👨‍🚀,People & Body,1F468 200D 1F680
+861,👩‍🚀,People & Body,1F469 200D 1F680
+862,👨‍🚒,People & Body,1F468 200D 1F692
+863,👩‍🚒,People & Body,1F469 200D 1F692
+864,👮,People & Body,1F46E
+866,💂,People & Body,1F482
+867,🥷,People & Body,1F977
+868,👷,People & Body,1F477
+869,🤴,People & Body,1F934
+870,👸,People & Body,1F478
+871,👳,People & Body,1F473
+872,👲,People & Body,1F472
+873,🧕,People & Body,1F9D5
+874,🤵,People & Body,1F935
+875,👰,People & Body,1F470
+876,🤰,People & Body,1F930
+877,🤱,People & Body,1F931
+878,👼,People & Body,1F47C
+879,🎅,People & Body,1F385
+880,🤶,People & Body,1F936
+881,🦸,People & Body,1F9B8
+882,🦹,People & Body,1F9B9
+883,🧙,People & Body,1F9D9
+884,🧚,People & Body,1F9DA
+885,🧛,People & Body,1F9DB
+886,🧜,People & Body,1F9DC
+887,🧝,People & Body,1F9DD
+888,🧞,People & Body,1F9DE
+889,🧟,People & Body,1F9DF
+890,💆,People & Body,1F486
+891,💇,People & Body,1F487
+892,🚶,People & Body,1F6B6
+893,🧍,People & Body,1F9CD
+894,🧎,People & Body,1F9CE
+895,🏃,People & Body,1F3C3
+896,💃,People & Body,1F483
+897,🕺,People & Body,1F57A
+899,👯,People & Body,1F46F
+900,🧖,People & Body,1F9D6
+901,🧗,People & Body,1F9D7
+902,🤺,People & Body,1F93A
+903,🏇,People & Body,1F3C7
+905,🏂,People & Body,1F3C2
+907,🏄,People & Body,1F3C4
+908,🚣,People & Body,1F6A3
+909,🏊,People & Body,1F3CA
+912,🚴,People & Body,1F6B4
+913,🚵,People & Body,1F6B5
+914,🤸,People & Body,1F938
+915,🤼,People & Body,1F93C
+916,🤽,People & Body,1F93D
+917,🤾,People & Body,1F93E
+918,🤹,People & Body,1F939
+919,🧘,People & Body,1F9D8
+920,🕛,Travel & Places,1F55B
+921,🕧,Travel & Places,1F567
+922,🕐,Travel & Places,1F550
+923,🕜,Travel & Places,1F55C
+924,🕑,Travel & Places,1F551
+925,🕝,Travel & Places,1F55D
+926,🕒,Travel & Places,1F552
+927,🕞,Travel & Places,1F55E
+928,🕓,Travel & Places,1F553
+929,🕟,Travel & Places,1F55F
+930,🕔,Travel & Places,1F554
+931,🕠,Travel & Places,1F560
+932,🕕,Travel & Places,1F555
+933,🕡,Travel & Places,1F561
+934,🕖,Travel & Places,1F556
+935,🕢,Travel & Places,1F562
+936,🕗,Travel & Places,1F557
+937,🕣,Travel & Places,1F563
+938,🕘,Travel & Places,1F558
+939,🕤,Travel & Places,1F564
+940,🕙,Travel & Places,1F559
+941,🕥,Travel & Places,1F565
+942,🕚,Travel & Places,1F55A
+943,🕦,Travel & Places,1F566
+944,🇦🇫,Flags,1F1E6 1F1EB
+945,🇦🇱,Flags,1F1E6 1F1F1
+946,🇩🇿,Flags,1F1E9 1F1FF
+947,🇦🇸,Flags,1F1E6 1F1F8
+948,🇦🇩,Flags,1F1E6 1F1E9
+949,🇦🇴,Flags,1F1E6 1F1F4
+950,🇦🇮,Flags,1F1E6 1F1EE
+951,🇦🇶,Flags,1F1E6 1F1F6
+952,🇦🇬,Flags,1F1E6 1F1EC
+953,🇦🇷,Flags,1F1E6 1F1F7
+954,🇦🇲,Flags,1F1E6 1F1F2
+955,🇦🇼,Flags,1F1E6 1F1FC
+956,🇦🇨,Flags,1F1E6 1F1E8
+957,🇦🇺,Flags,1F1E6 1F1FA
+958,🇦🇹,Flags,1F1E6 1F1F9
+959,🇦🇿,Flags,1F1E6 1F1FF
+960,🇧🇸,Flags,1F1E7 1F1F8
+961,🇧🇭,Flags,1F1E7 1F1ED
+962,🇧🇩,Flags,1F1E7 1F1E9
+963,🇧🇧,Flags,1F1E7 1F1E7
+964,🇧🇾,Flags,1F1E7 1F1FE
+965,🇧🇪,Flags,1F1E7 1F1EA
+966,🇧🇿,Flags,1F1E7 1F1FF
+967,🇧🇯,Flags,1F1E7 1F1EF
+968,🇧🇲,Flags,1F1E7 1F1F2
+969,🇧🇹,Flags,1F1E7 1F1F9
+970,🇧🇴,Flags,1F1E7 1F1F4
+971,🇧🇦,Flags,1F1E7 1F1E6
+972,🇧🇼,Flags,1F1E7 1F1FC
+973,🇧🇻,Flags,1F1E7 1F1FB
+974,🇧🇷,Flags,1F1E7 1F1F7
+975,🇮🇴,Flags,1F1EE 1F1F4
+976,🇻🇬,Flags,1F1FB 1F1EC
+977,🇧🇳,Flags,1F1E7 1F1F3
+978,🇧🇬,Flags,1F1E7 1F1EC
+979,🇧🇫,Flags,1F1E7 1F1EB
+980,🇧🇮,Flags,1F1E7 1F1EE
+981,🇰🇭,Flags,1F1F0 1F1ED
+982,🇨🇲,Flags,1F1E8 1F1F2
+983,🇨🇦,Flags,1F1E8 1F1E6
+984,🇮🇨,Flags,1F1EE 1F1E8
+985,🇨🇻,Flags,1F1E8 1F1FB
+986,🇧🇶,Flags,1F1E7 1F1F6
+987,🇰🇾,Flags,1F1F0 1F1FE
+988,🇨🇫,Flags,1F1E8 1F1EB
+989,🇪🇦,Flags,1F1EA 1F1E6
+990,🇹🇩,Flags,1F1F9 1F1E9
+991,🇨🇱,Flags,1F1E8 1F1F1
+992,🇨🇳,Flags,1F1E8 1F1F3
+993,🇨🇽,Flags,1F1E8 1F1FD
+994,🇨🇵,Flags,1F1E8 1F1F5
+995,🇨🇨,Flags,1F1E8 1F1E8
+996,🇨🇴,Flags,1F1E8 1F1F4
+997,🇰🇲,Flags,1F1F0 1F1F2
+998,🇨🇬,Flags,1F1E8 1F1EC
+999,🇨🇩,Flags,1F1E8 1F1E9
+1000,🇨🇰,Flags,1F1E8 1F1F0
+1001,🇨🇷,Flags,1F1E8 1F1F7
+1002,🇭🇷,Flags,1F1ED 1F1F7
+1003,🇨🇺,Flags,1F1E8 1F1FA
+1004,🇨🇼,Flags,1F1E8 1F1FC
+1005,🇨🇾,Flags,1F1E8 1F1FE
+1006,🇨🇿,Flags,1F1E8 1F1FF
+1007,🇨🇮,Flags,1F1E8 1F1EE
+1008,🇩🇰,Flags,1F1E9 1F1F0
+1009,🇩🇬,Flags,1F1E9 1F1EC
+1010,🇩🇯,Flags,1F1E9 1F1EF
+1011,🇩🇲,Flags,1F1E9 1F1F2
+1012,🇩🇴,Flags,1F1E9 1F1F4
+1013,🇪🇨,Flags,1F1EA 1F1E8
+1014,🇪🇬,Flags,1F1EA 1F1EC
+1015,🇸🇻,Flags,1F1F8 1F1FB
+1016,🇬🇶,Flags,1F1EC 1F1F6
+1017,🇪🇷,Flags,1F1EA 1F1F7
+1018,🇪🇪,Flags,1F1EA 1F1EA
+1019,🇸🇿,Flags,1F1F8 1F1FF
+1020,🇪🇹,Flags,1F1EA 1F1F9
+1021,🇪🇺,Flags,1F1EA 1F1FA
+1022,🇫🇰,Flags,1F1EB 1F1F0
+1023,🇫🇴,Flags,1F1EB 1F1F4
+1024,🇫🇯,Flags,1F1EB 1F1EF
+1025,🇫🇮,Flags,1F1EB 1F1EE
+1026,🇫🇷,Flags,1F1EB 1F1F7
+1027,🇬🇫,Flags,1F1EC 1F1EB
+1028,🇵🇫,Flags,1F1F5 1F1EB
+1029,🇹🇫,Flags,1F1F9 1F1EB
+1030,🇬🇦,Flags,1F1EC 1F1E6
+1031,🇬🇲,Flags,1F1EC 1F1F2
+1032,🇬🇪,Flags,1F1EC 1F1EA
+1033,🇩🇪,Flags,1F1E9 1F1EA
+1034,🇬🇭,Flags,1F1EC 1F1ED
+1035,🇬🇮,Flags,1F1EC 1F1EE
+1036,🇬🇷,Flags,1F1EC 1F1F7
+1037,🇬🇱,Flags,1F1EC 1F1F1
+1038,🇬🇩,Flags,1F1EC 1F1E9
+1039,🇬🇵,Flags,1F1EC 1F1F5
+1040,🇬🇺,Flags,1F1EC 1F1FA
+1041,🇬🇹,Flags,1F1EC 1F1F9
+1042,🇬🇬,Flags,1F1EC 1F1EC
+1043,🇬🇳,Flags,1F1EC 1F1F3
+1044,🇬🇼,Flags,1F1EC 1F1FC
+1045,🇬🇾,Flags,1F1EC 1F1FE
+1046,🇭🇹,Flags,1F1ED 1F1F9
+1047,🇭🇲,Flags,1F1ED 1F1F2
+1048,🇭🇳,Flags,1F1ED 1F1F3
+1049,🇭🇰,Flags,1F1ED 1F1F0
+1050,🇭🇺,Flags,1F1ED 1F1FA
+1051,🇮🇸,Flags,1F1EE 1F1F8
+1052,🇮🇳,Flags,1F1EE 1F1F3
+1053,🇮🇩,Flags,1F1EE 1F1E9
+1054,🇮🇷,Flags,1F1EE 1F1F7
+1055,🇮🇶,Flags,1F1EE 1F1F6
+1056,🇮🇪,Flags,1F1EE 1F1EA
+1057,🇮🇲,Flags,1F1EE 1F1F2
+1058,🇮🇱,Flags,1F1EE 1F1F1
+1059,🇮🇹,Flags,1F1EE 1F1F9
+1060,🇯🇲,Flags,1F1EF 1F1F2
+1061,🇯🇵,Flags,1F1EF 1F1F5
+1062,🇯🇪,Flags,1F1EF 1F1EA
+1063,🇯🇴,Flags,1F1EF 1F1F4
+1064,🇰🇿,Flags,1F1F0 1F1FF
+1065,🇰🇪,Flags,1F1F0 1F1EA
+1066,🇰🇮,Flags,1F1F0 1F1EE
+1067,🇽🇰,Flags,1F1FD 1F1F0
+1068,🇰🇼,Flags,1F1F0 1F1FC
+1069,🇰🇬,Flags,1F1F0 1F1EC
+1070,🇱🇦,Flags,1F1F1 1F1E6
+1071,🇱🇻,Flags,1F1F1 1F1FB
+1072,🇱🇧,Flags,1F1F1 1F1E7
+1073,🇱🇸,Flags,1F1F1 1F1F8
+1074,🇱🇷,Flags,1F1F1 1F1F7
+1075,🇱🇾,Flags,1F1F1 1F1FE
+1076,🇱🇮,Flags,1F1F1 1F1EE
+1077,🇱🇹,Flags,1F1F1 1F1F9
+1078,🇱🇺,Flags,1F1F1 1F1FA
+1079,🇲🇴,Flags,1F1F2 1F1F4
+1080,🇲🇬,Flags,1F1F2 1F1EC
+1081,🇲🇼,Flags,1F1F2 1F1FC
+1082,🇲🇾,Flags,1F1F2 1F1FE
+1083,🇲🇻,Flags,1F1F2 1F1FB
+1084,🇲🇱,Flags,1F1F2 1F1F1
+1085,🇲🇹,Flags,1F1F2 1F1F9
+1086,🇲🇭,Flags,1F1F2 1F1ED
+1087,🇲🇶,Flags,1F1F2 1F1F6
+1088,🇲🇷,Flags,1F1F2 1F1F7
+1089,🇲🇺,Flags,1F1F2 1F1FA
+1090,🇾🇹,Flags,1F1FE 1F1F9
+1091,🇲🇽,Flags,1F1F2 1F1FD
+1092,🇫🇲,Flags,1F1EB 1F1F2
+1093,🇲🇩,Flags,1F1F2 1F1E9
+1094,🇲🇨,Flags,1F1F2 1F1E8
+1095,🇲🇳,Flags,1F1F2 1F1F3
+1096,🇲🇪,Flags,1F1F2 1F1EA
+1097,🇲🇸,Flags,1F1F2 1F1F8
+1098,🇲🇦,Flags,1F1F2 1F1E6
+1099,🇲🇿,Flags,1F1F2 1F1FF
+1100,🇲🇲,Flags,1F1F2 1F1F2
+1101,🇳🇦,Flags,1F1F3 1F1E6
+1102,🇳🇷,Flags,1F1F3 1F1F7
+1103,🇳🇵,Flags,1F1F3 1F1F5
+1104,🇳🇱,Flags,1F1F3 1F1F1
+1105,🇳🇨,Flags,1F1F3 1F1E8
+1106,🇳🇿,Flags,1F1F3 1F1FF
+1107,🇳🇮,Flags,1F1F3 1F1EE
+1108,🇳🇪,Flags,1F1F3 1F1EA
+1109,🇳🇬,Flags,1F1F3 1F1EC
+1110,🇳🇺,Flags,1F1F3 1F1FA
+1111,🇳🇫,Flags,1F1F3 1F1EB
+1112,🇰🇵,Flags,1F1F0 1F1F5
+1113,🇲🇰,Flags,1F1F2 1F1F0
+1114,🇲🇵,Flags,1F1F2 1F1F5
+1115,🇳🇴,Flags,1F1F3 1F1F4
+1116,🇴🇲,Flags,1F1F4 1F1F2
+1117,🇵🇰,Flags,1F1F5 1F1F0
+1118,🇵🇼,Flags,1F1F5 1F1FC
+1119,🇵🇸,Flags,1F1F5 1F1F8
+1120,🇵🇦,Flags,1F1F5 1F1E6
+1121,🇵🇬,Flags,1F1F5 1F1EC
+1122,🇵🇾,Flags,1F1F5 1F1FE
+1123,🇵🇪,Flags,1F1F5 1F1EA
+1124,🇵🇭,Flags,1F1F5 1F1ED
+1125,🇵🇳,Flags,1F1F5 1F1F3
+1126,🇵🇱,Flags,1F1F5 1F1F1
+1127,🇵🇹,Flags,1F1F5 1F1F9
+1128,🇵🇷,Flags,1F1F5 1F1F7
+1129,🇶🇦,Flags,1F1F6 1F1E6
+1130,🇷🇴,Flags,1F1F7 1F1F4
+1131,🇷🇺,Flags,1F1F7 1F1FA
+1132,🇷🇼,Flags,1F1F7 1F1FC
+1133,🇷🇪,Flags,1F1F7 1F1EA
+1134,🇼🇸,Flags,1F1FC 1F1F8
+1135,🇸🇲,Flags,1F1F8 1F1F2
+1136,🇸🇦,Flags,1F1F8 1F1E6
+1137,🇸🇳,Flags,1F1F8 1F1F3
+1138,🇷🇸,Flags,1F1F7 1F1F8
+1139,🇸🇨,Flags,1F1F8 1F1E8
+1140,🇸🇱,Flags,1F1F8 1F1F1
+1141,🇸🇬,Flags,1F1F8 1F1EC
+1142,🇸🇽,Flags,1F1F8 1F1FD
+1143,🇸🇰,Flags,1F1F8 1F1F0
+1144,🇸🇮,Flags,1F1F8 1F1EE
+1145,🇸🇧,Flags,1F1F8 1F1E7
+1146,🇸🇴,Flags,1F1F8 1F1F4
+1147,🇿🇦,Flags,1F1FF 1F1E6
+1148,🇬🇸,Flags,1F1EC 1F1F8
+1149,🇰🇷,Flags,1F1F0 1F1F7
+1150,🇸🇸,Flags,1F1F8 1F1F8
+1151,🇪🇸,Flags,1F1EA 1F1F8
+1152,🇱🇰,Flags,1F1F1 1F1F0
+1153,🇧🇱,Flags,1F1E7 1F1F1
+1154,🇸🇭,Flags,1F1F8 1F1ED
+1155,🇰🇳,Flags,1F1F0 1F1F3
+1156,🇱🇨,Flags,1F1F1 1F1E8
+1157,🇲🇫,Flags,1F1F2 1F1EB
+1158,🇵🇲,Flags,1F1F5 1F1F2
+1159,🇻🇨,Flags,1F1FB 1F1E8
+1160,🇸🇩,Flags,1F1F8 1F1E9
+1161,🇸🇷,Flags,1F1F8 1F1F7
+1162,🇸🇯,Flags,1F1F8 1F1EF
+1163,🇸🇪,Flags,1F1F8 1F1EA
+1164,🇨🇭,Flags,1F1E8 1F1ED
+1165,🇸🇾,Flags,1F1F8 1F1FE
+1166,🇸🇹,Flags,1F1F8 1F1F9
+1167,🇹🇼,Flags,1F1F9 1F1FC
+1168,🇹🇯,Flags,1F1F9 1F1EF
+1169,🇹🇿,Flags,1F1F9 1F1FF
+1170,🇹🇭,Flags,1F1F9 1F1ED
+1171,🇹🇱,Flags,1F1F9 1F1F1
+1172,🇹🇬,Flags,1F1F9 1F1EC
+1173,🇹🇰,Flags,1F1F9 1F1F0
+1174,🇹🇴,Flags,1F1F9 1F1F4
+1175,🇹🇹,Flags,1F1F9 1F1F9
+1176,🇹🇦,Flags,1F1F9 1F1E6
+1177,🇹🇳,Flags,1F1F9 1F1F3
+1178,🇹🇲,Flags,1F1F9 1F1F2
+1179,🇹🇨,Flags,1F1F9 1F1E8
+1180,🇹🇻,Flags,1F1F9 1F1FB
+1181,🇹🇷,Flags,1F1F9 1F1F7
+1182,🇺🇲,Flags,1F1FA 1F1F2
+1183,🇻🇮,Flags,1F1FB 1F1EE
+1184,🇺🇬,Flags,1F1FA 1F1EC
+1185,🇺🇦,Flags,1F1FA 1F1E6
+1186,🇦🇪,Flags,1F1E6 1F1EA
+1187,🇬🇧,Flags,1F1EC 1F1E7
+1188,🇺🇸,Flags,1F1FA 1F1F8
+1189,🇺🇾,Flags,1F1FA 1F1FE
+1190,🇺🇿,Flags,1F1FA 1F1FF
+1191,🇻🇺,Flags,1F1FB 1F1FA
+1192,🇻🇦,Flags,1F1FB 1F1E6
+1193,🇻🇪,Flags,1F1FB 1F1EA
+1194,🇻🇳,Flags,1F1FB 1F1F3
+1195,🇼🇫,Flags,1F1FC 1F1EB
+1196,🇪🇭,Flags,1F1EA 1F1ED
+1197,🇾🇪,Flags,1F1FE 1F1EA
+1198,🇿🇲,Flags,1F1FF 1F1F2
+1199,🇿🇼,Flags,1F1FF 1F1FC
+1200,🇦🇽,Flags,1F1E6 1F1FD
+1201,🆎,Symbols,1F18E
+1202,🏧,Symbols,1F3E7
+1204,🅰,Symbols,1F170
+1205,♒,Symbols,2652
+1206,♈,Symbols,2648
+1207,🔙,Symbols,1F519
+1209,🅱,Symbols,1F171
+1210,🆑,Symbols,1F191
+1211,🆒,Symbols,1F192
+1212,♋,Symbols,264B
+1213,♑,Symbols,2651
+1214,🎄,Activities,1F384
+1215,🔚,Symbols,1F51A
+1216,🏴󠁧󠁢󠁥󠁮󠁧󠁿,Flags,1F3F4 E0067 E0062 E0065 E006E E0067 E007F
+1217,🆓,Symbols,1F193
+1218,♊,Symbols,264A
+1219,🆔,Symbols,1F194
+1220,🉑,Symbols,1F251
+1221,🈸,Symbols,1F238
+1222,🉐,Symbols,1F250
+1224,㊗,Symbols,3297
+1225,🈹,Symbols,1F239
+1226,🈚,Symbols,1F21A
+1227,🈁,Symbols,1F201
+1229,🈷,Symbols,1F237
+1230,🈵,Symbols,1F235
+1231,🈶,Symbols,1F236
+1232,🈺,Symbols,1F23A
+1233,🈴,Symbols,1F234
+1234,🈲,Symbols,1F232
+1235,🈯,Symbols,1F22F
+1237,㊙,Symbols,3299
+1239,🈂,Symbols,1F202
+1240,🔰,Symbols,1F530
+1241,🈳,Symbols,1F233
+1242,♌,Symbols,264C
+1243,♎,Symbols,264E
+1244,🤶🏿,People & Body,1F936 1F3FF
+1245,🤶🏻,People & Body,1F936 1F3FB
+1246,🤶🏾,People & Body,1F936 1F3FE
+1247,🤶🏼,People & Body,1F936 1F3FC
+1248,🤶🏽,People & Body,1F936 1F3FD
+1249,🆕,Symbols,1F195
+1250,🆖,Symbols,1F196
+1251,🆗,Symbols,1F197
+1252,👌🏿,People & Body,1F44C 1F3FF
+1253,👌🏻,People & Body,1F44C 1F3FB
+1254,👌🏾,People & Body,1F44C 1F3FE
+1255,👌🏼,People & Body,1F44C 1F3FC
+1256,👌🏽,People & Body,1F44C 1F3FD
+1257,🔛,Symbols,1F51B
+1259,🅾,Symbols,1F17E
+1260,⛎,Symbols,26CE
+1262,🅿,Symbols,1F17F
+1263,♓,Symbols,2653
+1264,🔜,Symbols,1F51C
+1265,🆘,Symbols,1F198
+1266,♐,Symbols,2650
+1267,🎅🏿,People & Body,1F385 1F3FF
+1268,🎅🏻,People & Body,1F385 1F3FB
+1269,🎅🏾,People & Body,1F385 1F3FE
+1270,🎅🏼,People & Body,1F385 1F3FC
+1271,🎅🏽,People & Body,1F385 1F3FD
+1272,♏,Symbols,264F
+1273,🏴󠁧󠁢󠁳󠁣󠁴󠁿,Flags,1F3F4 E0067 E0062 E0073 E0063 E0074 E007F
+1274,🔝,Symbols,1F51D
+1275,♉,Symbols,2649
+1276,🆙,Symbols,1F199
+1277,🇺🇳,Flags,1F1FA 1F1F3
+1278,🆚,Symbols,1F19A
+1279,♍,Symbols,264D
+1280,🏴󠁧󠁢󠁷󠁬󠁳󠁿,Flags,1F3F4 E0067 E0062 E0077 E006C E0073 E007F
+1281,💤,Smileys & Emotion,1F4A4
+1282,🪗,Objects,1FA97
+1284,🎟,Activities,1F39F
+1285,✈,Travel & Places,2708
+1286,⚗,Objects,2697
+1287,🫀,People & Body,1FAC0
+1288,💢,Smileys & Emotion,1F4A2
+1289,📶,Symbols,1F4F6
+1290,🧑‍🎨,People & Body,1F9D1 200D 1F3A8
+1291,🧑🏿‍🎨,People & Body,1F9D1 1F3FF 200D 1F3A8
+1292,🧑🏻‍🎨,People & Body,1F9D1 1F3FB 200D 1F3A8
+1293,🧑🏾‍🎨,People & Body,1F9D1 1F3FE 200D 1F3A8
+1294,🧑🏼‍🎨,People & Body,1F9D1 1F3FC 200D 1F3A8
+1295,🧑🏽‍🎨,People & Body,1F9D1 1F3FD 200D 1F3A8
+1296,🧑‍🚀,People & Body,1F9D1 200D 1F680
+1297,🧑🏿‍🚀,People & Body,1F9D1 1F3FF 200D 1F680
+1298,🧑🏻‍🚀,People & Body,1F9D1 1F3FB 200D 1F680
+1299,🧑🏾‍🚀,People & Body,1F9D1 1F3FE 200D 1F680
+1300,🧑🏼‍🚀,People & Body,1F9D1 1F3FC 200D 1F680
+1301,🧑🏽‍🚀,People & Body,1F9D1 1F3FD 200D 1F680
+1303,⚛,Symbols,269B
+1304,👶,People & Body,1F476
+1305,👼🏿,People & Body,1F47C 1F3FF
+1306,👼🏻,People & Body,1F47C 1F3FB
+1307,👼🏾,People & Body,1F47C 1F3FE
+1308,👼🏼,People & Body,1F47C 1F3FC
+1309,👼🏽,People & Body,1F47C 1F3FD
+1310,👶🏿,People & Body,1F476 1F3FF
+1311,👶🏻,People & Body,1F476 1F3FB
+1312,👶🏾,People & Body,1F476 1F3FE
+1313,👶🏼,People & Body,1F476 1F3FC
+1314,👶🏽,People & Body,1F476 1F3FD
+1315,🚼,Symbols,1F6BC
+1316,👇🏿,People & Body,1F447 1F3FF
+1317,👇🏻,People & Body,1F447 1F3FB
+1318,👇🏾,People & Body,1F447 1F3FE
+1319,👇🏼,People & Body,1F447 1F3FC
+1320,👇🏽,People & Body,1F447 1F3FD
+1321,👈🏿,People & Body,1F448 1F3FF
+1322,👈🏻,People & Body,1F448 1F3FB
+1323,👈🏾,People & Body,1F448 1F3FE
+1324,👈🏼,People & Body,1F448 1F3FC
+1325,👈🏽,People & Body,1F448 1F3FD
+1326,👉🏿,People & Body,1F449 1F3FF
+1327,👉🏻,People & Body,1F449 1F3FB
+1328,👉🏾,People & Body,1F449 1F3FE
+1329,👉🏼,People & Body,1F449 1F3FC
+1330,👉🏽,People & Body,1F449 1F3FD
+1331,👆🏿,People & Body,1F446 1F3FF
+1332,👆🏻,People & Body,1F446 1F3FB
+1333,👆🏾,People & Body,1F446 1F3FE
+1334,👆🏼,People & Body,1F446 1F3FC
+1335,👆🏽,People & Body,1F446 1F3FD
+1336,🎒,Objects,1F392
+1337,🛄,Symbols,1F6C4
+1338,⚖,Objects,2696
+1339,🩰,Objects,1FA70
+1340,🗳,Objects,1F5F3
+1341,🪕,Objects,1FA95
+1342,🏖,Travel & Places,1F3D6
+1343,🫘,Food & Drink,1FAD8
+1344,💓,Smileys & Emotion,1F493
+1345,🛏,Objects,1F6CF
+1346,🔔,Objects,1F514
+1347,🔕,Objects,1F515
+1348,🛎,Travel & Places,1F6CE
+1349,👙,Objects,1F459
+1350,🧢,Objects,1F9E2
+1352,☣,Symbols,2623
+1354,⚫,Symbols,26AB
+1355,🏴,Flags,1F3F4
+1356,🖤,Smileys & Emotion,1F5A4
+1357,⬛,Symbols,2B1B
+1358,◾,Symbols,25FE
+1360,◼,Symbols,25FC
+1361,✒,Objects,2712
+1363,▪,Symbols,25AA
+1364,🔲,Symbols,1F532
+1365,🌼,Animals & Nature,1F33C
+1366,🔵,Symbols,1F535
+1367,💙,Smileys & Emotion,1F499
+1368,🟦,Symbols,1F7E6
+1369,🦴,People & Body,1F9B4
+1370,🪃,Objects,1FA83
+1371,💐,Animals & Nature,1F490
+1372,🏹,Objects,1F3F9
+1373,🥣,Food & Drink,1F963
+1374,👦,People & Body,1F466
+1375,👦🏿,People & Body,1F466 1F3FF
+1376,👦🏻,People & Body,1F466 1F3FB
+1377,👦🏾,People & Body,1F466 1F3FE
+1378,👦🏼,People & Body,1F466 1F3FC
+1379,👦🏽,People & Body,1F466 1F3FD
+1380,🧠,People & Body,1F9E0
+1381,🤱🏿,People & Body,1F931 1F3FF
+1382,🤱🏻,People & Body,1F931 1F3FB
+1383,🤱🏾,People & Body,1F931 1F3FE
+1384,🤱🏼,People & Body,1F931 1F3FC
+1385,🤱🏽,People & Body,1F931 1F3FD
+1386,💼,Objects,1F4BC
+1387,🩲,Objects,1FA72
+1388,🔆,Symbols,1F506
+1389,💔,Smileys & Emotion,1F494
+1390,🟤,Symbols,1F7E4
+1391,🤎,Smileys & Emotion,1F90E
+1392,🟫,Symbols,1F7EB
+1393,🫧,Objects,1FAE7
+1394,🏗,Travel & Places,1F3D7
+1395,👤,People & Body,1F464
+1396,👥,People & Body,1F465
+1397,🌵,Animals & Nature,1F335
+1398,🤙🏿,People & Body,1F919 1F3FF
+1399,🤙🏻,People & Body,1F919 1F3FB
+1400,🤙🏾,People & Body,1F919 1F3FE
+1401,🤙🏼,People & Body,1F919 1F3FC
+1402,🤙🏽,People & Body,1F919 1F3FD
+1403,🏕,Travel & Places,1F3D5
+1404,🕯,Objects,1F56F
+1405,🗃,Objects,1F5C3
+1406,🗂,Objects,1F5C2
+1407,⛓,Objects,26D3
+1408,💹,Objects,1F4B9
+1410,☑,Symbols,2611
+1412,✔,Symbols,2714
+1413,✅,Symbols,2705
+1414,🏁,Flags,1F3C1
+1415,🌸,Animals & Nature,1F338
+1416,♟,Activities,265F
+1417,🧒,People & Body,1F9D2
+1418,🧒🏿,People & Body,1F9D2 1F3FF
+1419,🧒🏻,People & Body,1F9D2 1F3FB
+1420,🧒🏾,People & Body,1F9D2 1F3FE
+1421,🧒🏼,People & Body,1F9D2 1F3FC
+1422,🧒🏽,People & Body,1F9D2 1F3FD
+1423,🚸,Symbols,1F6B8
+1424,🐿,Animals & Nature,1F43F
+1425,🥢,Food & Drink,1F962
+1426,🎦,Symbols,1F3A6
+1428,Ⓜ,Symbols,24C2
+1429,🏙,Travel & Places,1F3D9
+1430,🗜,Objects,1F5DC
+1431,🎬,Objects,1F3AC
+1432,👏🏿,People & Body,1F44F 1F3FF
+1433,👏🏻,People & Body,1F44F 1F3FB
+1434,👏🏾,People & Body,1F44F 1F3FE
+1435,👏🏼,People & Body,1F44F 1F3FC
+1436,👏🏽,People & Body,1F44F 1F3FD
+1437,🏛,Travel & Places,1F3DB
+1438,🔃,Symbols,1F503
+1439,🌂,Travel & Places,1F302
+1441,☁,Travel & Places,2601
+1443,🌩,Travel & Places,1F329
+1445,⛈,Travel & Places,26C8
+1447,🌧,Travel & Places,1F327
+1449,🌨,Travel & Places,1F328
+1450,♣,Activities,2663
+1451,👝,Objects,1F45D
+1452,🧥,Objects,1F9E5
+1453,⚰,Objects,26B0
+1454,🪙,Objects,1FA99
+1455,💥,Smileys & Emotion,1F4A5
+1457,☄,Travel & Places,2604
+1458,🖱,Objects,1F5B1
+1459,👷🏿,People & Body,1F477 1F3FF
+1460,👷🏻,People & Body,1F477 1F3FB
+1461,👷🏾,People & Body,1F477 1F3FE
+1462,👷🏼,People & Body,1F477 1F3FC
+1463,👷🏽,People & Body,1F477 1F3FD
+1464,🎛,Objects,1F39B
+1465,🧑‍🍳,People & Body,1F9D1 200D 1F373
+1466,🧑🏿‍🍳,People & Body,1F9D1 1F3FF 200D 1F373
+1467,🧑🏻‍🍳,People & Body,1F9D1 1F3FB 200D 1F373
+1468,🧑🏾‍🍳,People & Body,1F9D1 1F3FE 200D 1F373
+1469,🧑🏼‍🍳,People & Body,1F9D1 1F3FC 200D 1F373
+1470,🧑🏽‍🍳,People & Body,1F9D1 1F3FD 200D 1F373
+1473,🪸,Animals & Nature,1FAB8
+1474,🛋,Objects,1F6CB
+1475,🔄,Symbols,1F504
+1476,💑,People & Body,1F491
+1477,💑🏿,People & Body,1F491 1F3FF
+1478,💑🏻,People & Body,1F491 1F3FB
+1479,👨‍❤️‍👨,People & Body,1F468 200D 2764 FE0F 200D 1F468
+1481,👨🏿‍❤️‍👨🏿,People & Body,1F468 1F3FF 200D 2764 FE0F 200D 1F468 1F3FF
+1483,👨🏿‍❤️‍👨🏻,People & Body,1F468 1F3FF 200D 2764 FE0F 200D 1F468 1F3FB
+1485,👨🏿‍❤️‍👨🏾,People & Body,1F468 1F3FF 200D 2764 FE0F 200D 1F468 1F3FE
+1487,👨🏿‍❤️‍👨🏼,People & Body,1F468 1F3FF 200D 2764 FE0F 200D 1F468 1F3FC
+1489,👨🏿‍❤️‍👨🏽,People & Body,1F468 1F3FF 200D 2764 FE0F 200D 1F468 1F3FD
+1491,👨🏻‍❤️‍👨🏻,People & Body,1F468 1F3FB 200D 2764 FE0F 200D 1F468 1F3FB
+1493,👨🏻‍❤️‍👨🏿,People & Body,1F468 1F3FB 200D 2764 FE0F 200D 1F468 1F3FF
+1495,👨🏻‍❤️‍👨🏾,People & Body,1F468 1F3FB 200D 2764 FE0F 200D 1F468 1F3FE
+1497,👨🏻‍❤️‍👨🏼,People & Body,1F468 1F3FB 200D 2764 FE0F 200D 1F468 1F3FC
+1499,👨🏻‍❤️‍👨🏽,People & Body,1F468 1F3FB 200D 2764 FE0F 200D 1F468 1F3FD
+1501,👨🏾‍❤️‍👨🏾,People & Body,1F468 1F3FE 200D 2764 FE0F 200D 1F468 1F3FE
+1503,👨🏾‍❤️‍👨🏿,People & Body,1F468 1F3FE 200D 2764 FE0F 200D 1F468 1F3FF
+1505,👨🏾‍❤️‍👨🏻,People & Body,1F468 1F3FE 200D 2764 FE0F 200D 1F468 1F3FB
+1507,👨🏾‍❤️‍👨🏼,People & Body,1F468 1F3FE 200D 2764 FE0F 200D 1F468 1F3FC
+1509,👨🏾‍❤️‍👨🏽,People & Body,1F468 1F3FE 200D 2764 FE0F 200D 1F468 1F3FD
+1511,👨🏼‍❤️‍👨🏼,People & Body,1F468 1F3FC 200D 2764 FE0F 200D 1F468 1F3FC
+1513,👨🏼‍❤️‍👨🏿,People & Body,1F468 1F3FC 200D 2764 FE0F 200D 1F468 1F3FF
+1515,👨🏼‍❤️‍👨🏻,People & Body,1F468 1F3FC 200D 2764 FE0F 200D 1F468 1F3FB
+1517,👨🏼‍❤️‍👨🏾,People & Body,1F468 1F3FC 200D 2764 FE0F 200D 1F468 1F3FE
+1519,👨🏼‍❤️‍👨🏽,People & Body,1F468 1F3FC 200D 2764 FE0F 200D 1F468 1F3FD
+1521,👨🏽‍❤️‍👨🏽,People & Body,1F468 1F3FD 200D 2764 FE0F 200D 1F468 1F3FD
+1523,👨🏽‍❤️‍👨🏿,People & Body,1F468 1F3FD 200D 2764 FE0F 200D 1F468 1F3FF
+1525,👨🏽‍❤️‍👨🏻,People & Body,1F468 1F3FD 200D 2764 FE0F 200D 1F468 1F3FB
+1527,👨🏽‍❤️‍👨🏾,People & Body,1F468 1F3FD 200D 2764 FE0F 200D 1F468 1F3FE
+1529,👨🏽‍❤️‍👨🏼,People & Body,1F468 1F3FD 200D 2764 FE0F 200D 1F468 1F3FC
+1531,💑🏾,People & Body,1F491 1F3FE
+1532,💑🏼,People & Body,1F491 1F3FC
+1533,💑🏽,People & Body,1F491 1F3FD
+1534,🧑🏿‍❤️‍🧑🏻,People & Body,1F9D1 1F3FF 200D 2764 FE0F 200D 1F9D1 1F3FB
+1536,🧑🏿‍❤️‍🧑🏾,People & Body,1F9D1 1F3FF 200D 2764 FE0F 200D 1F9D1 1F3FE
+1538,🧑🏿‍❤️‍🧑🏼,People & Body,1F9D1 1F3FF 200D 2764 FE0F 200D 1F9D1 1F3FC
+1540,🧑🏿‍❤️‍🧑🏽,People & Body,1F9D1 1F3FF 200D 2764 FE0F 200D 1F9D1 1F3FD
+1542,🧑🏻‍❤️‍🧑🏿,People & Body,1F9D1 1F3FB 200D 2764 FE0F 200D 1F9D1 1F3FF
+1544,🧑🏻‍❤️‍🧑🏾,People & Body,1F9D1 1F3FB 200D 2764 FE0F 200D 1F9D1 1F3FE
+1546,🧑🏻‍❤️‍🧑🏼,People & Body,1F9D1 1F3FB 200D 2764 FE0F 200D 1F9D1 1F3FC
+1548,🧑🏻‍❤️‍🧑🏽,People & Body,1F9D1 1F3FB 200D 2764 FE0F 200D 1F9D1 1F3FD
+1550,🧑🏾‍❤️‍🧑🏿,People & Body,1F9D1 1F3FE 200D 2764 FE0F 200D 1F9D1 1F3FF
+1552,🧑🏾‍❤️‍🧑🏻,People & Body,1F9D1 1F3FE 200D 2764 FE0F 200D 1F9D1 1F3FB
+1554,🧑🏾‍❤️‍🧑🏼,People & Body,1F9D1 1F3FE 200D 2764 FE0F 200D 1F9D1 1F3FC
+1556,🧑🏾‍❤️‍🧑🏽,People & Body,1F9D1 1F3FE 200D 2764 FE0F 200D 1F9D1 1F3FD
+1558,🧑🏼‍❤️‍🧑🏿,People & Body,1F9D1 1F3FC 200D 2764 FE0F 200D 1F9D1 1F3FF
+1560,🧑🏼‍❤️‍🧑🏻,People & Body,1F9D1 1F3FC 200D 2764 FE0F 200D 1F9D1 1F3FB
+1562,🧑🏼‍❤️‍🧑🏾,People & Body,1F9D1 1F3FC 200D 2764 FE0F 200D 1F9D1 1F3FE
+1564,🧑🏼‍❤️‍🧑🏽,People & Body,1F9D1 1F3FC 200D 2764 FE0F 200D 1F9D1 1F3FD
+1566,🧑🏽‍❤️‍🧑🏿,People & Body,1F9D1 1F3FD 200D 2764 FE0F 200D 1F9D1 1F3FF
+1568,🧑🏽‍❤️‍🧑🏻,People & Body,1F9D1 1F3FD 200D 2764 FE0F 200D 1F9D1 1F3FB
+1570,🧑🏽‍❤️‍🧑🏾,People & Body,1F9D1 1F3FD 200D 2764 FE0F 200D 1F9D1 1F3FE
+1572,🧑🏽‍❤️‍🧑🏼,People & Body,1F9D1 1F3FD 200D 2764 FE0F 200D 1F9D1 1F3FC
+1574,👩‍❤️‍👨,People & Body,1F469 200D 2764 FE0F 200D 1F468
+1576,👩🏿‍❤️‍👨🏿,People & Body,1F469 1F3FF 200D 2764 FE0F 200D 1F468 1F3FF
+1578,👩🏿‍❤️‍👨🏻,People & Body,1F469 1F3FF 200D 2764 FE0F 200D 1F468 1F3FB
+1580,👩🏿‍❤️‍👨🏾,People & Body,1F469 1F3FF 200D 2764 FE0F 200D 1F468 1F3FE
+1582,👩🏿‍❤️‍👨🏼,People & Body,1F469 1F3FF 200D 2764 FE0F 200D 1F468 1F3FC
+1584,👩🏿‍❤️‍👨🏽,People & Body,1F469 1F3FF 200D 2764 FE0F 200D 1F468 1F3FD
+1586,👩🏻‍❤️‍👨🏻,People & Body,1F469 1F3FB 200D 2764 FE0F 200D 1F468 1F3FB
+1588,👩🏻‍❤️‍👨🏿,People & Body,1F469 1F3FB 200D 2764 FE0F 200D 1F468 1F3FF
+1590,👩🏻‍❤️‍👨🏾,People & Body,1F469 1F3FB 200D 2764 FE0F 200D 1F468 1F3FE
+1592,👩🏻‍❤️‍👨🏼,People & Body,1F469 1F3FB 200D 2764 FE0F 200D 1F468 1F3FC
+1594,👩🏻‍❤️‍👨🏽,People & Body,1F469 1F3FB 200D 2764 FE0F 200D 1F468 1F3FD
+1596,👩🏾‍❤️‍👨🏾,People & Body,1F469 1F3FE 200D 2764 FE0F 200D 1F468 1F3FE
+1598,👩🏾‍❤️‍👨🏿,People & Body,1F469 1F3FE 200D 2764 FE0F 200D 1F468 1F3FF
+1600,👩🏾‍❤️‍👨🏻,People & Body,1F469 1F3FE 200D 2764 FE0F 200D 1F468 1F3FB
+1602,👩🏾‍❤️‍👨🏼,People & Body,1F469 1F3FE 200D 2764 FE0F 200D 1F468 1F3FC
+1604,👩🏾‍❤️‍👨🏽,People & Body,1F469 1F3FE 200D 2764 FE0F 200D 1F468 1F3FD
+1606,👩🏼‍❤️‍👨🏼,People & Body,1F469 1F3FC 200D 2764 FE0F 200D 1F468 1F3FC
+1608,👩🏼‍❤️‍👨🏿,People & Body,1F469 1F3FC 200D 2764 FE0F 200D 1F468 1F3FF
+1610,👩🏼‍❤️‍👨🏻,People & Body,1F469 1F3FC 200D 2764 FE0F 200D 1F468 1F3FB
+1612,👩🏼‍❤️‍👨🏾,People & Body,1F469 1F3FC 200D 2764 FE0F 200D 1F468 1F3FE
+1614,👩🏼‍❤️‍👨🏽,People & Body,1F469 1F3FC 200D 2764 FE0F 200D 1F468 1F3FD
+1616,👩🏽‍❤️‍👨🏽,People & Body,1F469 1F3FD 200D 2764 FE0F 200D 1F468 1F3FD
+1618,👩🏽‍❤️‍👨🏿,People & Body,1F469 1F3FD 200D 2764 FE0F 200D 1F468 1F3FF
+1620,👩🏽‍❤️‍👨🏻,People & Body,1F469 1F3FD 200D 2764 FE0F 200D 1F468 1F3FB
+1622,👩🏽‍❤️‍👨🏾,People & Body,1F469 1F3FD 200D 2764 FE0F 200D 1F468 1F3FE
+1624,👩🏽‍❤️‍👨🏼,People & Body,1F469 1F3FD 200D 2764 FE0F 200D 1F468 1F3FC
+1626,👩‍❤️‍👩,People & Body,1F469 200D 2764 FE0F 200D 1F469
+1628,👩🏿‍❤️‍👩🏿,People & Body,1F469 1F3FF 200D 2764 FE0F 200D 1F469 1F3FF
+1630,👩🏿‍❤️‍👩🏻,People & Body,1F469 1F3FF 200D 2764 FE0F 200D 1F469 1F3FB
+1632,👩🏿‍❤️‍👩🏾,People & Body,1F469 1F3FF 200D 2764 FE0F 200D 1F469 1F3FE
+1634,👩🏿‍❤️‍👩🏼,People & Body,1F469 1F3FF 200D 2764 FE0F 200D 1F469 1F3FC
+1636,👩🏿‍❤️‍👩🏽,People & Body,1F469 1F3FF 200D 2764 FE0F 200D 1F469 1F3FD
+1638,👩🏻‍❤️‍👩🏻,People & Body,1F469 1F3FB 200D 2764 FE0F 200D 1F469 1F3FB
+1640,👩🏻‍❤️‍👩🏿,People & Body,1F469 1F3FB 200D 2764 FE0F 200D 1F469 1F3FF
+1642,👩🏻‍❤️‍👩🏾,People & Body,1F469 1F3FB 200D 2764 FE0F 200D 1F469 1F3FE
+1644,👩🏻‍❤️‍👩🏼,People & Body,1F469 1F3FB 200D 2764 FE0F 200D 1F469 1F3FC
+1646,👩🏻‍❤️‍👩🏽,People & Body,1F469 1F3FB 200D 2764 FE0F 200D 1F469 1F3FD
+1648,👩🏾‍❤️‍👩🏾,People & Body,1F469 1F3FE 200D 2764 FE0F 200D 1F469 1F3FE
+1650,👩🏾‍❤️‍👩🏿,People & Body,1F469 1F3FE 200D 2764 FE0F 200D 1F469 1F3FF
+1652,👩🏾‍❤️‍👩🏻,People & Body,1F469 1F3FE 200D 2764 FE0F 200D 1F469 1F3FB
+1654,👩🏾‍❤️‍👩🏼,People & Body,1F469 1F3FE 200D 2764 FE0F 200D 1F469 1F3FC
+1656,👩🏾‍❤️‍👩🏽,People & Body,1F469 1F3FE 200D 2764 FE0F 200D 1F469 1F3FD
+1658,👩🏼‍❤️‍👩🏼,People & Body,1F469 1F3FC 200D 2764 FE0F 200D 1F469 1F3FC
+1660,👩🏼‍❤️‍👩🏿,People & Body,1F469 1F3FC 200D 2764 FE0F 200D 1F469 1F3FF
+1662,👩🏼‍❤️‍👩🏻,People & Body,1F469 1F3FC 200D 2764 FE0F 200D 1F469 1F3FB
+1664,👩🏼‍❤️‍👩🏾,People & Body,1F469 1F3FC 200D 2764 FE0F 200D 1F469 1F3FE
+1666,👩🏼‍❤️‍👩🏽,People & Body,1F469 1F3FC 200D 2764 FE0F 200D 1F469 1F3FD
+1668,👩🏽‍❤️‍👩🏽,People & Body,1F469 1F3FD 200D 2764 FE0F 200D 1F469 1F3FD
+1670,👩🏽‍❤️‍👩🏿,People & Body,1F469 1F3FD 200D 2764 FE0F 200D 1F469 1F3FF
+1672,👩🏽‍❤️‍👩🏻,People & Body,1F469 1F3FD 200D 2764 FE0F 200D 1F469 1F3FB
+1674,👩🏽‍❤️‍👩🏾,People & Body,1F469 1F3FD 200D 2764 FE0F 200D 1F469 1F3FE
+1676,👩🏽‍❤️‍👩🏼,People & Body,1F469 1F3FD 200D 2764 FE0F 200D 1F469 1F3FC
+1678,🖍,Objects,1F58D
+1679,🌙,Travel & Places,1F319
+1680,❌,Symbols,274C
+1681,❎,Symbols,274E
+1682,🤞🏿,People & Body,1F91E 1F3FF
+1683,🤞🏻,People & Body,1F91E 1F3FB
+1684,🤞🏾,People & Body,1F91E 1F3FE
+1685,🤞🏼,People & Body,1F91E 1F3FC
+1686,🤞🏽,People & Body,1F91E 1F3FD
+1687,🎌,Flags,1F38C
+1688,⚔,Objects,2694
+1689,👑,Objects,1F451
+1690,🩼,Objects,1FA7C
+1691,➰,Symbols,27B0
+1692,💱,Symbols,1F4B1
+1693,🛃,Symbols,1F6C3
+1694,🌀,Travel & Places,1F300
+1695,🗡,Objects,1F5E1
+1696,💨,Smileys & Emotion,1F4A8
+1697,🧏‍♂️,People & Body,1F9CF 200D 2642 FE0F
+1699,🧏🏿‍♂️,People & Body,1F9CF 1F3FF 200D 2642 FE0F
+1701,🧏🏻‍♂️,People & Body,1F9CF 1F3FB 200D 2642 FE0F
+1703,🧏🏾‍♂️,People & Body,1F9CF 1F3FE 200D 2642 FE0F
+1705,🧏🏼‍♂️,People & Body,1F9CF 1F3FC 200D 2642 FE0F
+1707,🧏🏽‍♂️,People & Body,1F9CF 1F3FD 200D 2642 FE0F
+1709,🧏,People & Body,1F9CF
+1710,🧏🏿,People & Body,1F9CF 1F3FF
+1711,🧏🏻,People & Body,1F9CF 1F3FB
+1712,🧏🏾,People & Body,1F9CF 1F3FE
+1713,🧏🏼,People & Body,1F9CF 1F3FC
+1714,🧏🏽,People & Body,1F9CF 1F3FD
+1715,🧏‍♀️,People & Body,1F9CF 200D 2640 FE0F
+1717,🧏🏿‍♀️,People & Body,1F9CF 1F3FF 200D 2640 FE0F
+1719,🧏🏻‍♀️,People & Body,1F9CF 1F3FB 200D 2640 FE0F
+1721,🧏🏾‍♀️,People & Body,1F9CF 1F3FE 200D 2640 FE0F
+1723,🧏🏼‍♀️,People & Body,1F9CF 1F3FC 200D 2640 FE0F
+1725,🧏🏽‍♀️,People & Body,1F9CF 1F3FD 200D 2640 FE0F
+1727,🌳,Animals & Nature,1F333
+1728,🏚,Travel & Places,1F3DA
+1729,🏜,Travel & Places,1F3DC
+1730,🏝,Travel & Places,1F3DD
+1731,🖥,Objects,1F5A5
+1732,🕵,People & Body,1F575
+1733,🕵🏿,People & Body,1F575 1F3FF
+1734,🕵🏻,People & Body,1F575 1F3FB
+1735,🕵🏾,People & Body,1F575 1F3FE
+1736,🕵🏼,People & Body,1F575 1F3FC
+1737,🕵🏽,People & Body,1F575 1F3FD
+1738,♦,Activities,2666
+1739,💠,Symbols,1F4A0
+1740,🔅,Symbols,1F505
+1741,➗,Symbols,2797
+1742,💫,Smileys & Emotion,1F4AB
+1744,🫥,Smileys & Emotion,1FAE5
+1745,🔯,Symbols,1F52F
+1746,➿,Symbols,27BF
+1748,‼,Symbols,203C
+1749,🕊,Animals & Nature,1F54A
+1751,↙,Symbols,2199
+1753,↘,Symbols,2198
+1755,⬇,Symbols,2B07
+1756,🔽,Symbols,1F53D
+1757,👗,Objects,1F457
+1758,💧,Travel & Places,1F4A7
+1759,🥁,Objects,1F941
+1760,👂🏿,People & Body,1F442 1F3FF
+1761,👂🏻,People & Body,1F442 1F3FB
+1762,👂🏾,People & Body,1F442 1F3FE
+1763,👂🏼,People & Body,1F442 1F3FC
+1764,👂🏽,People & Body,1F442 1F3FD
+1765,🌽,Food & Drink,1F33D
+1766,🦻🏿,People & Body,1F9BB 1F3FF
+1767,🦻🏻,People & Body,1F9BB 1F3FB
+1768,🦻🏾,People & Body,1F9BB 1F3FE
+1769,🦻🏼,People & Body,1F9BB 1F3FC
+1770,🦻🏽,People & Body,1F9BB 1F3FD
+1772,✴,Symbols,2734
+1774,✳,Symbols,2733
+1776,⏏,Symbols,23CF
+1777,🛗,Objects,1F6D7
+1778,🧝🏿,People & Body,1F9DD 1F3FF
+1779,🧝🏻,People & Body,1F9DD 1F3FB
+1780,🧝🏾,People & Body,1F9DD 1F3FE
+1781,🧝🏼,People & Body,1F9DD 1F3FC
+1782,🧝🏽,People & Body,1F9DD 1F3FD
+1783,🪹,Animals & Nature,1FAB9
+1784,✉,Objects,2709
+1785,🌲,Animals & Nature,1F332
+1787,⁉,Symbols,2049
+1788,👁,People & Body,1F441
+1792,👁‍🗨,Smileys & Emotion,1F441 200D 1F5E8
+1793,🥹,Smileys & Emotion,1F979
+1795,🫤,Smileys & Emotion,1FAE4
+1796,🫢,Smileys & Emotion,1FAE2
+1797,🫣,Smileys & Emotion,1FAE3
+1798,🧑‍🏭,People & Body,1F9D1 200D 1F3ED
+1799,🧑🏿‍🏭,People & Body,1F9D1 1F3FF 200D 1F3ED
+1800,🧑🏻‍🏭,People & Body,1F9D1 1F3FB 200D 1F3ED
+1801,🧑🏾‍🏭,People & Body,1F9D1 1F3FE 200D 1F3ED
+1802,🧑🏼‍🏭,People & Body,1F9D1 1F3FC 200D 1F3ED
+1803,🧑🏽‍🏭,People & Body,1F9D1 1F3FD 200D 1F3ED
+1804,🧚🏿,People & Body,1F9DA 1F3FF
+1805,🧚🏻,People & Body,1F9DA 1F3FB
+1806,🧚🏾,People & Body,1F9DA 1F3FE
+1807,🧚🏼,People & Body,1F9DA 1F3FC
+1808,🧚🏽,People & Body,1F9DA 1F3FD
+1809,🍂,Animals & Nature,1F342
+1810,👪,People & Body,1F46A
+1811,👨‍👦,People & Body,1F468 200D 1F466
+1812,👨‍👦‍👦,People & Body,1F468 200D 1F466 200D 1F466
+1813,👨‍👧,People & Body,1F468 200D 1F467
+1814,👨‍👧‍👦,People & Body,1F468 200D 1F467 200D 1F466
+1815,👨‍👧‍👧,People & Body,1F468 200D 1F467 200D 1F467
+1816,👨‍👨‍👦,People & Body,1F468 200D 1F468 200D 1F466
+1817,👨‍👨‍👦‍👦,People & Body,1F468 200D 1F468 200D 1F466 200D 1F466
+1818,👨‍👨‍👧,People & Body,1F468 200D 1F468 200D 1F467
+1819,👨‍👨‍👧‍👦,People & Body,1F468 200D 1F468 200D 1F467 200D 1F466
+1820,👨‍👨‍👧‍👧,People & Body,1F468 200D 1F468 200D 1F467 200D 1F467
+1821,👨‍👩‍👦,People & Body,1F468 200D 1F469 200D 1F466
+1822,👨‍👩‍👦‍👦,People & Body,1F468 200D 1F469 200D 1F466 200D 1F466
+1823,👨‍👩‍👧,People & Body,1F468 200D 1F469 200D 1F467
+1824,👨‍👩‍👧‍👦,People & Body,1F468 200D 1F469 200D 1F467 200D 1F466
+1825,👨‍👩‍👧‍👧,People & Body,1F468 200D 1F469 200D 1F467 200D 1F467
+1826,👩‍👦,People & Body,1F469 200D 1F466
+1827,👩‍👦‍👦,People & Body,1F469 200D 1F466 200D 1F466
+1828,👩‍👧,People & Body,1F469 200D 1F467
+1829,👩‍👧‍👦,People & Body,1F469 200D 1F467 200D 1F466
+1830,👩‍👧‍👧,People & Body,1F469 200D 1F467 200D 1F467
+1831,👩‍👩‍👦,People & Body,1F469 200D 1F469 200D 1F466
+1832,👩‍👩‍👦‍👦,People & Body,1F469 200D 1F469 200D 1F466 200D 1F466
+1833,👩‍👩‍👧,People & Body,1F469 200D 1F469 200D 1F467
+1834,👩‍👩‍👧‍👦,People & Body,1F469 200D 1F469 200D 1F467 200D 1F466
+1835,👩‍👩‍👧‍👧,People & Body,1F469 200D 1F469 200D 1F467 200D 1F467
+1836,🧑‍🌾,People & Body,1F9D1 200D 1F33E
+1837,🧑🏿‍🌾,People & Body,1F9D1 1F3FF 200D 1F33E
+1838,🧑🏻‍🌾,People & Body,1F9D1 1F3FB 200D 1F33E
+1839,🧑🏾‍🌾,People & Body,1F9D1 1F3FE 200D 1F33E
+1840,🧑🏼‍🌾,People & Body,1F9D1 1F3FC 200D 1F33E
+1841,🧑🏽‍🌾,People & Body,1F9D1 1F3FD 200D 1F33E
+1843,⏬,Symbols,23EC
+1844,⏪,Symbols,23EA
+1845,⏫,Symbols,23EB
+1847,♀,Symbols,2640
+1848,⛴,Travel & Places,26F4
+1849,🗄,Objects,1F5C4
+1850,🎞,Objects,1F39E
+1851,📽,Objects,1F4FD
+1852,🔥,Travel & Places,1F525
+1853,🧑‍🚒,People & Body,1F9D1 200D 1F692
+1854,🧑🏿‍🚒,People & Body,1F9D1 1F3FF 200D 1F692
+1855,🧑🏻‍🚒,People & Body,1F9D1 1F3FB 200D 1F692
+1856,🧑🏾‍🚒,People & Body,1F9D1 1F3FE 200D 1F692
+1857,🧑🏼‍🚒,People & Body,1F9D1 1F3FC 200D 1F692
+1858,🧑🏽‍🚒,People & Body,1F9D1 1F3FD 200D 1F692
+1859,🎆,Activities,1F386
+1860,🌓,Travel & Places,1F313
+1861,🌛,Travel & Places,1F31B
+1862,🥿,Objects,1F97F
+1863,🫓,Food & Drink,1FAD3
+1865,⚜,Symbols,269C
+1866,💪🏿,People & Body,1F4AA 1F3FF
+1867,💪🏻,People & Body,1F4AA 1F3FB
+1868,💪🏾,People & Body,1F4AA 1F3FE
+1869,💪🏼,People & Body,1F4AA 1F3FC
+1870,💪🏽,People & Body,1F4AA 1F3FD
+1873,🌫,Travel & Places,1F32B
+1874,🙏🏿,People & Body,1F64F 1F3FF
+1875,🙏🏻,People & Body,1F64F 1F3FB
+1876,🙏🏾,People & Body,1F64F 1F3FE
+1877,🙏🏼,People & Body,1F64F 1F3FC
+1878,🙏🏽,People & Body,1F64F 1F3FD
+1880,🦶🏿,People & Body,1F9B6 1F3FF
+1881,🦶🏻,People & Body,1F9B6 1F3FB
+1882,🦶🏾,People & Body,1F9B6 1F3FE
+1883,🦶🏼,People & Body,1F9B6 1F3FC
+1884,🦶🏽,People & Body,1F9B6 1F3FD
+1885,👣,People & Body,1F463
+1886,🍴,Food & Drink,1F374
+1888,🍽,Food & Drink,1F37D
+1889,🖋,Objects,1F58B
+1890,🍀,Animals & Nature,1F340
+1891,🖼,Activities,1F5BC
+1892,☹,Smileys & Emotion,2639
+1893,🌕,Travel & Places,1F315
+1894,🌝,Travel & Places,1F31D
+1895,⚱,Objects,26B1
+1896,⚙,Objects,2699
+1898,👧,People & Body,1F467
+1899,👧🏿,People & Body,1F467 1F3FF
+1900,👧🏻,People & Body,1F467 1F3FB
+1901,👧🏾,People & Body,1F467 1F3FE
+1902,👧🏼,People & Body,1F467 1F3FC
+1903,👧🏽,People & Body,1F467 1F3FD
+1904,👓,Objects,1F453
+1905,🧤,Objects,1F9E4
+1906,🌟,Travel & Places,1F31F
+1907,🥽,Objects,1F97D
+1909,🎓,Objects,1F393
+1910,🍏,Food & Drink,1F34F
+1911,🟢,Symbols,1F7E2
+1912,💚,Smileys & Emotion,1F49A
+1913,🟩,Symbols,1F7E9
+1915,💗,Smileys & Emotion,1F497
+1916,💂🏿,People & Body,1F482 1F3FF
+1917,💂🏻,People & Body,1F482 1F3FB
+1918,💂🏾,People & Body,1F482 1F3FE
+1919,💂🏼,People & Body,1F482 1F3FC
+1920,💂🏽,People & Body,1F482 1F3FD
+1921,🎸,Objects,1F3B8
+1923,⚒,Objects,2692
+1924,🛠,Objects,1F6E0
+1925,🪬,Objects,1FAAC
+1926,🖐,People & Body,1F590
+1927,🖐🏿,People & Body,1F590 1F3FF
+1928,🖐🏻,People & Body,1F590 1F3FB
+1929,🖐🏾,People & Body,1F590 1F3FE
+1930,🖐🏼,People & Body,1F590 1F3FC
+1931,🖐🏽,People & Body,1F590 1F3FD
+1932,🫰🏿,People & Body,1FAF0 1F3FF
+1933,🫰🏻,People & Body,1FAF0 1F3FB
+1934,🫰🏾,People & Body,1FAF0 1F3FE
+1935,🫰🏼,People & Body,1FAF0 1F3FC
+1936,🫰🏽,People & Body,1FAF0 1F3FD
+1937,👜,Objects,1F45C
+1938,🤝🏿,People & Body,1F91D 1F3FF
+1939,🫱🏿‍🫲🏻,People & Body,1FAF1 1F3FF 200D 1FAF2 1F3FB
+1940,🫱🏿‍🫲🏾,People & Body,1FAF1 1F3FF 200D 1FAF2 1F3FE
+1941,🫱🏿‍🫲🏼,People & Body,1FAF1 1F3FF 200D 1FAF2 1F3FC
+1942,🫱🏿‍🫲🏽,People & Body,1FAF1 1F3FF 200D 1FAF2 1F3FD
+1943,🤝🏻,People & Body,1F91D 1F3FB
+1944,🫱🏻‍🫲🏿,People & Body,1FAF1 1F3FB 200D 1FAF2 1F3FF
+1945,🫱🏻‍🫲🏾,People & Body,1FAF1 1F3FB 200D 1FAF2 1F3FE
+1946,🫱🏻‍🫲🏼,People & Body,1FAF1 1F3FB 200D 1FAF2 1F3FC
+1947,🫱🏻‍🫲🏽,People & Body,1FAF1 1F3FB 200D 1FAF2 1F3FD
+1948,🤝🏾,People & Body,1F91D 1F3FE
+1949,🫱🏾‍🫲🏿,People & Body,1FAF1 1F3FE 200D 1FAF2 1F3FF
+1950,🫱🏾‍🫲🏻,People & Body,1FAF1 1F3FE 200D 1FAF2 1F3FB
+1951,🫱🏾‍🫲🏼,People & Body,1FAF1 1F3FE 200D 1FAF2 1F3FC
+1952,🫱🏾‍🫲🏽,People & Body,1FAF1 1F3FE 200D 1FAF2 1F3FD
+1953,🤝🏼,People & Body,1F91D 1F3FC
+1954,🫱🏼‍🫲🏿,People & Body,1FAF1 1F3FC 200D 1FAF2 1F3FF
+1955,🫱🏼‍🫲🏻,People & Body,1FAF1 1F3FC 200D 1FAF2 1F3FB
+1956,🫱🏼‍🫲🏾,People & Body,1FAF1 1F3FC 200D 1FAF2 1F3FE
+1957,🫱🏼‍🫲🏽,People & Body,1FAF1 1F3FC 200D 1FAF2 1F3FD
+1958,🤝🏽,People & Body,1F91D 1F3FD
+1959,🫱🏽‍🫲🏿,People & Body,1FAF1 1F3FD 200D 1FAF2 1F3FF
+1960,🫱🏽‍🫲🏻,People & Body,1FAF1 1F3FD 200D 1FAF2 1F3FB
+1961,🫱🏽‍🫲🏾,People & Body,1FAF1 1F3FD 200D 1FAF2 1F3FE
+1962,🫱🏽‍🫲🏼,People & Body,1FAF1 1F3FD 200D 1FAF2 1F3FC
+1963,🎧,Objects,1F3A7
+1964,🧑‍⚕️,People & Body,1F9D1 200D 2695 FE0F
+1966,🧑🏿‍⚕️,People & Body,1F9D1 1F3FF 200D 2695 FE0F
+1968,🧑🏻‍⚕️,People & Body,1F9D1 1F3FB 200D 2695 FE0F
+1970,🧑🏾‍⚕️,People & Body,1F9D1 1F3FE 200D 2695 FE0F
+1972,🧑🏼‍⚕️,People & Body,1F9D1 1F3FC 200D 2695 FE0F
+1974,🧑🏽‍⚕️,People & Body,1F9D1 1F3FD 200D 2695 FE0F
+1976,💟,Smileys & Emotion,1F49F
+1978,❣,Smileys & Emotion,2763
+1979,🫶🏿,People & Body,1FAF6 1F3FF
+1980,🫶🏻,People & Body,1FAF6 1F3FB
+1981,🫶🏾,People & Body,1FAF6 1F3FE
+1982,🫶🏼,People & Body,1FAF6 1F3FC
+1983,🫶🏽,People & Body,1FAF6 1F3FD
+1984,❤️‍🔥,Smileys & Emotion,2764 FE0F 200D 1F525
+1986,♥,Activities,2665
+1987,💘,Smileys & Emotion,1F498
+1988,💝,Smileys & Emotion,1F49D
+1989,💲,Symbols,1F4B2
+1990,🟰,Symbols,1F7F0
+1991,🌿,Animals & Nature,1F33F
+1992,🌺,Animals & Nature,1F33A
+1993,👠,Objects,1F460
+1994,⚡,Travel & Places,26A1
+1995,🥾,Objects,1F97E
+1996,🕳,Smileys & Emotion,1F573
+1997,⭕,Symbols,2B55
+1998,🪝,Objects,1FA9D
+1999,🏇🏿,People & Body,1F3C7 1F3FF
+2000,🏇🏻,People & Body,1F3C7 1F3FB
+2001,🏇🏾,People & Body,1F3C7 1F3FE
+2002,🏇🏼,People & Body,1F3C7 1F3FC
+2003,🏇🏽,People & Body,1F3C7 1F3FD
+2004,🌶,Food & Drink,1F336
+2005,♨,Travel & Places,2668
+2006,🏘,Travel & Places,1F3D8
+2007,💯,Smileys & Emotion,1F4AF
+2009,🧊,Food & Drink,1F9CA
+2010,⛸,Activities,26F8
+2011,🪪,Objects,1FAAA
+2012,🫵🏿,People & Body,1FAF5 1F3FF
+2013,🫵🏻,People & Body,1FAF5 1F3FB
+2014,🫵🏾,People & Body,1FAF5 1F3FE
+2015,🫵🏼,People & Body,1FAF5 1F3FC
+2016,🫵🏽,People & Body,1FAF5 1F3FD
+2017,☝,People & Body,261D
+2018,☝🏿,People & Body,261D 1F3FF
+2019,☝🏻,People & Body,261D 1F3FB
+2020,☝🏾,People & Body,261D 1F3FE
+2021,☝🏼,People & Body,261D 1F3FC
+2022,☝🏽,People & Body,261D 1F3FD
+2024,♾,Symbols,267E
+2026,ℹ,Symbols,2139
+2027,🔤,Symbols,1F524
+2028,🔡,Symbols,1F521
+2029,🔠,Symbols,1F520
+2030,🔢,Symbols,1F522
+2031,🔣,Symbols,1F523
+2032,🎃,Activities,1F383
+2033,🫙,Food & Drink,1FAD9
+2034,👖,Objects,1F456
+2036,🕹,Activities,1F579
+2037,🧑‍⚖️,People & Body,1F9D1 200D 2696 FE0F
+2039,🧑🏿‍⚖️,People & Body,1F9D1 1F3FF 200D 2696 FE0F
+2041,🧑🏻‍⚖️,People & Body,1F9D1 1F3FB 200D 2696 FE0F
+2043,🧑🏾‍⚖️,People & Body,1F9D1 1F3FE 200D 2696 FE0F
+2045,🧑🏼‍⚖️,People & Body,1F9D1 1F3FC 200D 2696 FE0F
+2047,🧑🏽‍⚖️,People & Body,1F9D1 1F3FD 200D 2696 FE0F
+2049,⌨,Objects,2328
+2058,🔟,Symbols,1F51F
+2076,👘,Objects,1F458
+2077,💏,People & Body,1F48F
+2078,💏🏿,People & Body,1F48F 1F3FF
+2079,💏🏻,People & Body,1F48F 1F3FB
+2080,👨‍❤️‍💋‍👨,People & Body,1F468 200D 2764 FE0F 200D 1F48B 200D 1F468
+2082,👨🏿‍❤️‍💋‍👨🏿,People & Body,1F468 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF
+2084,👨🏿‍❤️‍💋‍👨🏻,People & Body,1F468 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB
+2086,👨🏿‍❤️‍💋‍👨🏾,People & Body,1F468 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE
+2088,👨🏿‍❤️‍💋‍👨🏼,People & Body,1F468 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC
+2090,👨🏿‍❤️‍💋‍👨🏽,People & Body,1F468 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD
+2092,👨🏻‍❤️‍💋‍👨🏻,People & Body,1F468 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB
+2094,👨🏻‍❤️‍💋‍👨🏿,People & Body,1F468 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF
+2096,👨🏻‍❤️‍💋‍👨🏾,People & Body,1F468 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE
+2098,👨🏻‍❤️‍💋‍👨🏼,People & Body,1F468 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC
+2100,👨🏻‍❤️‍💋‍👨🏽,People & Body,1F468 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD
+2102,👨🏾‍❤️‍💋‍👨🏾,People & Body,1F468 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE
+2104,👨🏾‍❤️‍💋‍👨🏿,People & Body,1F468 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF
+2106,👨🏾‍❤️‍💋‍👨🏻,People & Body,1F468 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB
+2108,👨🏾‍❤️‍💋‍👨🏼,People & Body,1F468 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC
+2110,👨🏾‍❤️‍💋‍👨🏽,People & Body,1F468 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD
+2112,👨🏼‍❤️‍💋‍👨🏼,People & Body,1F468 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC
+2114,👨🏼‍❤️‍💋‍👨🏿,People & Body,1F468 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF
+2116,👨🏼‍❤️‍💋‍👨🏻,People & Body,1F468 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB
+2118,👨🏼‍❤️‍💋‍👨🏾,People & Body,1F468 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE
+2120,👨🏼‍❤️‍💋‍👨🏽,People & Body,1F468 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD
+2122,👨🏽‍❤️‍💋‍👨🏽,People & Body,1F468 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD
+2124,👨🏽‍❤️‍💋‍👨🏿,People & Body,1F468 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF
+2126,👨🏽‍❤️‍💋‍👨🏻,People & Body,1F468 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB
+2128,👨🏽‍❤️‍💋‍👨🏾,People & Body,1F468 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE
+2130,👨🏽‍❤️‍💋‍👨🏼,People & Body,1F468 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC
+2132,💋,Smileys & Emotion,1F48B
+2133,💏🏾,People & Body,1F48F 1F3FE
+2134,💏🏼,People & Body,1F48F 1F3FC
+2135,💏🏽,People & Body,1F48F 1F3FD
+2136,🧑🏿‍❤️‍💋‍🧑🏻,People & Body,1F9D1 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FB
+2138,🧑🏿‍❤️‍💋‍🧑🏾,People & Body,1F9D1 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FE
+2140,🧑🏿‍❤️‍💋‍🧑🏼,People & Body,1F9D1 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FC
+2142,🧑🏿‍❤️‍💋‍🧑🏽,People & Body,1F9D1 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FD
+2144,🧑🏻‍❤️‍💋‍🧑🏿,People & Body,1F9D1 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FF
+2146,🧑🏻‍❤️‍💋‍🧑🏾,People & Body,1F9D1 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FE
+2148,🧑🏻‍❤️‍💋‍🧑🏼,People & Body,1F9D1 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FC
+2150,🧑🏻‍❤️‍💋‍🧑🏽,People & Body,1F9D1 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FD
+2152,🧑🏾‍❤️‍💋‍🧑🏿,People & Body,1F9D1 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FF
+2154,🧑🏾‍❤️‍💋‍🧑🏻,People & Body,1F9D1 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FB
+2156,🧑🏾‍❤️‍💋‍🧑🏼,People & Body,1F9D1 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FC
+2158,🧑🏾‍❤️‍💋‍🧑🏽,People & Body,1F9D1 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FD
+2160,🧑🏼‍❤️‍💋‍🧑🏿,People & Body,1F9D1 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FF
+2162,🧑🏼‍❤️‍💋‍🧑🏻,People & Body,1F9D1 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FB
+2164,🧑🏼‍❤️‍💋‍🧑🏾,People & Body,1F9D1 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FE
+2166,🧑🏼‍❤️‍💋‍🧑🏽,People & Body,1F9D1 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FD
+2168,🧑🏽‍❤️‍💋‍🧑🏿,People & Body,1F9D1 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FF
+2170,🧑🏽‍❤️‍💋‍🧑🏻,People & Body,1F9D1 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FB
+2172,🧑🏽‍❤️‍💋‍🧑🏾,People & Body,1F9D1 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FE
+2174,🧑🏽‍❤️‍💋‍🧑🏼,People & Body,1F9D1 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FC
+2176,👩‍❤️‍💋‍👨,People & Body,1F469 200D 2764 FE0F 200D 1F48B 200D 1F468
+2178,👩🏿‍❤️‍💋‍👨🏿,People & Body,1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF
+2180,👩🏿‍❤️‍💋‍👨🏻,People & Body,1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB
+2182,👩🏿‍❤️‍💋‍👨🏾,People & Body,1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE
+2184,👩🏿‍❤️‍💋‍👨🏼,People & Body,1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC
+2186,👩🏿‍❤️‍💋‍👨🏽,People & Body,1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD
+2188,👩🏻‍❤️‍💋‍👨🏻,People & Body,1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB
+2190,👩🏻‍❤️‍💋‍👨🏿,People & Body,1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF
+2192,👩🏻‍❤️‍💋‍👨🏾,People & Body,1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE
+2194,👩🏻‍❤️‍💋‍👨🏼,People & Body,1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC
+2196,👩🏻‍❤️‍💋‍👨🏽,People & Body,1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD
+2198,👩🏾‍❤️‍💋‍👨🏾,People & Body,1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE
+2200,👩🏾‍❤️‍💋‍👨🏿,People & Body,1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF
+2202,👩🏾‍❤️‍💋‍👨🏻,People & Body,1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB
+2204,👩🏾‍❤️‍💋‍👨🏼,People & Body,1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC
+2206,👩🏾‍❤️‍💋‍👨🏽,People & Body,1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD
+2208,👩🏼‍❤️‍💋‍👨🏼,People & Body,1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC
+2210,👩🏼‍❤️‍💋‍👨🏿,People & Body,1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF
+2212,👩🏼‍❤️‍💋‍👨🏻,People & Body,1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB
+2214,👩🏼‍❤️‍💋‍👨🏾,People & Body,1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE
+2216,👩🏼‍❤️‍💋‍👨🏽,People & Body,1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD
+2218,👩🏽‍❤️‍💋‍👨🏽,People & Body,1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD
+2220,👩🏽‍❤️‍💋‍👨🏿,People & Body,1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF
+2222,👩🏽‍❤️‍💋‍👨🏻,People & Body,1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB
+2224,👩🏽‍❤️‍💋‍👨🏾,People & Body,1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE
+2226,👩🏽‍❤️‍💋‍👨🏼,People & Body,1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC
+2228,👩‍❤️‍💋‍👩,People & Body,1F469 200D 2764 FE0F 200D 1F48B 200D 1F469
+2230,👩🏿‍❤️‍💋‍👩🏿,People & Body,1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FF
+2232,👩🏿‍❤️‍💋‍👩🏻,People & Body,1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FB
+2234,👩🏿‍❤️‍💋‍👩🏾,People & Body,1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FE
+2236,👩🏿‍❤️‍💋‍👩🏼,People & Body,1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FC
+2238,👩🏿‍❤️‍💋‍👩🏽,People & Body,1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FD
+2240,👩🏻‍❤️‍💋‍👩🏻,People & Body,1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FB
+2242,👩🏻‍❤️‍💋‍👩🏿,People & Body,1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FF
+2244,👩🏻‍❤️‍💋‍👩🏾,People & Body,1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FE
+2246,👩🏻‍❤️‍💋‍👩🏼,People & Body,1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FC
+2248,👩🏻‍❤️‍💋‍👩🏽,People & Body,1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FD
+2250,👩🏾‍❤️‍💋‍👩🏾,People & Body,1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FE
+2252,👩🏾‍❤️‍💋‍👩🏿,People & Body,1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FF
+2254,👩🏾‍❤️‍💋‍👩🏻,People & Body,1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FB
+2256,👩🏾‍❤️‍💋‍👩🏼,People & Body,1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FC
+2258,👩🏾‍❤️‍💋‍👩🏽,People & Body,1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FD
+2260,👩🏼‍❤️‍💋‍👩🏼,People & Body,1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FC
+2262,👩🏼‍❤️‍💋‍👩🏿,People & Body,1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FF
+2264,👩🏼‍❤️‍💋‍👩🏻,People & Body,1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FB
+2266,👩🏼‍❤️‍💋‍👩🏾,People & Body,1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FE
+2268,👩🏼‍❤️‍💋‍👩🏽,People & Body,1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FD
+2270,👩🏽‍❤️‍💋‍👩🏽,People & Body,1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FD
+2272,👩🏽‍❤️‍💋‍👩🏿,People & Body,1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FF
+2274,👩🏽‍❤️‍💋‍👩🏻,People & Body,1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FB
+2276,👩🏽‍❤️‍💋‍👩🏾,People & Body,1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FE
+2278,👩🏽‍❤️‍💋‍👩🏼,People & Body,1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FC
+2280,🥼,Objects,1F97C
+2281,🏷,Objects,1F3F7
+2282,🔷,Symbols,1F537
+2283,🔶,Symbols,1F536
+2284,🌗,Travel & Places,1F317
+2285,🌜,Travel & Places,1F31C
+2287,⏮,Symbols,23EE
+2289,✝,Symbols,271D
+2290,🍃,Animals & Nature,1F343
+2291,🤛🏿,People & Body,1F91B 1F3FF
+2292,🤛🏻,People & Body,1F91B 1F3FB
+2293,🤛🏾,People & Body,1F91B 1F3FE
+2294,🤛🏼,People & Body,1F91B 1F3FC
+2295,🤛🏽,People & Body,1F91B 1F3FD
+2297,↔,Symbols,2194
+2299,⬅,Symbols,2B05
+2301,↪,Symbols,21AA
+2302,🛅,Symbols,1F6C5
+2304,🗨,Smileys & Emotion,1F5E8
+2305,🫲🏿,People & Body,1FAF2 1F3FF
+2306,🫲🏻,People & Body,1FAF2 1F3FB
+2307,🫲🏾,People & Body,1FAF2 1F3FE
+2308,🫲🏼,People & Body,1FAF2 1F3FC
+2309,🫲🏽,People & Body,1FAF2 1F3FD
+2315,🦵🏿,People & Body,1F9B5 1F3FF
+2316,🦵🏻,People & Body,1F9B5 1F3FB
+2317,🦵🏾,People & Body,1F9B5 1F3FE
+2318,🦵🏼,People & Body,1F9B5 1F3FC
+2319,🦵🏽,People & Body,1F9B5 1F3FD
+2320,🎚,Objects,1F39A
+2322,🖇,Objects,1F587
+2323,💄,Objects,1F484
+2324,🚮,Symbols,1F6AE
+2325,🪘,Objects,1FA98
+2326,🪷,Animals & Nature,1FAB7
+2327,📢,Objects,1F4E2
+2328,🤟🏿,People & Body,1F91F 1F3FF
+2329,🤟🏻,People & Body,1F91F 1F3FB
+2330,🤟🏾,People & Body,1F91F 1F3FE
+2331,🤟🏼,People & Body,1F91F 1F3FC
+2332,🤟🏽,People & Body,1F91F 1F3FD
+2333,🪫,Objects,1FAAB
+2334,🧳,Travel & Places,1F9F3
+2335,🫁,People & Body,1FAC1
+2336,🧙🏿,People & Body,1F9D9 1F3FF
+2337,🧙🏻,People & Body,1F9D9 1F3FB
+2338,🧙🏾,People & Body,1F9D9 1F3FE
+2339,🧙🏼,People & Body,1F9D9 1F3FC
+2340,🧙🏽,People & Body,1F9D9 1F3FD
+2342,♂,Symbols,2642
+2343,👨,People & Body,1F468
+2344,👨🏿‍🎨,People & Body,1F468 1F3FF 200D 1F3A8
+2345,👨🏻‍🎨,People & Body,1F468 1F3FB 200D 1F3A8
+2346,👨🏾‍🎨,People & Body,1F468 1F3FE 200D 1F3A8
+2347,👨🏼‍🎨,People & Body,1F468 1F3FC 200D 1F3A8
+2348,👨🏽‍🎨,People & Body,1F468 1F3FD 200D 1F3A8
+2349,👨🏿‍🚀,People & Body,1F468 1F3FF 200D 1F680
+2350,👨🏻‍🚀,People & Body,1F468 1F3FB 200D 1F680
+2351,👨🏾‍🚀,People & Body,1F468 1F3FE 200D 1F680
+2352,👨🏼‍🚀,People & Body,1F468 1F3FC 200D 1F680
+2353,👨🏽‍🚀,People & Body,1F468 1F3FD 200D 1F680
+2354,👨‍🦲,People & Body,1F468 200D 1F9B2
+2355,🧔‍♂️,People & Body,1F9D4 200D 2642 FE0F
+2357,🚴‍♂️,People & Body,1F6B4 200D 2642 FE0F
+2359,🚴🏿‍♂️,People & Body,1F6B4 1F3FF 200D 2642 FE0F
+2361,🚴🏻‍♂️,People & Body,1F6B4 1F3FB 200D 2642 FE0F
+2363,🚴🏾‍♂️,People & Body,1F6B4 1F3FE 200D 2642 FE0F
+2365,🚴🏼‍♂️,People & Body,1F6B4 1F3FC 200D 2642 FE0F
+2367,🚴🏽‍♂️,People & Body,1F6B4 1F3FD 200D 2642 FE0F
+2369,👱‍♂️,People & Body,1F471 200D 2642 FE0F
+2371,⛹️‍♂️,People & Body,26F9 FE0F 200D 2642 FE0F
+2375,⛹🏿‍♂️,People & Body,26F9 1F3FF 200D 2642 FE0F
+2377,⛹🏻‍♂️,People & Body,26F9 1F3FB 200D 2642 FE0F
+2379,⛹🏾‍♂️,People & Body,26F9 1F3FE 200D 2642 FE0F
+2381,⛹🏼‍♂️,People & Body,26F9 1F3FC 200D 2642 FE0F
+2383,⛹🏽‍♂️,People & Body,26F9 1F3FD 200D 2642 FE0F
+2386,🙇🏿‍♂️,People & Body,1F647 1F3FF 200D 2642 FE0F
+2388,🙇🏻‍♂️,People & Body,1F647 1F3FB 200D 2642 FE0F
+2390,🙇🏾‍♂️,People & Body,1F647 1F3FE 200D 2642 FE0F
+2392,🙇🏼‍♂️,People & Body,1F647 1F3FC 200D 2642 FE0F
+2394,🙇🏽‍♂️,People & Body,1F647 1F3FD 200D 2642 FE0F
+2396,🤸‍♂️,People & Body,1F938 200D 2642 FE0F
+2398,🤸🏿‍♂️,People & Body,1F938 1F3FF 200D 2642 FE0F
+2400,🤸🏻‍♂️,People & Body,1F938 1F3FB 200D 2642 FE0F
+2402,🤸🏾‍♂️,People & Body,1F938 1F3FE 200D 2642 FE0F
+2404,🤸🏼‍♂️,People & Body,1F938 1F3FC 200D 2642 FE0F
+2406,🤸🏽‍♂️,People & Body,1F938 1F3FD 200D 2642 FE0F
+2408,🧗‍♂️,People & Body,1F9D7 200D 2642 FE0F
+2410,🧗🏿‍♂️,People & Body,1F9D7 1F3FF 200D 2642 FE0F
+2412,🧗🏻‍♂️,People & Body,1F9D7 1F3FB 200D 2642 FE0F
+2414,🧗🏾‍♂️,People & Body,1F9D7 1F3FE 200D 2642 FE0F
+2416,🧗🏼‍♂️,People & Body,1F9D7 1F3FC 200D 2642 FE0F
+2418,🧗🏽‍♂️,People & Body,1F9D7 1F3FD 200D 2642 FE0F
+2420,👷‍♂️,People & Body,1F477 200D 2642 FE0F
+2422,👷🏿‍♂️,People & Body,1F477 1F3FF 200D 2642 FE0F
+2424,👷🏻‍♂️,People & Body,1F477 1F3FB 200D 2642 FE0F
+2426,👷🏾‍♂️,People & Body,1F477 1F3FE 200D 2642 FE0F
+2428,👷🏼‍♂️,People & Body,1F477 1F3FC 200D 2642 FE0F
+2430,👷🏽‍♂️,People & Body,1F477 1F3FD 200D 2642 FE0F
+2432,👨🏿‍🍳,People & Body,1F468 1F3FF 200D 1F373
+2433,👨🏻‍🍳,People & Body,1F468 1F3FB 200D 1F373
+2434,👨🏾‍🍳,People & Body,1F468 1F3FE 200D 1F373
+2435,👨🏼‍🍳,People & Body,1F468 1F3FC 200D 1F373
+2436,👨🏽‍🍳,People & Body,1F468 1F3FD 200D 1F373
+2437,👨‍🦱,People & Body,1F468 200D 1F9B1
+2438,🕺🏿,People & Body,1F57A 1F3FF
+2439,🕺🏻,People & Body,1F57A 1F3FB
+2440,🕺🏾,People & Body,1F57A 1F3FE
+2441,🕺🏼,People & Body,1F57A 1F3FC
+2442,🕺🏽,People & Body,1F57A 1F3FD
+2443,👨🏿,People & Body,1F468 1F3FF
+2444,👨🏿‍🦲,People & Body,1F468 1F3FF 200D 1F9B2
+2445,🧔🏿‍♂️,People & Body,1F9D4 1F3FF 200D 2642 FE0F
+2447,👱🏿‍♂️,People & Body,1F471 1F3FF 200D 2642 FE0F
+2449,👨🏿‍🦱,People & Body,1F468 1F3FF 200D 1F9B1
+2450,👨🏿‍🦰,People & Body,1F468 1F3FF 200D 1F9B0
+2451,👨🏿‍🦳,People & Body,1F468 1F3FF 200D 1F9B3
+2452,🕵️‍♂️,People & Body,1F575 FE0F 200D 2642 FE0F
+2456,🕵🏿‍♂️,People & Body,1F575 1F3FF 200D 2642 FE0F
+2458,🕵🏻‍♂️,People & Body,1F575 1F3FB 200D 2642 FE0F
+2460,🕵🏾‍♂️,People & Body,1F575 1F3FE 200D 2642 FE0F
+2462,🕵🏼‍♂️,People & Body,1F575 1F3FC 200D 2642 FE0F
+2464,🕵🏽‍♂️,People & Body,1F575 1F3FD 200D 2642 FE0F
+2466,🧝‍♂️,People & Body,1F9DD 200D 2642 FE0F
+2468,🧝🏿‍♂️,People & Body,1F9DD 1F3FF 200D 2642 FE0F
+2470,🧝🏻‍♂️,People & Body,1F9DD 1F3FB 200D 2642 FE0F
+2472,🧝🏾‍♂️,People & Body,1F9DD 1F3FE 200D 2642 FE0F
+2474,🧝🏼‍♂️,People & Body,1F9DD 1F3FC 200D 2642 FE0F
+2476,🧝🏽‍♂️,People & Body,1F9DD 1F3FD 200D 2642 FE0F
+2479,🤦🏿‍♂️,People & Body,1F926 1F3FF 200D 2642 FE0F
+2481,🤦🏻‍♂️,People & Body,1F926 1F3FB 200D 2642 FE0F
+2483,🤦🏾‍♂️,People & Body,1F926 1F3FE 200D 2642 FE0F
+2485,🤦🏼‍♂️,People & Body,1F926 1F3FC 200D 2642 FE0F
+2487,🤦🏽‍♂️,People & Body,1F926 1F3FD 200D 2642 FE0F
+2489,👨🏿‍🏭,People & Body,1F468 1F3FF 200D 1F3ED
+2490,👨🏻‍🏭,People & Body,1F468 1F3FB 200D 1F3ED
+2491,👨🏾‍🏭,People & Body,1F468 1F3FE 200D 1F3ED
+2492,👨🏼‍🏭,People & Body,1F468 1F3FC 200D 1F3ED
+2493,👨🏽‍🏭,People & Body,1F468 1F3FD 200D 1F3ED
+2494,🧚‍♂️,People & Body,1F9DA 200D 2642 FE0F
+2496,🧚🏿‍♂️,People & Body,1F9DA 1F3FF 200D 2642 FE0F
+2498,🧚🏻‍♂️,People & Body,1F9DA 1F3FB 200D 2642 FE0F
+2500,🧚🏾‍♂️,People & Body,1F9DA 1F3FE 200D 2642 FE0F
+2502,🧚🏼‍♂️,People & Body,1F9DA 1F3FC 200D 2642 FE0F
+2504,🧚🏽‍♂️,People & Body,1F9DA 1F3FD 200D 2642 FE0F
+2506,👨🏿‍🌾,People & Body,1F468 1F3FF 200D 1F33E
+2507,👨🏻‍🌾,People & Body,1F468 1F3FB 200D 1F33E
+2508,👨🏾‍🌾,People & Body,1F468 1F3FE 200D 1F33E
+2509,👨🏼‍🌾,People & Body,1F468 1F3FC 200D 1F33E
+2510,👨🏽‍🌾,People & Body,1F468 1F3FD 200D 1F33E
+2511,👨‍🍼,People & Body,1F468 200D 1F37C
+2512,👨🏿‍🍼,People & Body,1F468 1F3FF 200D 1F37C
+2513,👨🏻‍🍼,People & Body,1F468 1F3FB 200D 1F37C
+2514,👨🏾‍🍼,People & Body,1F468 1F3FE 200D 1F37C
+2515,👨🏼‍🍼,People & Body,1F468 1F3FC 200D 1F37C
+2516,👨🏽‍🍼,People & Body,1F468 1F3FD 200D 1F37C
+2517,👨🏿‍🚒,People & Body,1F468 1F3FF 200D 1F692
+2518,👨🏻‍🚒,People & Body,1F468 1F3FB 200D 1F692
+2519,👨🏾‍🚒,People & Body,1F468 1F3FE 200D 1F692
+2520,👨🏼‍🚒,People & Body,1F468 1F3FC 200D 1F692
+2521,👨🏽‍🚒,People & Body,1F468 1F3FD 200D 1F692
+2522,🙍‍♂️,People & Body,1F64D 200D 2642 FE0F
+2524,🙍🏿‍♂️,People & Body,1F64D 1F3FF 200D 2642 FE0F
+2526,🙍🏻‍♂️,People & Body,1F64D 1F3FB 200D 2642 FE0F
+2528,🙍🏾‍♂️,People & Body,1F64D 1F3FE 200D 2642 FE0F
+2530,🙍🏼‍♂️,People & Body,1F64D 1F3FC 200D 2642 FE0F
+2532,🙍🏽‍♂️,People & Body,1F64D 1F3FD 200D 2642 FE0F
+2534,🧞‍♂️,People & Body,1F9DE 200D 2642 FE0F
+2537,🙅🏿‍♂️,People & Body,1F645 1F3FF 200D 2642 FE0F
+2539,🙅🏻‍♂️,People & Body,1F645 1F3FB 200D 2642 FE0F
+2541,🙅🏾‍♂️,People & Body,1F645 1F3FE 200D 2642 FE0F
+2543,🙅🏼‍♂️,People & Body,1F645 1F3FC 200D 2642 FE0F
+2545,🙅🏽‍♂️,People & Body,1F645 1F3FD 200D 2642 FE0F
+2548,🙆🏿‍♂️,People & Body,1F646 1F3FF 200D 2642 FE0F
+2550,🙆🏻‍♂️,People & Body,1F646 1F3FB 200D 2642 FE0F
+2552,🙆🏾‍♂️,People & Body,1F646 1F3FE 200D 2642 FE0F
+2554,🙆🏼‍♂️,People & Body,1F646 1F3FC 200D 2642 FE0F
+2556,🙆🏽‍♂️,People & Body,1F646 1F3FD 200D 2642 FE0F
+2558,💇‍♂️,People & Body,1F487 200D 2642 FE0F
+2560,💇🏿‍♂️,People & Body,1F487 1F3FF 200D 2642 FE0F
+2562,💇🏻‍♂️,People & Body,1F487 1F3FB 200D 2642 FE0F
+2564,💇🏾‍♂️,People & Body,1F487 1F3FE 200D 2642 FE0F
+2566,💇🏼‍♂️,People & Body,1F487 1F3FC 200D 2642 FE0F
+2568,💇🏽‍♂️,People & Body,1F487 1F3FD 200D 2642 FE0F
+2570,💆‍♂️,People & Body,1F486 200D 2642 FE0F
+2572,💆🏿‍♂️,People & Body,1F486 1F3FF 200D 2642 FE0F
+2574,💆🏻‍♂️,People & Body,1F486 1F3FB 200D 2642 FE0F
+2576,💆🏾‍♂️,People & Body,1F486 1F3FE 200D 2642 FE0F
+2578,💆🏼‍♂️,People & Body,1F486 1F3FC 200D 2642 FE0F
+2580,💆🏽‍♂️,People & Body,1F486 1F3FD 200D 2642 FE0F
+2582,🏌️‍♂️,People & Body,1F3CC FE0F 200D 2642 FE0F
+2586,🏌🏿‍♂️,People & Body,1F3CC 1F3FF 200D 2642 FE0F
+2588,🏌🏻‍♂️,People & Body,1F3CC 1F3FB 200D 2642 FE0F
+2590,🏌🏾‍♂️,People & Body,1F3CC 1F3FE 200D 2642 FE0F
+2592,🏌🏼‍♂️,People & Body,1F3CC 1F3FC 200D 2642 FE0F
+2594,🏌🏽‍♂️,People & Body,1F3CC 1F3FD 200D 2642 FE0F
+2596,💂‍♂️,People & Body,1F482 200D 2642 FE0F
+2598,💂🏿‍♂️,People & Body,1F482 1F3FF 200D 2642 FE0F
+2600,💂🏻‍♂️,People & Body,1F482 1F3FB 200D 2642 FE0F
+2602,💂🏾‍♂️,People & Body,1F482 1F3FE 200D 2642 FE0F
+2604,💂🏼‍♂️,People & Body,1F482 1F3FC 200D 2642 FE0F
+2606,💂🏽‍♂️,People & Body,1F482 1F3FD 200D 2642 FE0F
+2609,👨🏿‍⚕️,People & Body,1F468 1F3FF 200D 2695 FE0F
+2611,👨🏻‍⚕️,People & Body,1F468 1F3FB 200D 2695 FE0F
+2613,👨🏾‍⚕️,People & Body,1F468 1F3FE 200D 2695 FE0F
+2615,👨🏼‍⚕️,People & Body,1F468 1F3FC 200D 2695 FE0F
+2617,👨🏽‍⚕️,People & Body,1F468 1F3FD 200D 2695 FE0F
+2619,🧘‍♂️,People & Body,1F9D8 200D 2642 FE0F
+2621,🧘🏿‍♂️,People & Body,1F9D8 1F3FF 200D 2642 FE0F
+2623,🧘🏻‍♂️,People & Body,1F9D8 1F3FB 200D 2642 FE0F
+2625,🧘🏾‍♂️,People & Body,1F9D8 1F3FE 200D 2642 FE0F
+2627,🧘🏼‍♂️,People & Body,1F9D8 1F3FC 200D 2642 FE0F
+2629,🧘🏽‍♂️,People & Body,1F9D8 1F3FD 200D 2642 FE0F
+2631,👨‍🦽,People & Body,1F468 200D 1F9BD
+2632,👨🏿‍🦽,People & Body,1F468 1F3FF 200D 1F9BD
+2633,👨🏻‍🦽,People & Body,1F468 1F3FB 200D 1F9BD
+2634,👨🏾‍🦽,People & Body,1F468 1F3FE 200D 1F9BD
+2635,👨🏼‍🦽,People & Body,1F468 1F3FC 200D 1F9BD
+2636,👨🏽‍🦽,People & Body,1F468 1F3FD 200D 1F9BD
+2637,👨‍🦼,People & Body,1F468 200D 1F9BC
+2638,👨🏿‍🦼,People & Body,1F468 1F3FF 200D 1F9BC
+2639,👨🏻‍🦼,People & Body,1F468 1F3FB 200D 1F9BC
+2640,👨🏾‍🦼,People & Body,1F468 1F3FE 200D 1F9BC
+2641,👨🏼‍🦼,People & Body,1F468 1F3FC 200D 1F9BC
+2642,👨🏽‍🦼,People & Body,1F468 1F3FD 200D 1F9BC
+2643,🧖‍♂️,People & Body,1F9D6 200D 2642 FE0F
+2645,🧖🏿‍♂️,People & Body,1F9D6 1F3FF 200D 2642 FE0F
+2647,🧖🏻‍♂️,People & Body,1F9D6 1F3FB 200D 2642 FE0F
+2649,🧖🏾‍♂️,People & Body,1F9D6 1F3FE 200D 2642 FE0F
+2651,🧖🏼‍♂️,People & Body,1F9D6 1F3FC 200D 2642 FE0F
+2653,🧖🏽‍♂️,People & Body,1F9D6 1F3FD 200D 2642 FE0F
+2655,🤵‍♂️,People & Body,1F935 200D 2642 FE0F
+2657,🤵🏿‍♂️,People & Body,1F935 1F3FF 200D 2642 FE0F
+2659,🤵🏻‍♂️,People & Body,1F935 1F3FB 200D 2642 FE0F
+2661,🤵🏾‍♂️,People & Body,1F935 1F3FE 200D 2642 FE0F
+2663,🤵🏼‍♂️,People & Body,1F935 1F3FC 200D 2642 FE0F
+2665,🤵🏽‍♂️,People & Body,1F935 1F3FD 200D 2642 FE0F
+2668,👨🏿‍⚖️,People & Body,1F468 1F3FF 200D 2696 FE0F
+2670,👨🏻‍⚖️,People & Body,1F468 1F3FB 200D 2696 FE0F
+2672,👨🏾‍⚖️,People & Body,1F468 1F3FE 200D 2696 FE0F
+2674,👨🏼‍⚖️,People & Body,1F468 1F3FC 200D 2696 FE0F
+2676,👨🏽‍⚖️,People & Body,1F468 1F3FD 200D 2696 FE0F
+2678,🤹‍♂️,People & Body,1F939 200D 2642 FE0F
+2680,🤹🏿‍♂️,People & Body,1F939 1F3FF 200D 2642 FE0F
+2682,🤹🏻‍♂️,People & Body,1F939 1F3FB 200D 2642 FE0F
+2684,🤹🏾‍♂️,People & Body,1F939 1F3FE 200D 2642 FE0F
+2686,🤹🏼‍♂️,People & Body,1F939 1F3FC 200D 2642 FE0F
+2688,🤹🏽‍♂️,People & Body,1F939 1F3FD 200D 2642 FE0F
+2690,🧎‍♂️,People & Body,1F9CE 200D 2642 FE0F
+2692,🧎🏿‍♂️,People & Body,1F9CE 1F3FF 200D 2642 FE0F
+2694,🧎🏻‍♂️,People & Body,1F9CE 1F3FB 200D 2642 FE0F
+2696,🧎🏾‍♂️,People & Body,1F9CE 1F3FE 200D 2642 FE0F
+2698,🧎🏼‍♂️,People & Body,1F9CE 1F3FC 200D 2642 FE0F
+2700,🧎🏽‍♂️,People & Body,1F9CE 1F3FD 200D 2642 FE0F
+2702,🏋️‍♂️,People & Body,1F3CB FE0F 200D 2642 FE0F
+2706,🏋🏿‍♂️,People & Body,1F3CB 1F3FF 200D 2642 FE0F
+2708,🏋🏻‍♂️,People & Body,1F3CB 1F3FB 200D 2642 FE0F
+2710,🏋🏾‍♂️,People & Body,1F3CB 1F3FE 200D 2642 FE0F
+2712,🏋🏼‍♂️,People & Body,1F3CB 1F3FC 200D 2642 FE0F
+2714,🏋🏽‍♂️,People & Body,1F3CB 1F3FD 200D 2642 FE0F
+2716,👨🏻,People & Body,1F468 1F3FB
+2717,👨🏻‍🦲,People & Body,1F468 1F3FB 200D 1F9B2
+2718,🧔🏻‍♂️,People & Body,1F9D4 1F3FB 200D 2642 FE0F
+2720,👱🏻‍♂️,People & Body,1F471 1F3FB 200D 2642 FE0F
+2722,👨🏻‍🦱,People & Body,1F468 1F3FB 200D 1F9B1
+2723,👨🏻‍🦰,People & Body,1F468 1F3FB 200D 1F9B0
+2724,👨🏻‍🦳,People & Body,1F468 1F3FB 200D 1F9B3
+2725,🧙‍♂️,People & Body,1F9D9 200D 2642 FE0F
+2727,🧙🏿‍♂️,People & Body,1F9D9 1F3FF 200D 2642 FE0F
+2729,🧙🏻‍♂️,People & Body,1F9D9 1F3FB 200D 2642 FE0F
+2731,🧙🏾‍♂️,People & Body,1F9D9 1F3FE 200D 2642 FE0F
+2733,🧙🏼‍♂️,People & Body,1F9D9 1F3FC 200D 2642 FE0F
+2735,🧙🏽‍♂️,People & Body,1F9D9 1F3FD 200D 2642 FE0F
+2737,👨🏿‍🔧,People & Body,1F468 1F3FF 200D 1F527
+2738,👨🏻‍🔧,People & Body,1F468 1F3FB 200D 1F527
+2739,👨🏾‍🔧,People & Body,1F468 1F3FE 200D 1F527
+2740,👨🏼‍🔧,People & Body,1F468 1F3FC 200D 1F527
+2741,👨🏽‍🔧,People & Body,1F468 1F3FD 200D 1F527
+2742,👨🏾,People & Body,1F468 1F3FE
+2743,👨🏾‍🦲,People & Body,1F468 1F3FE 200D 1F9B2
+2744,🧔🏾‍♂️,People & Body,1F9D4 1F3FE 200D 2642 FE0F
+2746,👱🏾‍♂️,People & Body,1F471 1F3FE 200D 2642 FE0F
+2748,👨🏾‍🦱,People & Body,1F468 1F3FE 200D 1F9B1
+2749,👨🏾‍🦰,People & Body,1F468 1F3FE 200D 1F9B0
+2750,👨🏾‍🦳,People & Body,1F468 1F3FE 200D 1F9B3
+2751,👨🏼,People & Body,1F468 1F3FC
+2752,👨🏼‍🦲,People & Body,1F468 1F3FC 200D 1F9B2
+2753,🧔🏼‍♂️,People & Body,1F9D4 1F3FC 200D 2642 FE0F
+2755,👱🏼‍♂️,People & Body,1F471 1F3FC 200D 2642 FE0F
+2757,👨🏼‍🦱,People & Body,1F468 1F3FC 200D 1F9B1
+2758,👨🏼‍🦰,People & Body,1F468 1F3FC 200D 1F9B0
+2759,👨🏼‍🦳,People & Body,1F468 1F3FC 200D 1F9B3
+2760,👨🏽,People & Body,1F468 1F3FD
+2761,👨🏽‍🦲,People & Body,1F468 1F3FD 200D 1F9B2
+2762,🧔🏽‍♂️,People & Body,1F9D4 1F3FD 200D 2642 FE0F
+2764,👱🏽‍♂️,People & Body,1F471 1F3FD 200D 2642 FE0F
+2766,👨🏽‍🦱,People & Body,1F468 1F3FD 200D 1F9B1
+2767,👨🏽‍🦰,People & Body,1F468 1F3FD 200D 1F9B0
+2768,👨🏽‍🦳,People & Body,1F468 1F3FD 200D 1F9B3
+2769,🚵‍♂️,People & Body,1F6B5 200D 2642 FE0F
+2771,🚵🏿‍♂️,People & Body,1F6B5 1F3FF 200D 2642 FE0F
+2773,🚵🏻‍♂️,People & Body,1F6B5 1F3FB 200D 2642 FE0F
+2775,🚵🏾‍♂️,People & Body,1F6B5 1F3FE 200D 2642 FE0F
+2777,🚵🏼‍♂️,People & Body,1F6B5 1F3FC 200D 2642 FE0F
+2779,🚵🏽‍♂️,People & Body,1F6B5 1F3FD 200D 2642 FE0F
+2781,👨🏿‍💼,People & Body,1F468 1F3FF 200D 1F4BC
+2782,👨🏻‍💼,People & Body,1F468 1F3FB 200D 1F4BC
+2783,👨🏾‍💼,People & Body,1F468 1F3FE 200D 1F4BC
+2784,👨🏼‍💼,People & Body,1F468 1F3FC 200D 1F4BC
+2785,👨🏽‍💼,People & Body,1F468 1F3FD 200D 1F4BC
+2787,👨🏿‍✈️,People & Body,1F468 1F3FF 200D 2708 FE0F
+2789,👨🏻‍✈️,People & Body,1F468 1F3FB 200D 2708 FE0F
+2791,👨🏾‍✈️,People & Body,1F468 1F3FE 200D 2708 FE0F
+2793,👨🏼‍✈️,People & Body,1F468 1F3FC 200D 2708 FE0F
+2795,👨🏽‍✈️,People & Body,1F468 1F3FD 200D 2708 FE0F
+2797,🤾‍♂️,People & Body,1F93E 200D 2642 FE0F
+2799,🤾🏿‍♂️,People & Body,1F93E 1F3FF 200D 2642 FE0F
+2801,🤾🏻‍♂️,People & Body,1F93E 1F3FB 200D 2642 FE0F
+2803,🤾🏾‍♂️,People & Body,1F93E 1F3FE 200D 2642 FE0F
+2805,🤾🏼‍♂️,People & Body,1F93E 1F3FC 200D 2642 FE0F
+2807,🤾🏽‍♂️,People & Body,1F93E 1F3FD 200D 2642 FE0F
+2809,🤽‍♂️,People & Body,1F93D 200D 2642 FE0F
+2811,🤽🏿‍♂️,People & Body,1F93D 1F3FF 200D 2642 FE0F
+2813,🤽🏻‍♂️,People & Body,1F93D 1F3FB 200D 2642 FE0F
+2815,🤽🏾‍♂️,People & Body,1F93D 1F3FE 200D 2642 FE0F
+2817,🤽🏼‍♂️,People & Body,1F93D 1F3FC 200D 2642 FE0F
+2819,🤽🏽‍♂️,People & Body,1F93D 1F3FD 200D 2642 FE0F
+2821,👮‍♂️,People & Body,1F46E 200D 2642 FE0F
+2823,👮🏿‍♂️,People & Body,1F46E 1F3FF 200D 2642 FE0F
+2825,👮🏻‍♂️,People & Body,1F46E 1F3FB 200D 2642 FE0F
+2827,👮🏾‍♂️,People & Body,1F46E 1F3FE 200D 2642 FE0F
+2829,👮🏼‍♂️,People & Body,1F46E 1F3FC 200D 2642 FE0F
+2831,👮🏽‍♂️,People & Body,1F46E 1F3FD 200D 2642 FE0F
+2833,🙎‍♂️,People & Body,1F64E 200D 2642 FE0F
+2835,🙎🏿‍♂️,People & Body,1F64E 1F3FF 200D 2642 FE0F
+2837,🙎🏻‍♂️,People & Body,1F64E 1F3FB 200D 2642 FE0F
+2839,🙎🏾‍♂️,People & Body,1F64E 1F3FE 200D 2642 FE0F
+2841,🙎🏼‍♂️,People & Body,1F64E 1F3FC 200D 2642 FE0F
+2843,🙎🏽‍♂️,People & Body,1F64E 1F3FD 200D 2642 FE0F
+2846,🙋🏿‍♂️,People & Body,1F64B 1F3FF 200D 2642 FE0F
+2848,🙋🏻‍♂️,People & Body,1F64B 1F3FB 200D 2642 FE0F
+2850,🙋🏾‍♂️,People & Body,1F64B 1F3FE 200D 2642 FE0F
+2852,🙋🏼‍♂️,People & Body,1F64B 1F3FC 200D 2642 FE0F
+2854,🙋🏽‍♂️,People & Body,1F64B 1F3FD 200D 2642 FE0F
+2856,👨‍🦰,People & Body,1F468 200D 1F9B0
+2857,🚣‍♂️,People & Body,1F6A3 200D 2642 FE0F
+2859,🚣🏿‍♂️,People & Body,1F6A3 1F3FF 200D 2642 FE0F
+2861,🚣🏻‍♂️,People & Body,1F6A3 1F3FB 200D 2642 FE0F
+2863,🚣🏾‍♂️,People & Body,1F6A3 1F3FE 200D 2642 FE0F
+2865,🚣🏼‍♂️,People & Body,1F6A3 1F3FC 200D 2642 FE0F
+2867,🚣🏽‍♂️,People & Body,1F6A3 1F3FD 200D 2642 FE0F
+2869,🏃‍♂️,People & Body,1F3C3 200D 2642 FE0F
+2871,🏃🏿‍♂️,People & Body,1F3C3 1F3FF 200D 2642 FE0F
+2873,🏃🏻‍♂️,People & Body,1F3C3 1F3FB 200D 2642 FE0F
+2875,🏃🏾‍♂️,People & Body,1F3C3 1F3FE 200D 2642 FE0F
+2877,🏃🏼‍♂️,People & Body,1F3C3 1F3FC 200D 2642 FE0F
+2879,🏃🏽‍♂️,People & Body,1F3C3 1F3FD 200D 2642 FE0F
+2881,👨🏿‍🔬,People & Body,1F468 1F3FF 200D 1F52C
+2882,👨🏻‍🔬,People & Body,1F468 1F3FB 200D 1F52C
+2883,👨🏾‍🔬,People & Body,1F468 1F3FE 200D 1F52C
+2884,👨🏼‍🔬,People & Body,1F468 1F3FC 200D 1F52C
+2885,👨🏽‍🔬,People & Body,1F468 1F3FD 200D 1F52C
+2887,🤷🏿‍♂️,People & Body,1F937 1F3FF 200D 2642 FE0F
+2889,🤷🏻‍♂️,People & Body,1F937 1F3FB 200D 2642 FE0F
+2891,🤷🏾‍♂️,People & Body,1F937 1F3FE 200D 2642 FE0F
+2893,🤷🏼‍♂️,People & Body,1F937 1F3FC 200D 2642 FE0F
+2895,🤷🏽‍♂️,People & Body,1F937 1F3FD 200D 2642 FE0F
+2897,👨🏿‍🎤,People & Body,1F468 1F3FF 200D 1F3A4
+2898,👨🏻‍🎤,People & Body,1F468 1F3FB 200D 1F3A4
+2899,👨🏾‍🎤,People & Body,1F468 1F3FE 200D 1F3A4
+2900,👨🏼‍🎤,People & Body,1F468 1F3FC 200D 1F3A4
+2901,👨🏽‍🎤,People & Body,1F468 1F3FD 200D 1F3A4
+2902,🧍‍♂️,People & Body,1F9CD 200D 2642 FE0F
+2904,🧍🏿‍♂️,People & Body,1F9CD 1F3FF 200D 2642 FE0F
+2906,🧍🏻‍♂️,People & Body,1F9CD 1F3FB 200D 2642 FE0F
+2908,🧍🏾‍♂️,People & Body,1F9CD 1F3FE 200D 2642 FE0F
+2910,🧍🏼‍♂️,People & Body,1F9CD 1F3FC 200D 2642 FE0F
+2912,🧍🏽‍♂️,People & Body,1F9CD 1F3FD 200D 2642 FE0F
+2914,👨🏿‍🎓,People & Body,1F468 1F3FF 200D 1F393
+2915,👨🏻‍🎓,People & Body,1F468 1F3FB 200D 1F393
+2916,👨🏾‍🎓,People & Body,1F468 1F3FE 200D 1F393
+2917,👨🏼‍🎓,People & Body,1F468 1F3FC 200D 1F393
+2918,👨🏽‍🎓,People & Body,1F468 1F3FD 200D 1F393
+2919,🦸‍♂️,People & Body,1F9B8 200D 2642 FE0F
+2921,🦸🏿‍♂️,People & Body,1F9B8 1F3FF 200D 2642 FE0F
+2923,🦸🏻‍♂️,People & Body,1F9B8 1F3FB 200D 2642 FE0F
+2925,🦸🏾‍♂️,People & Body,1F9B8 1F3FE 200D 2642 FE0F
+2927,🦸🏼‍♂️,People & Body,1F9B8 1F3FC 200D 2642 FE0F
+2929,🦸🏽‍♂️,People & Body,1F9B8 1F3FD 200D 2642 FE0F
+2931,🦹‍♂️,People & Body,1F9B9 200D 2642 FE0F
+2933,🦹🏿‍♂️,People & Body,1F9B9 1F3FF 200D 2642 FE0F
+2935,🦹🏻‍♂️,People & Body,1F9B9 1F3FB 200D 2642 FE0F
+2937,🦹🏾‍♂️,People & Body,1F9B9 1F3FE 200D 2642 FE0F
+2939,🦹🏼‍♂️,People & Body,1F9B9 1F3FC 200D 2642 FE0F
+2941,🦹🏽‍♂️,People & Body,1F9B9 1F3FD 200D 2642 FE0F
+2943,🏄‍♂️,People & Body,1F3C4 200D 2642 FE0F
+2945,🏄🏿‍♂️,People & Body,1F3C4 1F3FF 200D 2642 FE0F
+2947,🏄🏻‍♂️,People & Body,1F3C4 1F3FB 200D 2642 FE0F
+2949,🏄🏾‍♂️,People & Body,1F3C4 1F3FE 200D 2642 FE0F
+2951,🏄🏼‍♂️,People & Body,1F3C4 1F3FC 200D 2642 FE0F
+2953,🏄🏽‍♂️,People & Body,1F3C4 1F3FD 200D 2642 FE0F
+2955,🏊‍♂️,People & Body,1F3CA 200D 2642 FE0F
+2957,🏊🏿‍♂️,People & Body,1F3CA 1F3FF 200D 2642 FE0F
+2959,🏊🏻‍♂️,People & Body,1F3CA 1F3FB 200D 2642 FE0F
+2961,🏊🏾‍♂️,People & Body,1F3CA 1F3FE 200D 2642 FE0F
+2963,🏊🏼‍♂️,People & Body,1F3CA 1F3FC 200D 2642 FE0F
+2965,🏊🏽‍♂️,People & Body,1F3CA 1F3FD 200D 2642 FE0F
+2967,👨🏿‍🏫,People & Body,1F468 1F3FF 200D 1F3EB
+2968,👨🏻‍🏫,People & Body,1F468 1F3FB 200D 1F3EB
+2969,👨🏾‍🏫,People & Body,1F468 1F3FE 200D 1F3EB
+2970,👨🏼‍🏫,People & Body,1F468 1F3FC 200D 1F3EB
+2971,👨🏽‍🏫,People & Body,1F468 1F3FD 200D 1F3EB
+2972,👨🏿‍💻,People & Body,1F468 1F3FF 200D 1F4BB
+2973,👨🏻‍💻,People & Body,1F468 1F3FB 200D 1F4BB
+2974,👨🏾‍💻,People & Body,1F468 1F3FE 200D 1F4BB
+2975,👨🏼‍💻,People & Body,1F468 1F3FC 200D 1F4BB
+2976,👨🏽‍💻,People & Body,1F468 1F3FD 200D 1F4BB
+2977,💁‍♂️,People & Body,1F481 200D 2642 FE0F
+2979,💁🏿‍♂️,People & Body,1F481 1F3FF 200D 2642 FE0F
+2981,💁🏻‍♂️,People & Body,1F481 1F3FB 200D 2642 FE0F
+2983,💁🏾‍♂️,People & Body,1F481 1F3FE 200D 2642 FE0F
+2985,💁🏼‍♂️,People & Body,1F481 1F3FC 200D 2642 FE0F
+2987,💁🏽‍♂️,People & Body,1F481 1F3FD 200D 2642 FE0F
+2989,🧛‍♂️,People & Body,1F9DB 200D 2642 FE0F
+2991,🧛🏿‍♂️,People & Body,1F9DB 1F3FF 200D 2642 FE0F
+2993,🧛🏻‍♂️,People & Body,1F9DB 1F3FB 200D 2642 FE0F
+2995,🧛🏾‍♂️,People & Body,1F9DB 1F3FE 200D 2642 FE0F
+2997,🧛🏼‍♂️,People & Body,1F9DB 1F3FC 200D 2642 FE0F
+2999,🧛🏽‍♂️,People & Body,1F9DB 1F3FD 200D 2642 FE0F
+3001,🚶‍♂️,People & Body,1F6B6 200D 2642 FE0F
+3003,🚶🏿‍♂️,People & Body,1F6B6 1F3FF 200D 2642 FE0F
+3005,🚶🏻‍♂️,People & Body,1F6B6 1F3FB 200D 2642 FE0F
+3007,🚶🏾‍♂️,People & Body,1F6B6 1F3FE 200D 2642 FE0F
+3009,🚶🏼‍♂️,People & Body,1F6B6 1F3FC 200D 2642 FE0F
+3011,🚶🏽‍♂️,People & Body,1F6B6 1F3FD 200D 2642 FE0F
+3013,👳‍♂️,People & Body,1F473 200D 2642 FE0F
+3015,👳🏿‍♂️,People & Body,1F473 1F3FF 200D 2642 FE0F
+3017,👳🏻‍♂️,People & Body,1F473 1F3FB 200D 2642 FE0F
+3019,👳🏾‍♂️,People & Body,1F473 1F3FE 200D 2642 FE0F
+3021,👳🏼‍♂️,People & Body,1F473 1F3FC 200D 2642 FE0F
+3023,👳🏽‍♂️,People & Body,1F473 1F3FD 200D 2642 FE0F
+3025,👨‍🦳,People & Body,1F468 200D 1F9B3
+3026,👰‍♂️,People & Body,1F470 200D 2642 FE0F
+3028,👰🏿‍♂️,People & Body,1F470 1F3FF 200D 2642 FE0F
+3030,👰🏻‍♂️,People & Body,1F470 1F3FB 200D 2642 FE0F
+3032,👰🏾‍♂️,People & Body,1F470 1F3FE 200D 2642 FE0F
+3034,👰🏼‍♂️,People & Body,1F470 1F3FC 200D 2642 FE0F
+3036,👰🏽‍♂️,People & Body,1F470 1F3FD 200D 2642 FE0F
+3038,👨‍🦯,People & Body,1F468 200D 1F9AF
+3039,👨🏿‍🦯,People & Body,1F468 1F3FF 200D 1F9AF
+3040,👨🏻‍🦯,People & Body,1F468 1F3FB 200D 1F9AF
+3041,👨🏾‍🦯,People & Body,1F468 1F3FE 200D 1F9AF
+3042,👨🏼‍🦯,People & Body,1F468 1F3FC 200D 1F9AF
+3043,👨🏽‍🦯,People & Body,1F468 1F3FD 200D 1F9AF
+3044,🧟‍♂️,People & Body,1F9DF 200D 2642 FE0F
+3046,🕰,Travel & Places,1F570
+3047,👞,Objects,1F45E
+3048,🍁,Animals & Nature,1F341
+3050,🧑‍🔧,People & Body,1F9D1 200D 1F527
+3051,🧑🏿‍🔧,People & Body,1F9D1 1F3FF 200D 1F527
+3052,🧑🏻‍🔧,People & Body,1F9D1 1F3FB 200D 1F527
+3053,🧑🏾‍🔧,People & Body,1F9D1 1F3FE 200D 1F527
+3054,🧑🏼‍🔧,People & Body,1F9D1 1F3FC 200D 1F527
+3055,🧑🏽‍🔧,People & Body,1F9D1 1F3FD 200D 1F527
+3057,⚕,Symbols,2695
+3058,📣,Objects,1F4E3
+3059,🫠,Smileys & Emotion,1FAE0
+3060,👬,People & Body,1F46C
+3061,👬🏿,People & Body,1F46C 1F3FF
+3062,👨🏿‍🤝‍👨🏻,People & Body,1F468 1F3FF 200D 1F91D 200D 1F468 1F3FB
+3063,👨🏿‍🤝‍👨🏾,People & Body,1F468 1F3FF 200D 1F91D 200D 1F468 1F3FE
+3064,👨🏿‍🤝‍👨🏼,People & Body,1F468 1F3FF 200D 1F91D 200D 1F468 1F3FC
+3065,👨🏿‍🤝‍👨🏽,People & Body,1F468 1F3FF 200D 1F91D 200D 1F468 1F3FD
+3066,👬🏻,People & Body,1F46C 1F3FB
+3067,👨🏻‍🤝‍👨🏿,People & Body,1F468 1F3FB 200D 1F91D 200D 1F468 1F3FF
+3068,👨🏻‍🤝‍👨🏾,People & Body,1F468 1F3FB 200D 1F91D 200D 1F468 1F3FE
+3069,👨🏻‍🤝‍👨🏼,People & Body,1F468 1F3FB 200D 1F91D 200D 1F468 1F3FC
+3070,👨🏻‍🤝‍👨🏽,People & Body,1F468 1F3FB 200D 1F91D 200D 1F468 1F3FD
+3071,👬🏾,People & Body,1F46C 1F3FE
+3072,👨🏾‍🤝‍👨🏿,People & Body,1F468 1F3FE 200D 1F91D 200D 1F468 1F3FF
+3073,👨🏾‍🤝‍👨🏻,People & Body,1F468 1F3FE 200D 1F91D 200D 1F468 1F3FB
+3074,👨🏾‍🤝‍👨🏼,People & Body,1F468 1F3FE 200D 1F91D 200D 1F468 1F3FC
+3075,👨🏾‍🤝‍👨🏽,People & Body,1F468 1F3FE 200D 1F91D 200D 1F468 1F3FD
+3076,👬🏼,People & Body,1F46C 1F3FC
+3077,👨🏼‍🤝‍👨🏿,People & Body,1F468 1F3FC 200D 1F91D 200D 1F468 1F3FF
+3078,👨🏼‍🤝‍👨🏻,People & Body,1F468 1F3FC 200D 1F91D 200D 1F468 1F3FB
+3079,👨🏼‍🤝‍👨🏾,People & Body,1F468 1F3FC 200D 1F91D 200D 1F468 1F3FE
+3080,👨🏼‍🤝‍👨🏽,People & Body,1F468 1F3FC 200D 1F91D 200D 1F468 1F3FD
+3081,👬🏽,People & Body,1F46C 1F3FD
+3082,👨🏽‍🤝‍👨🏿,People & Body,1F468 1F3FD 200D 1F91D 200D 1F468 1F3FF
+3083,👨🏽‍🤝‍👨🏻,People & Body,1F468 1F3FD 200D 1F91D 200D 1F468 1F3FB
+3084,👨🏽‍🤝‍👨🏾,People & Body,1F468 1F3FD 200D 1F91D 200D 1F468 1F3FE
+3085,👨🏽‍🤝‍👨🏼,People & Body,1F468 1F3FD 200D 1F91D 200D 1F468 1F3FC
+3086,👯‍♂️,People & Body,1F46F 200D 2642 FE0F
+3088,🤼‍♂️,People & Body,1F93C 200D 2642 FE0F
+3090,❤️‍🩹,Smileys & Emotion,2764 FE0F 200D 1FA79
+3092,🕎,Symbols,1F54E
+3093,🚹,Symbols,1F6B9
+3094,🧜‍♀️,People & Body,1F9DC 200D 2640 FE0F
+3096,🧜🏿‍♀️,People & Body,1F9DC 1F3FF 200D 2640 FE0F
+3098,🧜🏻‍♀️,People & Body,1F9DC 1F3FB 200D 2640 FE0F
+3100,🧜🏾‍♀️,People & Body,1F9DC 1F3FE 200D 2640 FE0F
+3102,🧜🏼‍♀️,People & Body,1F9DC 1F3FC 200D 2640 FE0F
+3104,🧜🏽‍♀️,People & Body,1F9DC 1F3FD 200D 2640 FE0F
+3106,🧜‍♂️,People & Body,1F9DC 200D 2642 FE0F
+3108,🧜🏿‍♂️,People & Body,1F9DC 1F3FF 200D 2642 FE0F
+3110,🧜🏻‍♂️,People & Body,1F9DC 1F3FB 200D 2642 FE0F
+3112,🧜🏾‍♂️,People & Body,1F9DC 1F3FE 200D 2642 FE0F
+3114,🧜🏼‍♂️,People & Body,1F9DC 1F3FC 200D 2642 FE0F
+3116,🧜🏽‍♂️,People & Body,1F9DC 1F3FD 200D 2642 FE0F
+3118,🧜🏿,People & Body,1F9DC 1F3FF
+3119,🧜🏻,People & Body,1F9DC 1F3FB
+3120,🧜🏾,People & Body,1F9DC 1F3FE
+3121,🧜🏼,People & Body,1F9DC 1F3FC
+3122,🧜🏽,People & Body,1F9DC 1F3FD
+3123,🎤,Objects,1F3A4
+3124,🖕🏿,People & Body,1F595 1F3FF
+3125,🖕🏻,People & Body,1F595 1F3FB
+3126,🖕🏾,People & Body,1F595 1F3FE
+3127,🖕🏼,People & Body,1F595 1F3FC
+3128,🖕🏽,People & Body,1F595 1F3FD
+3129,🪖,Objects,1FA96
+3130,🎖,Activities,1F396
+3131,🌌,Travel & Places,1F30C
+3132,➖,Symbols,2796
+3133,🪞,Objects,1FA9E
+3134,🪩,Activities,1FAA9
+3135,🗿,Objects,1F5FF
+3136,📴,Symbols,1F4F4
+3137,🎑,Activities,1F391
+3139,🛥,Travel & Places,1F6E5
+3140,🏍,Travel & Places,1F3CD
+3141,🛣,Travel & Places,1F6E3
+3142,⛰,Travel & Places,26F0
+3143,👄,People & Body,1F444
+3145,✖,Symbols,2716
+3146,🍄,Animals & Nature,1F344
+3147,🎹,Objects,1F3B9
+3148,🎵,Objects,1F3B5
+3149,🎶,Objects,1F3B6
+3150,🎼,Objects,1F3BC
+3151,🔇,Objects,1F507
+3152,🧑‍🎄,People & Body,1F9D1 200D 1F384
+3153,🧑🏿‍🎄,People & Body,1F9D1 1F3FF 200D 1F384
+3154,🧑🏻‍🎄,People & Body,1F9D1 1F3FB 200D 1F384
+3155,🧑🏾‍🎄,People & Body,1F9D1 1F3FE 200D 1F384
+3156,🧑🏼‍🎄,People & Body,1F9D1 1F3FC 200D 1F384
+3157,🧑🏽‍🎄,People & Body,1F9D1 1F3FD 200D 1F384
+3158,💅🏿,People & Body,1F485 1F3FF
+3159,💅🏻,People & Body,1F485 1F3FB
+3160,💅🏾,People & Body,1F485 1F3FE
+3161,💅🏼,People & Body,1F485 1F3FC
+3162,💅🏽,People & Body,1F485 1F3FD
+3163,📛,Symbols,1F4DB
+3164,🏞,Travel & Places,1F3DE
+3165,👔,Objects,1F454
+3166,🪺,Animals & Nature,1FABA
+3167,🌑,Travel & Places,1F311
+3168,🌚,Travel & Places,1F31A
+3170,⏭,Symbols,23ED
+3171,🥷🏿,People & Body,1F977 1F3FF
+3172,🥷🏻,People & Body,1F977 1F3FB
+3173,🥷🏾,People & Body,1F977 1F3FE
+3174,🥷🏼,People & Body,1F977 1F3FC
+3175,🥷🏽,People & Body,1F977 1F3FD
+3176,🚳,Symbols,1F6B3
+3177,⛔,Symbols,26D4
+3178,🚯,Symbols,1F6AF
+3179,📵,Symbols,1F4F5
+3180,🔞,Symbols,1F51E
+3181,🚷,Symbols,1F6B7
+3182,🚭,Symbols,1F6AD
+3183,🚱,Symbols,1F6B1
+3184,👃🏿,People & Body,1F443 1F3FF
+3185,👃🏻,People & Body,1F443 1F3FB
+3186,👃🏾,People & Body,1F443 1F3FE
+3187,👃🏼,People & Body,1F443 1F3FC
+3188,👃🏽,People & Body,1F443 1F3FD
+3189,🧑‍💼,People & Body,1F9D1 200D 1F4BC
+3190,🧑🏿‍💼,People & Body,1F9D1 1F3FF 200D 1F4BC
+3191,🧑🏻‍💼,People & Body,1F9D1 1F3FB 200D 1F4BC
+3192,🧑🏾‍💼,People & Body,1F9D1 1F3FE 200D 1F4BC
+3193,🧑🏼‍💼,People & Body,1F9D1 1F3FC 200D 1F4BC
+3194,🧑🏽‍💼,People & Body,1F9D1 1F3FD 200D 1F4BC
+3195,🛢,Travel & Places,1F6E2
+3196,🗝,Objects,1F5DD
+3197,👴,People & Body,1F474
+3198,👴🏿,People & Body,1F474 1F3FF
+3199,👴🏻,People & Body,1F474 1F3FB
+3200,👴🏾,People & Body,1F474 1F3FE
+3201,👴🏼,People & Body,1F474 1F3FC
+3202,👴🏽,People & Body,1F474 1F3FD
+3203,👵,People & Body,1F475
+3204,👵🏿,People & Body,1F475 1F3FF
+3205,👵🏻,People & Body,1F475 1F3FB
+3206,👵🏾,People & Body,1F475 1F3FE
+3207,👵🏼,People & Body,1F475 1F3FC
+3208,👵🏽,People & Body,1F475 1F3FD
+3209,🧓,People & Body,1F9D3
+3210,🧓🏿,People & Body,1F9D3 1F3FF
+3211,🧓🏻,People & Body,1F9D3 1F3FB
+3212,🧓🏾,People & Body,1F9D3 1F3FE
+3213,🧓🏼,People & Body,1F9D3 1F3FC
+3214,🧓🏽,People & Body,1F9D3 1F3FD
+3215,🫒,Food & Drink,1FAD2
+3217,🕉,Symbols,1F549
+3218,👊🏿,People & Body,1F44A 1F3FF
+3219,👊🏻,People & Body,1F44A 1F3FB
+3220,👊🏾,People & Body,1F44A 1F3FE
+3221,👊🏼,People & Body,1F44A 1F3FC
+3222,👊🏽,People & Body,1F44A 1F3FD
+3223,🩱,Objects,1FA71
+3224,👐🏿,People & Body,1F450 1F3FF
+3225,👐🏻,People & Body,1F450 1F3FB
+3226,👐🏾,People & Body,1F450 1F3FE
+3227,👐🏼,People & Body,1F450 1F3FC
+3228,👐🏽,People & Body,1F450 1F3FD
+3229,🟠,Symbols,1F7E0
+3230,🧡,Smileys & Emotion,1F9E1
+3231,🟧,Symbols,1F7E7
+3233,☦,Symbols,2626
+3234,🖌,Objects,1F58C
+3235,🫳🏿,People & Body,1FAF3 1F3FF
+3236,🫳🏻,People & Body,1FAF3 1F3FB
+3237,🫳🏾,People & Body,1FAF3 1F3FE
+3238,🫳🏼,People & Body,1FAF3 1F3FC
+3239,🫳🏽,People & Body,1FAF3 1F3FD
+3240,🌴,Animals & Nature,1F334
+3241,🫴🏿,People & Body,1FAF4 1F3FF
+3242,🫴🏻,People & Body,1FAF4 1F3FB
+3243,🫴🏾,People & Body,1FAF4 1F3FE
+3244,🫴🏼,People & Body,1FAF4 1F3FC
+3245,🫴🏽,People & Body,1FAF4 1F3FD
+3246,🤲🏿,People & Body,1F932 1F3FF
+3247,🤲🏻,People & Body,1F932 1F3FB
+3248,🤲🏾,People & Body,1F932 1F3FE
+3249,🤲🏼,People & Body,1F932 1F3FC
+3250,🤲🏽,People & Body,1F932 1F3FD
+3252,〽,Symbols,303D
+3253,🛳,Travel & Places,1F6F3
+3254,🛂,Symbols,1F6C2
+3256,⏸,Symbols,23F8
+3259,☮,Symbols,262E
+3260,🖊,Objects,1F58A
+3261,✏,Objects,270F
+3262,🧑‍🤝‍🧑,People & Body,1F9D1 200D 1F91D 200D 1F9D1
+3263,🧑🏿‍🤝‍🧑🏿,People & Body,1F9D1 1F3FF 200D 1F91D 200D 1F9D1 1F3FF
+3264,🧑🏿‍🤝‍🧑🏻,People & Body,1F9D1 1F3FF 200D 1F91D 200D 1F9D1 1F3FB
+3265,🧑🏿‍🤝‍🧑🏾,People & Body,1F9D1 1F3FF 200D 1F91D 200D 1F9D1 1F3FE
+3266,🧑🏿‍🤝‍🧑🏼,People & Body,1F9D1 1F3FF 200D 1F91D 200D 1F9D1 1F3FC
+3267,🧑🏿‍🤝‍🧑🏽,People & Body,1F9D1 1F3FF 200D 1F91D 200D 1F9D1 1F3FD
+3268,🧑🏻‍🤝‍🧑🏻,People & Body,1F9D1 1F3FB 200D 1F91D 200D 1F9D1 1F3FB
+3269,🧑🏻‍🤝‍🧑🏿,People & Body,1F9D1 1F3FB 200D 1F91D 200D 1F9D1 1F3FF
+3270,🧑🏻‍🤝‍🧑🏾,People & Body,1F9D1 1F3FB 200D 1F91D 200D 1F9D1 1F3FE
+3271,🧑🏻‍🤝‍🧑🏼,People & Body,1F9D1 1F3FB 200D 1F91D 200D 1F9D1 1F3FC
+3272,🧑🏻‍🤝‍🧑🏽,People & Body,1F9D1 1F3FB 200D 1F91D 200D 1F9D1 1F3FD
+3273,🧑🏾‍🤝‍🧑🏾,People & Body,1F9D1 1F3FE 200D 1F91D 200D 1F9D1 1F3FE
+3274,🧑🏾‍🤝‍🧑🏿,People & Body,1F9D1 1F3FE 200D 1F91D 200D 1F9D1 1F3FF
+3275,🧑🏾‍🤝‍🧑🏻,People & Body,1F9D1 1F3FE 200D 1F91D 200D 1F9D1 1F3FB
+3276,🧑🏾‍🤝‍🧑🏼,People & Body,1F9D1 1F3FE 200D 1F91D 200D 1F9D1 1F3FC
+3277,🧑🏾‍🤝‍🧑🏽,People & Body,1F9D1 1F3FE 200D 1F91D 200D 1F9D1 1F3FD
+3278,🧑🏼‍🤝‍🧑🏼,People & Body,1F9D1 1F3FC 200D 1F91D 200D 1F9D1 1F3FC
+3279,🧑🏼‍🤝‍🧑🏿,People & Body,1F9D1 1F3FC 200D 1F91D 200D 1F9D1 1F3FF
+3280,🧑🏼‍🤝‍🧑🏻,People & Body,1F9D1 1F3FC 200D 1F91D 200D 1F9D1 1F3FB
+3281,🧑🏼‍🤝‍🧑🏾,People & Body,1F9D1 1F3FC 200D 1F91D 200D 1F9D1 1F3FE
+3282,🧑🏼‍🤝‍🧑🏽,People & Body,1F9D1 1F3FC 200D 1F91D 200D 1F9D1 1F3FD
+3283,🧑🏽‍🤝‍🧑🏽,People & Body,1F9D1 1F3FD 200D 1F91D 200D 1F9D1 1F3FD
+3284,🧑🏽‍🤝‍🧑🏿,People & Body,1F9D1 1F3FD 200D 1F91D 200D 1F9D1 1F3FF
+3285,🧑🏽‍🤝‍🧑🏻,People & Body,1F9D1 1F3FD 200D 1F91D 200D 1F9D1 1F3FB
+3286,🧑🏽‍🤝‍🧑🏾,People & Body,1F9D1 1F3FD 200D 1F91D 200D 1F9D1 1F3FE
+3287,🧑🏽‍🤝‍🧑🏼,People & Body,1F9D1 1F3FD 200D 1F91D 200D 1F9D1 1F3FC
+3288,🫂,People & Body,1FAC2
+3289,🧑,People & Body,1F9D1
+3290,🧑‍🦲,People & Body,1F9D1 200D 1F9B2
+3291,🧔,People & Body,1F9D4
+3292,🚴🏿,People & Body,1F6B4 1F3FF
+3293,🚴🏻,People & Body,1F6B4 1F3FB
+3294,🚴🏾,People & Body,1F6B4 1F3FE
+3295,🚴🏼,People & Body,1F6B4 1F3FC
+3296,🚴🏽,People & Body,1F6B4 1F3FD
+3297,👱,People & Body,1F471
+3298,⛹,People & Body,26F9
+3299,⛹🏿,People & Body,26F9 1F3FF
+3300,⛹🏻,People & Body,26F9 1F3FB
+3301,⛹🏾,People & Body,26F9 1F3FE
+3302,⛹🏼,People & Body,26F9 1F3FC
+3303,⛹🏽,People & Body,26F9 1F3FD
+3304,🙇🏿,People & Body,1F647 1F3FF
+3305,🙇🏻,People & Body,1F647 1F3FB
+3306,🙇🏾,People & Body,1F647 1F3FE
+3307,🙇🏼,People & Body,1F647 1F3FC
+3308,🙇🏽,People & Body,1F647 1F3FD
+3309,🤸🏿,People & Body,1F938 1F3FF
+3310,🤸🏻,People & Body,1F938 1F3FB
+3311,🤸🏾,People & Body,1F938 1F3FE
+3312,🤸🏼,People & Body,1F938 1F3FC
+3313,🤸🏽,People & Body,1F938 1F3FD
+3314,🧗🏿,People & Body,1F9D7 1F3FF
+3315,🧗🏻,People & Body,1F9D7 1F3FB
+3316,🧗🏾,People & Body,1F9D7 1F3FE
+3317,🧗🏼,People & Body,1F9D7 1F3FC
+3318,🧗🏽,People & Body,1F9D7 1F3FD
+3319,🧑‍🦱,People & Body,1F9D1 200D 1F9B1
+3320,🧑🏿,People & Body,1F9D1 1F3FF
+3321,🧑🏿‍🦲,People & Body,1F9D1 1F3FF 200D 1F9B2
+3322,🧔🏿,People & Body,1F9D4 1F3FF
+3323,👱🏿,People & Body,1F471 1F3FF
+3324,🧑🏿‍🦱,People & Body,1F9D1 1F3FF 200D 1F9B1
+3325,🧑🏿‍🦰,People & Body,1F9D1 1F3FF 200D 1F9B0
+3326,🧑🏿‍🦳,People & Body,1F9D1 1F3FF 200D 1F9B3
+3327,🤦🏿,People & Body,1F926 1F3FF
+3328,🤦🏻,People & Body,1F926 1F3FB
+3329,🤦🏾,People & Body,1F926 1F3FE
+3330,🤦🏼,People & Body,1F926 1F3FC
+3331,🤦🏽,People & Body,1F926 1F3FD
+3332,🧑‍🍼,People & Body,1F9D1 200D 1F37C
+3333,🧑🏿‍🍼,People & Body,1F9D1 1F3FF 200D 1F37C
+3334,🧑🏻‍🍼,People & Body,1F9D1 1F3FB 200D 1F37C
+3335,🧑🏾‍🍼,People & Body,1F9D1 1F3FE 200D 1F37C
+3336,🧑🏼‍🍼,People & Body,1F9D1 1F3FC 200D 1F37C
+3337,🧑🏽‍🍼,People & Body,1F9D1 1F3FD 200D 1F37C
+3338,🙍,People & Body,1F64D
+3339,🙍🏿,People & Body,1F64D 1F3FF
+3340,🙍🏻,People & Body,1F64D 1F3FB
+3341,🙍🏾,People & Body,1F64D 1F3FE
+3342,🙍🏼,People & Body,1F64D 1F3FC
+3343,🙍🏽,People & Body,1F64D 1F3FD
+3344,🙅🏿,People & Body,1F645 1F3FF
+3345,🙅🏻,People & Body,1F645 1F3FB
+3346,🙅🏾,People & Body,1F645 1F3FE
+3347,🙅🏼,People & Body,1F645 1F3FC
+3348,🙅🏽,People & Body,1F645 1F3FD
+3349,🙆🏿,People & Body,1F646 1F3FF
+3350,🙆🏻,People & Body,1F646 1F3FB
+3351,🙆🏾,People & Body,1F646 1F3FE
+3352,🙆🏼,People & Body,1F646 1F3FC
+3353,🙆🏽,People & Body,1F646 1F3FD
+3354,💇🏿,People & Body,1F487 1F3FF
+3355,💇🏻,People & Body,1F487 1F3FB
+3356,💇🏾,People & Body,1F487 1F3FE
+3357,💇🏼,People & Body,1F487 1F3FC
+3358,💇🏽,People & Body,1F487 1F3FD
+3359,💆🏿,People & Body,1F486 1F3FF
+3360,💆🏻,People & Body,1F486 1F3FB
+3361,💆🏾,People & Body,1F486 1F3FE
+3362,💆🏼,People & Body,1F486 1F3FC
+3363,💆🏽,People & Body,1F486 1F3FD
+3364,🏌,People & Body,1F3CC
+3365,🏌🏿,People & Body,1F3CC 1F3FF
+3366,🏌🏻,People & Body,1F3CC 1F3FB
+3367,🏌🏾,People & Body,1F3CC 1F3FE
+3368,🏌🏼,People & Body,1F3CC 1F3FC
+3369,🏌🏽,People & Body,1F3CC 1F3FD
+3370,🛌🏿,People & Body,1F6CC 1F3FF
+3371,🛌🏻,People & Body,1F6CC 1F3FB
+3372,🛌🏾,People & Body,1F6CC 1F3FE
+3373,🛌🏼,People & Body,1F6CC 1F3FC
+3374,🛌🏽,People & Body,1F6CC 1F3FD
+3375,🧘🏿,People & Body,1F9D8 1F3FF
+3376,🧘🏻,People & Body,1F9D8 1F3FB
+3377,🧘🏾,People & Body,1F9D8 1F3FE
+3378,🧘🏼,People & Body,1F9D8 1F3FC
+3379,🧘🏽,People & Body,1F9D8 1F3FD
+3380,🧑‍🦽,People & Body,1F9D1 200D 1F9BD
+3381,🧑🏿‍🦽,People & Body,1F9D1 1F3FF 200D 1F9BD
+3382,🧑🏻‍🦽,People & Body,1F9D1 1F3FB 200D 1F9BD
+3383,🧑🏾‍🦽,People & Body,1F9D1 1F3FE 200D 1F9BD
+3384,🧑🏼‍🦽,People & Body,1F9D1 1F3FC 200D 1F9BD
+3385,🧑🏽‍🦽,People & Body,1F9D1 1F3FD 200D 1F9BD
+3386,🧑‍🦼,People & Body,1F9D1 200D 1F9BC
+3387,🧑🏿‍🦼,People & Body,1F9D1 1F3FF 200D 1F9BC
+3388,🧑🏻‍🦼,People & Body,1F9D1 1F3FB 200D 1F9BC
+3389,🧑🏾‍🦼,People & Body,1F9D1 1F3FE 200D 1F9BC
+3390,🧑🏼‍🦼,People & Body,1F9D1 1F3FC 200D 1F9BC
+3391,🧑🏽‍🦼,People & Body,1F9D1 1F3FD 200D 1F9BC
+3392,🧖🏿,People & Body,1F9D6 1F3FF
+3393,🧖🏻,People & Body,1F9D6 1F3FB
+3394,🧖🏾,People & Body,1F9D6 1F3FE
+3395,🧖🏼,People & Body,1F9D6 1F3FC
+3396,🧖🏽,People & Body,1F9D6 1F3FD
+3397,🕴,People & Body,1F574
+3398,🕴🏿,People & Body,1F574 1F3FF
+3399,🕴🏻,People & Body,1F574 1F3FB
+3400,🕴🏾,People & Body,1F574 1F3FE
+3401,🕴🏼,People & Body,1F574 1F3FC
+3402,🕴🏽,People & Body,1F574 1F3FD
+3403,🤵🏿,People & Body,1F935 1F3FF
+3404,🤵🏻,People & Body,1F935 1F3FB
+3405,🤵🏾,People & Body,1F935 1F3FE
+3406,🤵🏼,People & Body,1F935 1F3FC
+3407,🤵🏽,People & Body,1F935 1F3FD
+3408,🤹🏿,People & Body,1F939 1F3FF
+3409,🤹🏻,People & Body,1F939 1F3FB
+3410,🤹🏾,People & Body,1F939 1F3FE
+3411,🤹🏼,People & Body,1F939 1F3FC
+3412,🤹🏽,People & Body,1F939 1F3FD
+3413,🧎🏿,People & Body,1F9CE 1F3FF
+3414,🧎🏻,People & Body,1F9CE 1F3FB
+3415,🧎🏾,People & Body,1F9CE 1F3FE
+3416,🧎🏼,People & Body,1F9CE 1F3FC
+3417,🧎🏽,People & Body,1F9CE 1F3FD
+3418,🏋,People & Body,1F3CB
+3419,🏋🏿,People & Body,1F3CB 1F3FF
+3420,🏋🏻,People & Body,1F3CB 1F3FB
+3421,🏋🏾,People & Body,1F3CB 1F3FE
+3422,🏋🏼,People & Body,1F3CB 1F3FC
+3423,🏋🏽,People & Body,1F3CB 1F3FD
+3424,🧑🏻,People & Body,1F9D1 1F3FB
+3425,🧑🏻‍🦲,People & Body,1F9D1 1F3FB 200D 1F9B2
+3426,🧔🏻,People & Body,1F9D4 1F3FB
+3427,👱🏻,People & Body,1F471 1F3FB
+3428,🧑🏻‍🦱,People & Body,1F9D1 1F3FB 200D 1F9B1
+3429,🧑🏻‍🦰,People & Body,1F9D1 1F3FB 200D 1F9B0
+3430,🧑🏻‍🦳,People & Body,1F9D1 1F3FB 200D 1F9B3
+3431,🧑🏾,People & Body,1F9D1 1F3FE
+3432,🧑🏾‍🦲,People & Body,1F9D1 1F3FE 200D 1F9B2
+3433,🧔🏾,People & Body,1F9D4 1F3FE
+3434,👱🏾,People & Body,1F471 1F3FE
+3435,🧑🏾‍🦱,People & Body,1F9D1 1F3FE 200D 1F9B1
+3436,🧑🏾‍🦰,People & Body,1F9D1 1F3FE 200D 1F9B0
+3437,🧑🏾‍🦳,People & Body,1F9D1 1F3FE 200D 1F9B3
+3438,🧑🏼,People & Body,1F9D1 1F3FC
+3439,🧑🏼‍🦲,People & Body,1F9D1 1F3FC 200D 1F9B2
+3440,🧔🏼,People & Body,1F9D4 1F3FC
+3441,👱🏼,People & Body,1F471 1F3FC
+3442,🧑🏼‍🦱,People & Body,1F9D1 1F3FC 200D 1F9B1
+3443,🧑🏼‍🦰,People & Body,1F9D1 1F3FC 200D 1F9B0
+3444,🧑🏼‍🦳,People & Body,1F9D1 1F3FC 200D 1F9B3
+3445,🧑🏽,People & Body,1F9D1 1F3FD
+3446,🧑🏽‍🦲,People & Body,1F9D1 1F3FD 200D 1F9B2
+3447,🧔🏽,People & Body,1F9D4 1F3FD
+3448,👱🏽,People & Body,1F471 1F3FD
+3449,🧑🏽‍🦱,People & Body,1F9D1 1F3FD 200D 1F9B1
+3450,🧑🏽‍🦰,People & Body,1F9D1 1F3FD 200D 1F9B0
+3451,🧑🏽‍🦳,People & Body,1F9D1 1F3FD 200D 1F9B3
+3452,🚵🏿,People & Body,1F6B5 1F3FF
+3453,🚵🏻,People & Body,1F6B5 1F3FB
+3454,🚵🏾,People & Body,1F6B5 1F3FE
+3455,🚵🏼,People & Body,1F6B5 1F3FC
+3456,🚵🏽,People & Body,1F6B5 1F3FD
+3457,🤾🏿,People & Body,1F93E 1F3FF
+3458,🤾🏻,People & Body,1F93E 1F3FB
+3459,🤾🏾,People & Body,1F93E 1F3FE
+3460,🤾🏼,People & Body,1F93E 1F3FC
+3461,🤾🏽,People & Body,1F93E 1F3FD
+3462,🤽🏿,People & Body,1F93D 1F3FF
+3463,🤽🏻,People & Body,1F93D 1F3FB
+3464,🤽🏾,People & Body,1F93D 1F3FE
+3465,🤽🏼,People & Body,1F93D 1F3FC
+3466,🤽🏽,People & Body,1F93D 1F3FD
+3467,🙎,People & Body,1F64E
+3468,🙎🏿,People & Body,1F64E 1F3FF
+3469,🙎🏻,People & Body,1F64E 1F3FB
+3470,🙎🏾,People & Body,1F64E 1F3FE
+3471,🙎🏼,People & Body,1F64E 1F3FC
+3472,🙎🏽,People & Body,1F64E 1F3FD
+3473,🙋🏿,People & Body,1F64B 1F3FF
+3474,🙋🏻,People & Body,1F64B 1F3FB
+3475,🙋🏾,People & Body,1F64B 1F3FE
+3476,🙋🏼,People & Body,1F64B 1F3FC
+3477,🙋🏽,People & Body,1F64B 1F3FD
+3478,🧑‍🦰,People & Body,1F9D1 200D 1F9B0
+3479,🚣🏿,People & Body,1F6A3 1F3FF
+3480,🚣🏻,People & Body,1F6A3 1F3FB
+3481,🚣🏾,People & Body,1F6A3 1F3FE
+3482,🚣🏼,People & Body,1F6A3 1F3FC
+3483,🚣🏽,People & Body,1F6A3 1F3FD
+3484,🏃🏿,People & Body,1F3C3 1F3FF
+3485,🏃🏻,People & Body,1F3C3 1F3FB
+3486,🏃🏾,People & Body,1F3C3 1F3FE
+3487,🏃🏼,People & Body,1F3C3 1F3FC
+3488,🏃🏽,People & Body,1F3C3 1F3FD
+3489,🤷🏿,People & Body,1F937 1F3FF
+3490,🤷🏻,People & Body,1F937 1F3FB
+3491,🤷🏾,People & Body,1F937 1F3FE
+3492,🤷🏼,People & Body,1F937 1F3FC
+3493,🤷🏽,People & Body,1F937 1F3FD
+3494,🧍🏿,People & Body,1F9CD 1F3FF
+3495,🧍🏻,People & Body,1F9CD 1F3FB
+3496,🧍🏾,People & Body,1F9CD 1F3FE
+3497,🧍🏼,People & Body,1F9CD 1F3FC
+3498,🧍🏽,People & Body,1F9CD 1F3FD
+3499,🏄🏿,People & Body,1F3C4 1F3FF
+3500,🏄🏻,People & Body,1F3C4 1F3FB
+3501,🏄🏾,People & Body,1F3C4 1F3FE
+3502,🏄🏼,People & Body,1F3C4 1F3FC
+3503,🏄🏽,People & Body,1F3C4 1F3FD
+3504,🏊🏿,People & Body,1F3CA 1F3FF
+3505,🏊🏻,People & Body,1F3CA 1F3FB
+3506,🏊🏾,People & Body,1F3CA 1F3FE
+3507,🏊🏼,People & Body,1F3CA 1F3FC
+3508,🏊🏽,People & Body,1F3CA 1F3FD
+3509,🛀🏿,People & Body,1F6C0 1F3FF
+3510,🛀🏻,People & Body,1F6C0 1F3FB
+3511,🛀🏾,People & Body,1F6C0 1F3FE
+3512,🛀🏼,People & Body,1F6C0 1F3FC
+3513,🛀🏽,People & Body,1F6C0 1F3FD
+3514,💁,People & Body,1F481
+3515,💁🏿,People & Body,1F481 1F3FF
+3516,💁🏻,People & Body,1F481 1F3FB
+3517,💁🏾,People & Body,1F481 1F3FE
+3518,💁🏼,People & Body,1F481 1F3FC
+3519,💁🏽,People & Body,1F481 1F3FD
+3520,🚶🏿,People & Body,1F6B6 1F3FF
+3521,🚶🏻,People & Body,1F6B6 1F3FB
+3522,🚶🏾,People & Body,1F6B6 1F3FE
+3523,🚶🏼,People & Body,1F6B6 1F3FC
+3524,🚶🏽,People & Body,1F6B6 1F3FD
+3525,👳🏿,People & Body,1F473 1F3FF
+3526,👳🏻,People & Body,1F473 1F3FB
+3527,👳🏾,People & Body,1F473 1F3FE
+3528,👳🏼,People & Body,1F473 1F3FC
+3529,👳🏽,People & Body,1F473 1F3FD
+3530,🧑‍🦳,People & Body,1F9D1 200D 1F9B3
+3531,🫅,People & Body,1FAC5
+3532,🫅🏿,People & Body,1FAC5 1F3FF
+3533,🫅🏻,People & Body,1FAC5 1F3FB
+3534,🫅🏾,People & Body,1FAC5 1F3FE
+3535,🫅🏼,People & Body,1FAC5 1F3FC
+3536,🫅🏽,People & Body,1FAC5 1F3FD
+3537,👲🏿,People & Body,1F472 1F3FF
+3538,👲🏻,People & Body,1F472 1F3FB
+3539,👲🏾,People & Body,1F472 1F3FE
+3540,👲🏼,People & Body,1F472 1F3FC
+3541,👲🏽,People & Body,1F472 1F3FD
+3542,👰🏿,People & Body,1F470 1F3FF
+3543,👰🏻,People & Body,1F470 1F3FB
+3544,👰🏾,People & Body,1F470 1F3FE
+3545,👰🏼,People & Body,1F470 1F3FC
+3546,👰🏽,People & Body,1F470 1F3FD
+3547,🧑‍🦯,People & Body,1F9D1 200D 1F9AF
+3548,🧑🏿‍🦯,People & Body,1F9D1 1F3FF 200D 1F9AF
+3549,🧑🏻‍🦯,People & Body,1F9D1 1F3FB 200D 1F9AF
+3550,🧑🏾‍🦯,People & Body,1F9D1 1F3FE 200D 1F9AF
+3551,🧑🏼‍🦯,People & Body,1F9D1 1F3FC 200D 1F9AF
+3552,🧑🏽‍🦯,People & Body,1F9D1 1F3FD 200D 1F9AF
+3553,⛏,Objects,26CF
+3554,🧑‍✈️,People & Body,1F9D1 200D 2708 FE0F
+3556,🧑🏿‍✈️,People & Body,1F9D1 1F3FF 200D 2708 FE0F
+3558,🧑🏻‍✈️,People & Body,1F9D1 1F3FB 200D 2708 FE0F
+3560,🧑🏾‍✈️,People & Body,1F9D1 1F3FE 200D 2708 FE0F
+3562,🧑🏼‍✈️,People & Body,1F9D1 1F3FC 200D 2708 FE0F
+3564,🧑🏽‍✈️,People & Body,1F9D1 1F3FD 200D 2708 FE0F
+3566,🤌🏿,People & Body,1F90C 1F3FF
+3567,🤌🏻,People & Body,1F90C 1F3FB
+3568,🤌🏾,People & Body,1F90C 1F3FE
+3569,🤌🏼,People & Body,1F90C 1F3FC
+3570,🤌🏽,People & Body,1F90C 1F3FD
+3571,🤏🏿,People & Body,1F90F 1F3FF
+3572,🤏🏻,People & Body,1F90F 1F3FB
+3573,🤏🏾,People & Body,1F90F 1F3FE
+3574,🤏🏼,People & Body,1F90F 1F3FC
+3575,🤏🏽,People & Body,1F90F 1F3FD
+3576,🎍,Activities,1F38D
+3578,🏴‍☠️,Flags,1F3F4 200D 2620 FE0F
+3580,🪧,Objects,1FAA7
+3581,🛐,Symbols,1F6D0
+3583,▶,Symbols,25B6
+3585,⏯,Symbols,23EF
+3586,🛝,Travel & Places,1F6DD
+3587,➕,Symbols,2795
+3589,👮🏿,People & Body,1F46E 1F3FF
+3590,👮🏻,People & Body,1F46E 1F3FB
+3591,👮🏾,People & Body,1F46E 1F3FE
+3592,👮🏼,People & Body,1F46E 1F3FC
+3593,👮🏽,People & Body,1F46E 1F3FD
+3594,🪴,Animals & Nature,1FAB4
+3595,🫗,Food & Drink,1FAD7
+3596,🫃,People & Body,1FAC3
+3597,🫃🏿,People & Body,1FAC3 1F3FF
+3598,🫃🏻,People & Body,1FAC3 1F3FB
+3599,🫃🏾,People & Body,1FAC3 1F3FE
+3600,🫃🏼,People & Body,1FAC3 1F3FC
+3601,🫃🏽,People & Body,1FAC3 1F3FD
+3602,🫄,People & Body,1FAC4
+3603,🫄🏿,People & Body,1FAC4 1F3FF
+3604,🫄🏻,People & Body,1FAC4 1F3FB
+3605,🫄🏾,People & Body,1FAC4 1F3FE
+3606,🫄🏼,People & Body,1FAC4 1F3FC
+3607,🫄🏽,People & Body,1FAC4 1F3FD
+3608,🤰🏿,People & Body,1F930 1F3FF
+3609,🤰🏻,People & Body,1F930 1F3FB
+3610,🤰🏾,People & Body,1F930 1F3FE
+3611,🤰🏼,People & Body,1F930 1F3FC
+3612,🤰🏽,People & Body,1F930 1F3FD
+3613,🤴🏿,People & Body,1F934 1F3FF
+3614,🤴🏻,People & Body,1F934 1F3FB
+3615,🤴🏾,People & Body,1F934 1F3FE
+3616,🤴🏼,People & Body,1F934 1F3FC
+3617,🤴🏽,People & Body,1F934 1F3FD
+3618,👸🏿,People & Body,1F478 1F3FF
+3619,👸🏻,People & Body,1F478 1F3FB
+3620,👸🏾,People & Body,1F478 1F3FE
+3621,👸🏼,People & Body,1F478 1F3FC
+3622,👸🏽,People & Body,1F478 1F3FD
+3623,🖨,Objects,1F5A8
+3624,🚫,Symbols,1F6AB
+3625,🟣,Symbols,1F7E3
+3626,💜,Smileys & Emotion,1F49C
+3627,🟪,Symbols,1F7EA
+3628,👛,Objects,1F45B
+3629,🏎,Travel & Places,1F3CE
+3630,🔘,Symbols,1F518
+3632,☢,Symbols,2622
+3633,🛤,Travel & Places,1F6E4
+3634,🌈,Travel & Places,1F308
+3635,🏳️‍🌈,Flags,1F3F3 FE0F 200D 1F308
+3637,🤚🏿,People & Body,1F91A 1F3FF
+3638,🤚🏻,People & Body,1F91A 1F3FB
+3639,🤚🏾,People & Body,1F91A 1F3FE
+3640,🤚🏼,People & Body,1F91A 1F3FC
+3641,🤚🏽,People & Body,1F91A 1F3FD
+3642,✊🏿,People & Body,270A 1F3FF
+3643,✊🏻,People & Body,270A 1F3FB
+3644,✊🏾,People & Body,270A 1F3FE
+3645,✊🏼,People & Body,270A 1F3FC
+3646,✊🏽,People & Body,270A 1F3FD
+3647,✋🏿,People & Body,270B 1F3FF
+3648,✋🏻,People & Body,270B 1F3FB
+3649,✋🏾,People & Body,270B 1F3FE
+3650,✋🏼,People & Body,270B 1F3FC
+3651,✋🏽,People & Body,270B 1F3FD
+3652,🙌🏿,People & Body,1F64C 1F3FF
+3653,🙌🏻,People & Body,1F64C 1F3FB
+3654,🙌🏾,People & Body,1F64C 1F3FE
+3655,🙌🏼,People & Body,1F64C 1F3FC
+3656,🙌🏽,People & Body,1F64C 1F3FD
+3658,⏺,Symbols,23FA
+3660,♻,Symbols,267B
+3661,🔴,Symbols,1F534
+3662,❗,Symbols,2757
+3664,❤,Smileys & Emotion,2764
+3665,❓,Symbols,2753
+3666,🟥,Symbols,1F7E5
+3667,🔻,Symbols,1F53B
+3668,🔺,Symbols,1F53A
+3672,🎗,Activities,1F397
+3673,🔁,Symbols,1F501
+3674,🔂,Symbols,1F502
+3676,⛑,Objects,26D1
+3677,🚻,Symbols,1F6BB
+3679,◀,Symbols,25C0
+3680,💞,Smileys & Emotion,1F49E
+3681,🤜🏿,People & Body,1F91C 1F3FF
+3682,🤜🏻,People & Body,1F91C 1F3FB
+3683,🤜🏾,People & Body,1F91C 1F3FE
+3684,🤜🏼,People & Body,1F91C 1F3FC
+3685,🤜🏽,People & Body,1F91C 1F3FD
+3687,🗯,Smileys & Emotion,1F5EF
+3689,➡,Symbols,27A1
+3691,⤵,Symbols,2935
+3693,↩,Symbols,21A9
+3695,⤴,Symbols,2934
+3696,🫱🏿,People & Body,1FAF1 1F3FF
+3697,🫱🏻,People & Body,1FAF1 1F3FB
+3698,🫱🏾,People & Body,1FAF1 1F3FE
+3699,🫱🏼,People & Body,1FAF1 1F3FC
+3700,🫱🏽,People & Body,1FAF1 1F3FD
+3706,💍,Objects,1F48D
+3707,🛟,Travel & Places,1F6DF
+3708,🪐,Travel & Places,1FA90
+3709,🗞,Objects,1F5DE
+3710,🌹,Animals & Nature,1F339
+3712,🏵,Animals & Nature,1F3F5
+3713,👟,Objects,1F45F
+3714,🦺,Objects,1F9BA
+3715,🧂,Food & Drink,1F9C2
+3716,🫡,Smileys & Emotion,1FAE1
+3717,🥻,Objects,1F97B
+3718,🛰,Travel & Places,1F6F0
+3719,🎷,Objects,1F3B7
+3720,🧣,Objects,1F9E3
+3721,🧑‍🔬,People & Body,1F9D1 200D 1F52C
+3722,🧑🏿‍🔬,People & Body,1F9D1 1F3FF 200D 1F52C
+3723,🧑🏻‍🔬,People & Body,1F9D1 1F3FB 200D 1F52C
+3724,🧑🏾‍🔬,People & Body,1F9D1 1F3FE 200D 1F52C
+3725,🧑🏼‍🔬,People & Body,1F9D1 1F3FC 200D 1F52C
+3726,🧑🏽‍🔬,People & Body,1F9D1 1F3FD 200D 1F52C
+3727,✂,Objects,2702
+3728,🦭,Animals & Nature,1F9AD
+3729,🌱,Animals & Nature,1F331
+3730,🤳🏿,People & Body,1F933 1F3FF
+3731,🤳🏻,People & Body,1F933 1F3FB
+3732,🤳🏾,People & Body,1F933 1F3FE
+3733,🤳🏼,People & Body,1F933 1F3FC
+3734,🤳🏽,People & Body,1F933 1F3FD
+3737,☘,Animals & Nature,2618
+3738,🌾,Animals & Nature,1F33E
+3739,🛡,Objects,1F6E1
+3741,🌠,Travel & Places,1F320
+3742,🛍,Objects,1F6CD
+3743,🩳,Objects,1FA73
+3744,🔀,Symbols,1F500
+3745,🤘🏿,People & Body,1F918 1F3FF
+3746,🤘🏻,People & Body,1F918 1F3FB
+3747,🤘🏾,People & Body,1F918 1F3FE
+3748,🤘🏼,People & Body,1F918 1F3FC
+3749,🤘🏽,People & Body,1F918 1F3FD
+3750,🧑‍🎤,People & Body,1F9D1 200D 1F3A4
+3751,🧑🏿‍🎤,People & Body,1F9D1 1F3FF 200D 1F3A4
+3752,🧑🏻‍🎤,People & Body,1F9D1 1F3FB 200D 1F3A4
+3753,🧑🏾‍🎤,People & Body,1F9D1 1F3FE 200D 1F3A4
+3754,🧑🏼‍🎤,People & Body,1F9D1 1F3FC 200D 1F3A4
+3755,🧑🏽‍🎤,People & Body,1F9D1 1F3FD 200D 1F3A4
+3756,⛷,People & Body,26F7
+3757,☠,Smileys & Emotion,2620
+3758,🛩,Travel & Places,1F6E9
+3759,🔹,Symbols,1F539
+3760,🔸,Symbols,1F538
+3761,☺,Smileys & Emotion,263A
+3762,🏔,Travel & Places,1F3D4
+3763,🏂🏿,People & Body,1F3C2 1F3FF
+3764,🏂🏻,People & Body,1F3C2 1F3FB
+3765,🏂🏾,People & Body,1F3C2 1F3FE
+3766,🏂🏼,People & Body,1F3C2 1F3FC
+3767,🏂🏽,People & Body,1F3C2 1F3FD
+3769,❄,Travel & Places,2744
+3771,☃,Travel & Places,2603
+3772,⛄,Travel & Places,26C4
+3773,🧦,Objects,1F9E6
+3774,♠,Activities,2660
+3776,❇,Symbols,2747
+3777,🎇,Activities,1F387
+3778,✨,Activities,2728
+3779,💖,Smileys & Emotion,1F496
+3780,🔊,Objects,1F50A
+3781,🔈,Objects,1F508
+3782,🔉,Objects,1F509
+3784,🗣,People & Body,1F5E3
+3785,💬,Smileys & Emotion,1F4AC
+3786,🕷,Animals & Nature,1F577
+3787,🕸,Animals & Nature,1F578
+3788,🗓,Objects,1F5D3
+3789,🗒,Objects,1F5D2
+3790,🥄,Food & Drink,1F944
+3791,🏟,Travel & Places,1F3DF
+3792,⭐,Travel & Places,2B50
+3794,☪,Symbols,262A
+3796,✡,Symbols,2721
+3798,⏹,Symbols,23F9
+3799,⏱,Travel & Places,23F1
+3800,🧑‍🎓,People & Body,1F9D1 200D 1F393
+3801,🧑🏿‍🎓,People & Body,1F9D1 1F3FF 200D 1F393
+3802,🧑🏻‍🎓,People & Body,1F9D1 1F3FB 200D 1F393
+3803,🧑🏾‍🎓,People & Body,1F9D1 1F3FE 200D 1F393
+3804,🧑🏼‍🎓,People & Body,1F9D1 1F3FC 200D 1F393
+3805,🧑🏽‍🎓,People & Body,1F9D1 1F3FD 200D 1F393
+3806,🎙,Objects,1F399
+3808,☀,Travel & Places,2600
+3809,⛅,Travel & Places,26C5
+3811,🌥,Travel & Places,1F325
+3813,🌦,Travel & Places,1F326
+3815,🌤,Travel & Places,1F324
+3816,🌞,Travel & Places,1F31E
+3817,🌻,Animals & Nature,1F33B
+3819,🕶,Objects,1F576
+3820,🦸🏿,People & Body,1F9B8 1F3FF
+3821,🦸🏻,People & Body,1F9B8 1F3FB
+3822,🦸🏾,People & Body,1F9B8 1F3FE
+3823,🦸🏼,People & Body,1F9B8 1F3FC
+3824,🦸🏽,People & Body,1F9B8 1F3FD
+3825,🦹🏿,People & Body,1F9B9 1F3FF
+3826,🦹🏻,People & Body,1F9B9 1F3FB
+3827,🦹🏾,People & Body,1F9B9 1F3FE
+3828,🦹🏼,People & Body,1F9B9 1F3FC
+3829,🦹🏽,People & Body,1F9B9 1F3FD
+3830,💦,Smileys & Emotion,1F4A6
+3831,👕,Objects,1F455
+3832,🥡,Food & Drink,1F961
+3833,🎋,Activities,1F38B
+3834,🧑‍🏫,People & Body,1F9D1 200D 1F3EB
+3835,🧑🏿‍🏫,People & Body,1F9D1 1F3FF 200D 1F3EB
+3836,🧑🏻‍🏫,People & Body,1F9D1 1F3FB 200D 1F3EB
+3837,🧑🏾‍🏫,People & Body,1F9D1 1F3FE 200D 1F3EB
+3838,🧑🏼‍🏫,People & Body,1F9D1 1F3FC 200D 1F3EB
+3839,🧑🏽‍🏫,People & Body,1F9D1 1F3FD 200D 1F3EB
+3840,🧑‍💻,People & Body,1F9D1 200D 1F4BB
+3841,🧑🏿‍💻,People & Body,1F9D1 1F3FF 200D 1F4BB
+3842,🧑🏻‍💻,People & Body,1F9D1 1F3FB 200D 1F4BB
+3843,🧑🏾‍💻,People & Body,1F9D1 1F3FE 200D 1F4BB
+3844,🧑🏼‍💻,People & Body,1F9D1 1F3FC 200D 1F4BB
+3845,🧑🏽‍💻,People & Body,1F9D1 1F3FD 200D 1F4BB
+3846,☎,Objects,260E
+3847,🌡,Travel & Places,1F321
+3848,🩴,Objects,1FA74
+3849,💭,Smileys & Emotion,1F4AD
+3850,👎🏿,People & Body,1F44E 1F3FF
+3851,👎🏻,People & Body,1F44E 1F3FB
+3852,👎🏾,People & Body,1F44E 1F3FE
+3853,👎🏼,People & Body,1F44E 1F3FC
+3854,👎🏽,People & Body,1F44E 1F3FD
+3855,👍🏿,People & Body,1F44D 1F3FF
+3856,👍🏻,People & Body,1F44D 1F3FB
+3857,👍🏾,People & Body,1F44D 1F3FE
+3858,👍🏼,People & Body,1F44D 1F3FC
+3859,👍🏽,People & Body,1F44D 1F3FD
+3860,🎫,Activities,1F3AB
+3861,⏲,Travel & Places,23F2
+3862,🦷,People & Body,1F9B7
+3863,🎩,Objects,1F3A9
+3865,🌪,Travel & Places,1F32A
+3866,🖲,Objects,1F5B2
+3868,™,Symbols,2122
+3869,🏳️‍⚧️,Flags,1F3F3 FE0F 200D 26A7 FE0F
+3874,⚧,Symbols,26A7
+3875,🚩,Flags,1F6A9
+3876,🔱,Symbols,1F531
+3877,🧌,People & Body,1F9CC
+3878,🎺,Objects,1F3BA
+3879,🌷,Animals & Nature,1F337
+3880,💕,Smileys & Emotion,1F495
+3882,☂,Travel & Places,2602
+3884,⛱,Travel & Places,26F1
+3885,☔,Travel & Places,2614
+3887,↕,Symbols,2195
+3889,↖,Symbols,2196
+3891,↗,Symbols,2197
+3893,⬆,Symbols,2B06
+3894,🔼,Symbols,1F53C
+3895,🧛🏿,People & Body,1F9DB 1F3FF
+3896,🧛🏻,People & Body,1F9DB 1F3FB
+3897,🧛🏾,People & Body,1F9DB 1F3FE
+3898,🧛🏼,People & Body,1F9DB 1F3FC
+3899,🧛🏽,People & Body,1F9DB 1F3FD
+3900,📳,Symbols,1F4F3
+3901,✌,People & Body,270C
+3902,✌🏿,People & Body,270C 1F3FF
+3903,✌🏻,People & Body,270C 1F3FB
+3904,✌🏾,People & Body,270C 1F3FE
+3905,✌🏼,People & Body,270C 1F3FC
+3906,✌🏽,People & Body,270C 1F3FD
+3907,🎻,Objects,1F3BB
+3908,🖖🏿,People & Body,1F596 1F3FF
+3909,🖖🏻,People & Body,1F596 1F3FB
+3910,🖖🏾,People & Body,1F596 1F3FE
+3911,🖖🏼,People & Body,1F596 1F3FC
+3912,🖖🏽,People & Body,1F596 1F3FD
+3913,🌘,Travel & Places,1F318
+3914,🌖,Travel & Places,1F316
+3916,⚠,Symbols,26A0
+3917,🗑,Objects,1F5D1
+3918,🚾,Symbols,1F6BE
+3919,🌊,Travel & Places,1F30A
+3920,👋🏿,People & Body,1F44B 1F3FF
+3921,👋🏻,People & Body,1F44B 1F3FB
+3922,👋🏾,People & Body,1F44B 1F3FE
+3923,👋🏼,People & Body,1F44B 1F3FC
+3924,👋🏽,People & Body,1F44B 1F3FD
+3926,〰,Symbols,3030
+3927,🌒,Travel & Places,1F312
+3928,🌔,Travel & Places,1F314
+3929,🛞,Travel & Places,1F6DE
+3931,☸,Symbols,2638
+3932,♿,Symbols,267F
+3933,🦯,Objects,1F9AF
+3934,⚪,Symbols,26AA
+3935,❕,Symbols,2755
+3937,🏳,Flags,1F3F3
+3938,💮,Animals & Nature,1F4AE
+3939,🤍,Smileys & Emotion,1F90D
+3940,⬜,Symbols,2B1C
+3941,◽,Symbols,25FD
+3943,◻,Symbols,25FB
+3944,❔,Symbols,2754
+3946,▫,Symbols,25AB
+3947,🔳,Symbols,1F533
+3948,🥀,Animals & Nature,1F940
+3950,🌬,Travel & Places,1F32C
+3951,🪟,Objects,1FA9F
+3954,👩,People & Body,1F469
+3955,👫,People & Body,1F46B
+3956,👫🏿,People & Body,1F46B 1F3FF
+3957,👩🏿‍🤝‍👨🏻,People & Body,1F469 1F3FF 200D 1F91D 200D 1F468 1F3FB
+3958,👩🏿‍🤝‍👨🏾,People & Body,1F469 1F3FF 200D 1F91D 200D 1F468 1F3FE
+3959,👩🏿‍🤝‍👨🏼,People & Body,1F469 1F3FF 200D 1F91D 200D 1F468 1F3FC
+3960,👩🏿‍🤝‍👨🏽,People & Body,1F469 1F3FF 200D 1F91D 200D 1F468 1F3FD
+3961,👫🏻,People & Body,1F46B 1F3FB
+3962,👩🏻‍🤝‍👨🏿,People & Body,1F469 1F3FB 200D 1F91D 200D 1F468 1F3FF
+3963,👩🏻‍🤝‍👨🏾,People & Body,1F469 1F3FB 200D 1F91D 200D 1F468 1F3FE
+3964,👩🏻‍🤝‍👨🏼,People & Body,1F469 1F3FB 200D 1F91D 200D 1F468 1F3FC
+3965,👩🏻‍🤝‍👨🏽,People & Body,1F469 1F3FB 200D 1F91D 200D 1F468 1F3FD
+3966,👫🏾,People & Body,1F46B 1F3FE
+3967,👩🏾‍🤝‍👨🏿,People & Body,1F469 1F3FE 200D 1F91D 200D 1F468 1F3FF
+3968,👩🏾‍🤝‍👨🏻,People & Body,1F469 1F3FE 200D 1F91D 200D 1F468 1F3FB
+3969,👩🏾‍🤝‍👨🏼,People & Body,1F469 1F3FE 200D 1F91D 200D 1F468 1F3FC
+3970,👩🏾‍🤝‍👨🏽,People & Body,1F469 1F3FE 200D 1F91D 200D 1F468 1F3FD
+3971,👫🏼,People & Body,1F46B 1F3FC
+3972,👩🏼‍🤝‍👨🏿,People & Body,1F469 1F3FC 200D 1F91D 200D 1F468 1F3FF
+3973,👩🏼‍🤝‍👨🏻,People & Body,1F469 1F3FC 200D 1F91D 200D 1F468 1F3FB
+3974,👩🏼‍🤝‍👨🏾,People & Body,1F469 1F3FC 200D 1F91D 200D 1F468 1F3FE
+3975,👩🏼‍🤝‍👨🏽,People & Body,1F469 1F3FC 200D 1F91D 200D 1F468 1F3FD
+3976,👫🏽,People & Body,1F46B 1F3FD
+3977,👩🏽‍🤝‍👨🏿,People & Body,1F469 1F3FD 200D 1F91D 200D 1F468 1F3FF
+3978,👩🏽‍🤝‍👨🏻,People & Body,1F469 1F3FD 200D 1F91D 200D 1F468 1F3FB
+3979,👩🏽‍🤝‍👨🏾,People & Body,1F469 1F3FD 200D 1F91D 200D 1F468 1F3FE
+3980,👩🏽‍🤝‍👨🏼,People & Body,1F469 1F3FD 200D 1F91D 200D 1F468 1F3FC
+3981,👩🏿‍🎨,People & Body,1F469 1F3FF 200D 1F3A8
+3982,👩🏻‍🎨,People & Body,1F469 1F3FB 200D 1F3A8
+3983,👩🏾‍🎨,People & Body,1F469 1F3FE 200D 1F3A8
+3984,👩🏼‍🎨,People & Body,1F469 1F3FC 200D 1F3A8
+3985,👩🏽‍🎨,People & Body,1F469 1F3FD 200D 1F3A8
+3986,👩🏿‍🚀,People & Body,1F469 1F3FF 200D 1F680
+3987,👩🏻‍🚀,People & Body,1F469 1F3FB 200D 1F680
+3988,👩🏾‍🚀,People & Body,1F469 1F3FE 200D 1F680
+3989,👩🏼‍🚀,People & Body,1F469 1F3FC 200D 1F680
+3990,👩🏽‍🚀,People & Body,1F469 1F3FD 200D 1F680
+3991,👩‍🦲,People & Body,1F469 200D 1F9B2
+3992,🧔‍♀️,People & Body,1F9D4 200D 2640 FE0F
+3994,🚴‍♀️,People & Body,1F6B4 200D 2640 FE0F
+3996,🚴🏿‍♀️,People & Body,1F6B4 1F3FF 200D 2640 FE0F
+3998,🚴🏻‍♀️,People & Body,1F6B4 1F3FB 200D 2640 FE0F
+4000,🚴🏾‍♀️,People & Body,1F6B4 1F3FE 200D 2640 FE0F
+4002,🚴🏼‍♀️,People & Body,1F6B4 1F3FC 200D 2640 FE0F
+4004,🚴🏽‍♀️,People & Body,1F6B4 1F3FD 200D 2640 FE0F
+4006,👱‍♀️,People & Body,1F471 200D 2640 FE0F
+4008,⛹️‍♀️,People & Body,26F9 FE0F 200D 2640 FE0F
+4012,⛹🏿‍♀️,People & Body,26F9 1F3FF 200D 2640 FE0F
+4014,⛹🏻‍♀️,People & Body,26F9 1F3FB 200D 2640 FE0F
+4016,⛹🏾‍♀️,People & Body,26F9 1F3FE 200D 2640 FE0F
+4018,⛹🏼‍♀️,People & Body,26F9 1F3FC 200D 2640 FE0F
+4020,⛹🏽‍♀️,People & Body,26F9 1F3FD 200D 2640 FE0F
+4023,🙇🏿‍♀️,People & Body,1F647 1F3FF 200D 2640 FE0F
+4025,🙇🏻‍♀️,People & Body,1F647 1F3FB 200D 2640 FE0F
+4027,🙇🏾‍♀️,People & Body,1F647 1F3FE 200D 2640 FE0F
+4029,🙇🏼‍♀️,People & Body,1F647 1F3FC 200D 2640 FE0F
+4031,🙇🏽‍♀️,People & Body,1F647 1F3FD 200D 2640 FE0F
+4033,🤸‍♀️,People & Body,1F938 200D 2640 FE0F
+4035,🤸🏿‍♀️,People & Body,1F938 1F3FF 200D 2640 FE0F
+4037,🤸🏻‍♀️,People & Body,1F938 1F3FB 200D 2640 FE0F
+4039,🤸🏾‍♀️,People & Body,1F938 1F3FE 200D 2640 FE0F
+4041,🤸🏼‍♀️,People & Body,1F938 1F3FC 200D 2640 FE0F
+4043,🤸🏽‍♀️,People & Body,1F938 1F3FD 200D 2640 FE0F
+4045,🧗‍♀️,People & Body,1F9D7 200D 2640 FE0F
+4047,🧗🏿‍♀️,People & Body,1F9D7 1F3FF 200D 2640 FE0F
+4049,🧗🏻‍♀️,People & Body,1F9D7 1F3FB 200D 2640 FE0F
+4051,🧗🏾‍♀️,People & Body,1F9D7 1F3FE 200D 2640 FE0F
+4053,🧗🏼‍♀️,People & Body,1F9D7 1F3FC 200D 2640 FE0F
+4055,🧗🏽‍♀️,People & Body,1F9D7 1F3FD 200D 2640 FE0F
+4057,👷‍♀️,People & Body,1F477 200D 2640 FE0F
+4059,👷🏿‍♀️,People & Body,1F477 1F3FF 200D 2640 FE0F
+4061,👷🏻‍♀️,People & Body,1F477 1F3FB 200D 2640 FE0F
+4063,👷🏾‍♀️,People & Body,1F477 1F3FE 200D 2640 FE0F
+4065,👷🏼‍♀️,People & Body,1F477 1F3FC 200D 2640 FE0F
+4067,👷🏽‍♀️,People & Body,1F477 1F3FD 200D 2640 FE0F
+4069,👩🏿‍🍳,People & Body,1F469 1F3FF 200D 1F373
+4070,👩🏻‍🍳,People & Body,1F469 1F3FB 200D 1F373
+4071,👩🏾‍🍳,People & Body,1F469 1F3FE 200D 1F373
+4072,👩🏼‍🍳,People & Body,1F469 1F3FC 200D 1F373
+4073,👩🏽‍🍳,People & Body,1F469 1F3FD 200D 1F373
+4074,👩‍🦱,People & Body,1F469 200D 1F9B1
+4075,💃🏿,People & Body,1F483 1F3FF
+4076,💃🏻,People & Body,1F483 1F3FB
+4077,💃🏾,People & Body,1F483 1F3FE
+4078,💃🏼,People & Body,1F483 1F3FC
+4079,💃🏽,People & Body,1F483 1F3FD
+4080,👩🏿,People & Body,1F469 1F3FF
+4081,👩🏿‍🦲,People & Body,1F469 1F3FF 200D 1F9B2
+4082,🧔🏿‍♀️,People & Body,1F9D4 1F3FF 200D 2640 FE0F
+4084,👱🏿‍♀️,People & Body,1F471 1F3FF 200D 2640 FE0F
+4086,👩🏿‍🦱,People & Body,1F469 1F3FF 200D 1F9B1
+4087,👩🏿‍🦰,People & Body,1F469 1F3FF 200D 1F9B0
+4088,👩🏿‍🦳,People & Body,1F469 1F3FF 200D 1F9B3
+4089,🕵️‍♀️,People & Body,1F575 FE0F 200D 2640 FE0F
+4093,🕵🏿‍♀️,People & Body,1F575 1F3FF 200D 2640 FE0F
+4095,🕵🏻‍♀️,People & Body,1F575 1F3FB 200D 2640 FE0F
+4097,🕵🏾‍♀️,People & Body,1F575 1F3FE 200D 2640 FE0F
+4099,🕵🏼‍♀️,People & Body,1F575 1F3FC 200D 2640 FE0F
+4101,🕵🏽‍♀️,People & Body,1F575 1F3FD 200D 2640 FE0F
+4103,🧝‍♀️,People & Body,1F9DD 200D 2640 FE0F
+4105,🧝🏿‍♀️,People & Body,1F9DD 1F3FF 200D 2640 FE0F
+4107,🧝🏻‍♀️,People & Body,1F9DD 1F3FB 200D 2640 FE0F
+4109,🧝🏾‍♀️,People & Body,1F9DD 1F3FE 200D 2640 FE0F
+4111,🧝🏼‍♀️,People & Body,1F9DD 1F3FC 200D 2640 FE0F
+4113,🧝🏽‍♀️,People & Body,1F9DD 1F3FD 200D 2640 FE0F
+4116,🤦🏿‍♀️,People & Body,1F926 1F3FF 200D 2640 FE0F
+4118,🤦🏻‍♀️,People & Body,1F926 1F3FB 200D 2640 FE0F
+4120,🤦🏾‍♀️,People & Body,1F926 1F3FE 200D 2640 FE0F
+4122,🤦🏼‍♀️,People & Body,1F926 1F3FC 200D 2640 FE0F
+4124,🤦🏽‍♀️,People & Body,1F926 1F3FD 200D 2640 FE0F
+4126,👩🏿‍🏭,People & Body,1F469 1F3FF 200D 1F3ED
+4127,👩🏻‍🏭,People & Body,1F469 1F3FB 200D 1F3ED
+4128,👩🏾‍🏭,People & Body,1F469 1F3FE 200D 1F3ED
+4129,👩🏼‍🏭,People & Body,1F469 1F3FC 200D 1F3ED
+4130,👩🏽‍🏭,People & Body,1F469 1F3FD 200D 1F3ED
+4131,🧚‍♀️,People & Body,1F9DA 200D 2640 FE0F
+4133,🧚🏿‍♀️,People & Body,1F9DA 1F3FF 200D 2640 FE0F
+4135,🧚🏻‍♀️,People & Body,1F9DA 1F3FB 200D 2640 FE0F
+4137,🧚🏾‍♀️,People & Body,1F9DA 1F3FE 200D 2640 FE0F
+4139,🧚🏼‍♀️,People & Body,1F9DA 1F3FC 200D 2640 FE0F
+4141,🧚🏽‍♀️,People & Body,1F9DA 1F3FD 200D 2640 FE0F
+4143,👩🏿‍🌾,People & Body,1F469 1F3FF 200D 1F33E
+4144,👩🏻‍🌾,People & Body,1F469 1F3FB 200D 1F33E
+4145,👩🏾‍🌾,People & Body,1F469 1F3FE 200D 1F33E
+4146,👩🏼‍🌾,People & Body,1F469 1F3FC 200D 1F33E
+4147,👩🏽‍🌾,People & Body,1F469 1F3FD 200D 1F33E
+4148,👩‍🍼,People & Body,1F469 200D 1F37C
+4149,👩🏿‍🍼,People & Body,1F469 1F3FF 200D 1F37C
+4150,👩🏻‍🍼,People & Body,1F469 1F3FB 200D 1F37C
+4151,👩🏾‍🍼,People & Body,1F469 1F3FE 200D 1F37C
+4152,👩🏼‍🍼,People & Body,1F469 1F3FC 200D 1F37C
+4153,👩🏽‍🍼,People & Body,1F469 1F3FD 200D 1F37C
+4154,👩🏿‍🚒,People & Body,1F469 1F3FF 200D 1F692
+4155,👩🏻‍🚒,People & Body,1F469 1F3FB 200D 1F692
+4156,👩🏾‍🚒,People & Body,1F469 1F3FE 200D 1F692
+4157,👩🏼‍🚒,People & Body,1F469 1F3FC 200D 1F692
+4158,👩🏽‍🚒,People & Body,1F469 1F3FD 200D 1F692
+4159,🙍‍♀️,People & Body,1F64D 200D 2640 FE0F
+4161,🙍🏿‍♀️,People & Body,1F64D 1F3FF 200D 2640 FE0F
+4163,🙍🏻‍♀️,People & Body,1F64D 1F3FB 200D 2640 FE0F
+4165,🙍🏾‍♀️,People & Body,1F64D 1F3FE 200D 2640 FE0F
+4167,🙍🏼‍♀️,People & Body,1F64D 1F3FC 200D 2640 FE0F
+4169,🙍🏽‍♀️,People & Body,1F64D 1F3FD 200D 2640 FE0F
+4171,🧞‍♀️,People & Body,1F9DE 200D 2640 FE0F
+4174,🙅🏿‍♀️,People & Body,1F645 1F3FF 200D 2640 FE0F
+4176,🙅🏻‍♀️,People & Body,1F645 1F3FB 200D 2640 FE0F
+4178,🙅🏾‍♀️,People & Body,1F645 1F3FE 200D 2640 FE0F
+4180,🙅🏼‍♀️,People & Body,1F645 1F3FC 200D 2640 FE0F
+4182,🙅🏽‍♀️,People & Body,1F645 1F3FD 200D 2640 FE0F
+4185,🙆🏿‍♀️,People & Body,1F646 1F3FF 200D 2640 FE0F
+4187,🙆🏻‍♀️,People & Body,1F646 1F3FB 200D 2640 FE0F
+4189,🙆🏾‍♀️,People & Body,1F646 1F3FE 200D 2640 FE0F
+4191,🙆🏼‍♀️,People & Body,1F646 1F3FC 200D 2640 FE0F
+4193,🙆🏽‍♀️,People & Body,1F646 1F3FD 200D 2640 FE0F
+4195,💇‍♀️,People & Body,1F487 200D 2640 FE0F
+4197,💇🏿‍♀️,People & Body,1F487 1F3FF 200D 2640 FE0F
+4199,💇🏻‍♀️,People & Body,1F487 1F3FB 200D 2640 FE0F
+4201,💇🏾‍♀️,People & Body,1F487 1F3FE 200D 2640 FE0F
+4203,💇🏼‍♀️,People & Body,1F487 1F3FC 200D 2640 FE0F
+4205,💇🏽‍♀️,People & Body,1F487 1F3FD 200D 2640 FE0F
+4207,💆‍♀️,People & Body,1F486 200D 2640 FE0F
+4209,💆🏿‍♀️,People & Body,1F486 1F3FF 200D 2640 FE0F
+4211,💆🏻‍♀️,People & Body,1F486 1F3FB 200D 2640 FE0F
+4213,💆🏾‍♀️,People & Body,1F486 1F3FE 200D 2640 FE0F
+4215,💆🏼‍♀️,People & Body,1F486 1F3FC 200D 2640 FE0F
+4217,💆🏽‍♀️,People & Body,1F486 1F3FD 200D 2640 FE0F
+4219,🏌️‍♀️,People & Body,1F3CC FE0F 200D 2640 FE0F
+4223,🏌🏿‍♀️,People & Body,1F3CC 1F3FF 200D 2640 FE0F
+4225,🏌🏻‍♀️,People & Body,1F3CC 1F3FB 200D 2640 FE0F
+4227,🏌🏾‍♀️,People & Body,1F3CC 1F3FE 200D 2640 FE0F
+4229,🏌🏼‍♀️,People & Body,1F3CC 1F3FC 200D 2640 FE0F
+4231,🏌🏽‍♀️,People & Body,1F3CC 1F3FD 200D 2640 FE0F
+4233,💂‍♀️,People & Body,1F482 200D 2640 FE0F
+4235,💂🏿‍♀️,People & Body,1F482 1F3FF 200D 2640 FE0F
+4237,💂🏻‍♀️,People & Body,1F482 1F3FB 200D 2640 FE0F
+4239,💂🏾‍♀️,People & Body,1F482 1F3FE 200D 2640 FE0F
+4241,💂🏼‍♀️,People & Body,1F482 1F3FC 200D 2640 FE0F
+4243,💂🏽‍♀️,People & Body,1F482 1F3FD 200D 2640 FE0F
+4246,👩🏿‍⚕️,People & Body,1F469 1F3FF 200D 2695 FE0F
+4248,👩🏻‍⚕️,People & Body,1F469 1F3FB 200D 2695 FE0F
+4250,👩🏾‍⚕️,People & Body,1F469 1F3FE 200D 2695 FE0F
+4252,👩🏼‍⚕️,People & Body,1F469 1F3FC 200D 2695 FE0F
+4254,👩🏽‍⚕️,People & Body,1F469 1F3FD 200D 2695 FE0F
+4256,🧘‍♀️,People & Body,1F9D8 200D 2640 FE0F
+4258,🧘🏿‍♀️,People & Body,1F9D8 1F3FF 200D 2640 FE0F
+4260,🧘🏻‍♀️,People & Body,1F9D8 1F3FB 200D 2640 FE0F
+4262,🧘🏾‍♀️,People & Body,1F9D8 1F3FE 200D 2640 FE0F
+4264,🧘🏼‍♀️,People & Body,1F9D8 1F3FC 200D 2640 FE0F
+4266,🧘🏽‍♀️,People & Body,1F9D8 1F3FD 200D 2640 FE0F
+4268,👩‍🦽,People & Body,1F469 200D 1F9BD
+4269,👩🏿‍🦽,People & Body,1F469 1F3FF 200D 1F9BD
+4270,👩🏻‍🦽,People & Body,1F469 1F3FB 200D 1F9BD
+4271,👩🏾‍🦽,People & Body,1F469 1F3FE 200D 1F9BD
+4272,👩🏼‍🦽,People & Body,1F469 1F3FC 200D 1F9BD
+4273,👩🏽‍🦽,People & Body,1F469 1F3FD 200D 1F9BD
+4274,👩‍🦼,People & Body,1F469 200D 1F9BC
+4275,👩🏿‍🦼,People & Body,1F469 1F3FF 200D 1F9BC
+4276,👩🏻‍🦼,People & Body,1F469 1F3FB 200D 1F9BC
+4277,👩🏾‍🦼,People & Body,1F469 1F3FE 200D 1F9BC
+4278,👩🏼‍🦼,People & Body,1F469 1F3FC 200D 1F9BC
+4279,👩🏽‍🦼,People & Body,1F469 1F3FD 200D 1F9BC
+4280,🧖‍♀️,People & Body,1F9D6 200D 2640 FE0F
+4282,🧖🏿‍♀️,People & Body,1F9D6 1F3FF 200D 2640 FE0F
+4284,🧖🏻‍♀️,People & Body,1F9D6 1F3FB 200D 2640 FE0F
+4286,🧖🏾‍♀️,People & Body,1F9D6 1F3FE 200D 2640 FE0F
+4288,🧖🏼‍♀️,People & Body,1F9D6 1F3FC 200D 2640 FE0F
+4290,🧖🏽‍♀️,People & Body,1F9D6 1F3FD 200D 2640 FE0F
+4292,🤵‍♀️,People & Body,1F935 200D 2640 FE0F
+4294,🤵🏿‍♀️,People & Body,1F935 1F3FF 200D 2640 FE0F
+4296,🤵🏻‍♀️,People & Body,1F935 1F3FB 200D 2640 FE0F
+4298,🤵🏾‍♀️,People & Body,1F935 1F3FE 200D 2640 FE0F
+4300,🤵🏼‍♀️,People & Body,1F935 1F3FC 200D 2640 FE0F
+4302,🤵🏽‍♀️,People & Body,1F935 1F3FD 200D 2640 FE0F
+4305,👩🏿‍⚖️,People & Body,1F469 1F3FF 200D 2696 FE0F
+4307,👩🏻‍⚖️,People & Body,1F469 1F3FB 200D 2696 FE0F
+4309,👩🏾‍⚖️,People & Body,1F469 1F3FE 200D 2696 FE0F
+4311,👩🏼‍⚖️,People & Body,1F469 1F3FC 200D 2696 FE0F
+4313,👩🏽‍⚖️,People & Body,1F469 1F3FD 200D 2696 FE0F
+4315,🤹‍♀️,People & Body,1F939 200D 2640 FE0F
+4317,🤹🏿‍♀️,People & Body,1F939 1F3FF 200D 2640 FE0F
+4319,🤹🏻‍♀️,People & Body,1F939 1F3FB 200D 2640 FE0F
+4321,🤹🏾‍♀️,People & Body,1F939 1F3FE 200D 2640 FE0F
+4323,🤹🏼‍♀️,People & Body,1F939 1F3FC 200D 2640 FE0F
+4325,🤹🏽‍♀️,People & Body,1F939 1F3FD 200D 2640 FE0F
+4327,🧎‍♀️,People & Body,1F9CE 200D 2640 FE0F
+4329,🧎🏿‍♀️,People & Body,1F9CE 1F3FF 200D 2640 FE0F
+4331,🧎🏻‍♀️,People & Body,1F9CE 1F3FB 200D 2640 FE0F
+4333,🧎🏾‍♀️,People & Body,1F9CE 1F3FE 200D 2640 FE0F
+4335,🧎🏼‍♀️,People & Body,1F9CE 1F3FC 200D 2640 FE0F
+4337,🧎🏽‍♀️,People & Body,1F9CE 1F3FD 200D 2640 FE0F
+4339,🏋️‍♀️,People & Body,1F3CB FE0F 200D 2640 FE0F
+4343,🏋🏿‍♀️,People & Body,1F3CB 1F3FF 200D 2640 FE0F
+4345,🏋🏻‍♀️,People & Body,1F3CB 1F3FB 200D 2640 FE0F
+4347,🏋🏾‍♀️,People & Body,1F3CB 1F3FE 200D 2640 FE0F
+4349,🏋🏼‍♀️,People & Body,1F3CB 1F3FC 200D 2640 FE0F
+4351,🏋🏽‍♀️,People & Body,1F3CB 1F3FD 200D 2640 FE0F
+4353,👩🏻,People & Body,1F469 1F3FB
+4354,👩🏻‍🦲,People & Body,1F469 1F3FB 200D 1F9B2
+4355,🧔🏻‍♀️,People & Body,1F9D4 1F3FB 200D 2640 FE0F
+4357,👱🏻‍♀️,People & Body,1F471 1F3FB 200D 2640 FE0F
+4359,👩🏻‍🦱,People & Body,1F469 1F3FB 200D 1F9B1
+4360,👩🏻‍🦰,People & Body,1F469 1F3FB 200D 1F9B0
+4361,👩🏻‍🦳,People & Body,1F469 1F3FB 200D 1F9B3
+4362,🧙‍♀️,People & Body,1F9D9 200D 2640 FE0F
+4364,🧙🏿‍♀️,People & Body,1F9D9 1F3FF 200D 2640 FE0F
+4366,🧙🏻‍♀️,People & Body,1F9D9 1F3FB 200D 2640 FE0F
+4368,🧙🏾‍♀️,People & Body,1F9D9 1F3FE 200D 2640 FE0F
+4370,🧙🏼‍♀️,People & Body,1F9D9 1F3FC 200D 2640 FE0F
+4372,🧙🏽‍♀️,People & Body,1F9D9 1F3FD 200D 2640 FE0F
+4374,👩🏿‍🔧,People & Body,1F469 1F3FF 200D 1F527
+4375,👩🏻‍🔧,People & Body,1F469 1F3FB 200D 1F527
+4376,👩🏾‍🔧,People & Body,1F469 1F3FE 200D 1F527
+4377,👩🏼‍🔧,People & Body,1F469 1F3FC 200D 1F527
+4378,👩🏽‍🔧,People & Body,1F469 1F3FD 200D 1F527
+4379,👩🏾,People & Body,1F469 1F3FE
+4380,👩🏾‍🦲,People & Body,1F469 1F3FE 200D 1F9B2
+4381,🧔🏾‍♀️,People & Body,1F9D4 1F3FE 200D 2640 FE0F
+4383,👱🏾‍♀️,People & Body,1F471 1F3FE 200D 2640 FE0F
+4385,👩🏾‍🦱,People & Body,1F469 1F3FE 200D 1F9B1
+4386,👩🏾‍🦰,People & Body,1F469 1F3FE 200D 1F9B0
+4387,👩🏾‍🦳,People & Body,1F469 1F3FE 200D 1F9B3
+4388,👩🏼,People & Body,1F469 1F3FC
+4389,👩🏼‍🦲,People & Body,1F469 1F3FC 200D 1F9B2
+4390,🧔🏼‍♀️,People & Body,1F9D4 1F3FC 200D 2640 FE0F
+4392,👱🏼‍♀️,People & Body,1F471 1F3FC 200D 2640 FE0F
+4394,👩🏼‍🦱,People & Body,1F469 1F3FC 200D 1F9B1
+4395,👩🏼‍🦰,People & Body,1F469 1F3FC 200D 1F9B0
+4396,👩🏼‍🦳,People & Body,1F469 1F3FC 200D 1F9B3
+4397,👩🏽,People & Body,1F469 1F3FD
+4398,👩🏽‍🦲,People & Body,1F469 1F3FD 200D 1F9B2
+4399,🧔🏽‍♀️,People & Body,1F9D4 1F3FD 200D 2640 FE0F
+4401,👱🏽‍♀️,People & Body,1F471 1F3FD 200D 2640 FE0F
+4403,👩🏽‍🦱,People & Body,1F469 1F3FD 200D 1F9B1
+4404,👩🏽‍🦰,People & Body,1F469 1F3FD 200D 1F9B0
+4405,👩🏽‍🦳,People & Body,1F469 1F3FD 200D 1F9B3
+4406,🚵‍♀️,People & Body,1F6B5 200D 2640 FE0F
+4408,🚵🏿‍♀️,People & Body,1F6B5 1F3FF 200D 2640 FE0F
+4410,🚵🏻‍♀️,People & Body,1F6B5 1F3FB 200D 2640 FE0F
+4412,🚵🏾‍♀️,People & Body,1F6B5 1F3FE 200D 2640 FE0F
+4414,🚵🏼‍♀️,People & Body,1F6B5 1F3FC 200D 2640 FE0F
+4416,🚵🏽‍♀️,People & Body,1F6B5 1F3FD 200D 2640 FE0F
+4418,👩🏿‍💼,People & Body,1F469 1F3FF 200D 1F4BC
+4419,👩🏻‍💼,People & Body,1F469 1F3FB 200D 1F4BC
+4420,👩🏾‍💼,People & Body,1F469 1F3FE 200D 1F4BC
+4421,👩🏼‍💼,People & Body,1F469 1F3FC 200D 1F4BC
+4422,👩🏽‍💼,People & Body,1F469 1F3FD 200D 1F4BC
+4424,👩🏿‍✈️,People & Body,1F469 1F3FF 200D 2708 FE0F
+4426,👩🏻‍✈️,People & Body,1F469 1F3FB 200D 2708 FE0F
+4428,👩🏾‍✈️,People & Body,1F469 1F3FE 200D 2708 FE0F
+4430,👩🏼‍✈️,People & Body,1F469 1F3FC 200D 2708 FE0F
+4432,👩🏽‍✈️,People & Body,1F469 1F3FD 200D 2708 FE0F
+4434,🤾‍♀️,People & Body,1F93E 200D 2640 FE0F
+4436,🤾🏿‍♀️,People & Body,1F93E 1F3FF 200D 2640 FE0F
+4438,🤾🏻‍♀️,People & Body,1F93E 1F3FB 200D 2640 FE0F
+4440,🤾🏾‍♀️,People & Body,1F93E 1F3FE 200D 2640 FE0F
+4442,🤾🏼‍♀️,People & Body,1F93E 1F3FC 200D 2640 FE0F
+4444,🤾🏽‍♀️,People & Body,1F93E 1F3FD 200D 2640 FE0F
+4446,🤽‍♀️,People & Body,1F93D 200D 2640 FE0F
+4448,🤽🏿‍♀️,People & Body,1F93D 1F3FF 200D 2640 FE0F
+4450,🤽🏻‍♀️,People & Body,1F93D 1F3FB 200D 2640 FE0F
+4452,🤽🏾‍♀️,People & Body,1F93D 1F3FE 200D 2640 FE0F
+4454,🤽🏼‍♀️,People & Body,1F93D 1F3FC 200D 2640 FE0F
+4456,🤽🏽‍♀️,People & Body,1F93D 1F3FD 200D 2640 FE0F
+4458,👮‍♀️,People & Body,1F46E 200D 2640 FE0F
+4460,👮🏿‍♀️,People & Body,1F46E 1F3FF 200D 2640 FE0F
+4462,👮🏻‍♀️,People & Body,1F46E 1F3FB 200D 2640 FE0F
+4464,👮🏾‍♀️,People & Body,1F46E 1F3FE 200D 2640 FE0F
+4466,👮🏼‍♀️,People & Body,1F46E 1F3FC 200D 2640 FE0F
+4468,👮🏽‍♀️,People & Body,1F46E 1F3FD 200D 2640 FE0F
+4470,🙎‍♀️,People & Body,1F64E 200D 2640 FE0F
+4472,🙎🏿‍♀️,People & Body,1F64E 1F3FF 200D 2640 FE0F
+4474,🙎🏻‍♀️,People & Body,1F64E 1F3FB 200D 2640 FE0F
+4476,🙎🏾‍♀️,People & Body,1F64E 1F3FE 200D 2640 FE0F
+4478,🙎🏼‍♀️,People & Body,1F64E 1F3FC 200D 2640 FE0F
+4480,🙎🏽‍♀️,People & Body,1F64E 1F3FD 200D 2640 FE0F
+4483,🙋🏿‍♀️,People & Body,1F64B 1F3FF 200D 2640 FE0F
+4485,🙋🏻‍♀️,People & Body,1F64B 1F3FB 200D 2640 FE0F
+4487,🙋🏾‍♀️,People & Body,1F64B 1F3FE 200D 2640 FE0F
+4489,🙋🏼‍♀️,People & Body,1F64B 1F3FC 200D 2640 FE0F
+4491,🙋🏽‍♀️,People & Body,1F64B 1F3FD 200D 2640 FE0F
+4493,👩‍🦰,People & Body,1F469 200D 1F9B0
+4494,🚣‍♀️,People & Body,1F6A3 200D 2640 FE0F
+4496,🚣🏿‍♀️,People & Body,1F6A3 1F3FF 200D 2640 FE0F
+4498,🚣🏻‍♀️,People & Body,1F6A3 1F3FB 200D 2640 FE0F
+4500,🚣🏾‍♀️,People & Body,1F6A3 1F3FE 200D 2640 FE0F
+4502,🚣🏼‍♀️,People & Body,1F6A3 1F3FC 200D 2640 FE0F
+4504,🚣🏽‍♀️,People & Body,1F6A3 1F3FD 200D 2640 FE0F
+4506,🏃‍♀️,People & Body,1F3C3 200D 2640 FE0F
+4508,🏃🏿‍♀️,People & Body,1F3C3 1F3FF 200D 2640 FE0F
+4510,🏃🏻‍♀️,People & Body,1F3C3 1F3FB 200D 2640 FE0F
+4512,🏃🏾‍♀️,People & Body,1F3C3 1F3FE 200D 2640 FE0F
+4514,🏃🏼‍♀️,People & Body,1F3C3 1F3FC 200D 2640 FE0F
+4516,🏃🏽‍♀️,People & Body,1F3C3 1F3FD 200D 2640 FE0F
+4518,👩🏿‍🔬,People & Body,1F469 1F3FF 200D 1F52C
+4519,👩🏻‍🔬,People & Body,1F469 1F3FB 200D 1F52C
+4520,👩🏾‍🔬,People & Body,1F469 1F3FE 200D 1F52C
+4521,👩🏼‍🔬,People & Body,1F469 1F3FC 200D 1F52C
+4522,👩🏽‍🔬,People & Body,1F469 1F3FD 200D 1F52C
+4524,🤷🏿‍♀️,People & Body,1F937 1F3FF 200D 2640 FE0F
+4526,🤷🏻‍♀️,People & Body,1F937 1F3FB 200D 2640 FE0F
+4528,🤷🏾‍♀️,People & Body,1F937 1F3FE 200D 2640 FE0F
+4530,🤷🏼‍♀️,People & Body,1F937 1F3FC 200D 2640 FE0F
+4532,🤷🏽‍♀️,People & Body,1F937 1F3FD 200D 2640 FE0F
+4534,👩🏿‍🎤,People & Body,1F469 1F3FF 200D 1F3A4
+4535,👩🏻‍🎤,People & Body,1F469 1F3FB 200D 1F3A4
+4536,👩🏾‍🎤,People & Body,1F469 1F3FE 200D 1F3A4
+4537,👩🏼‍🎤,People & Body,1F469 1F3FC 200D 1F3A4
+4538,👩🏽‍🎤,People & Body,1F469 1F3FD 200D 1F3A4
+4539,🧍‍♀️,People & Body,1F9CD 200D 2640 FE0F
+4541,🧍🏿‍♀️,People & Body,1F9CD 1F3FF 200D 2640 FE0F
+4543,🧍🏻‍♀️,People & Body,1F9CD 1F3FB 200D 2640 FE0F
+4545,🧍🏾‍♀️,People & Body,1F9CD 1F3FE 200D 2640 FE0F
+4547,🧍🏼‍♀️,People & Body,1F9CD 1F3FC 200D 2640 FE0F
+4549,🧍🏽‍♀️,People & Body,1F9CD 1F3FD 200D 2640 FE0F
+4551,👩🏿‍🎓,People & Body,1F469 1F3FF 200D 1F393
+4552,👩🏻‍🎓,People & Body,1F469 1F3FB 200D 1F393
+4553,👩🏾‍🎓,People & Body,1F469 1F3FE 200D 1F393
+4554,👩🏼‍🎓,People & Body,1F469 1F3FC 200D 1F393
+4555,👩🏽‍🎓,People & Body,1F469 1F3FD 200D 1F393
+4556,🦸‍♀️,People & Body,1F9B8 200D 2640 FE0F
+4558,🦸🏿‍♀️,People & Body,1F9B8 1F3FF 200D 2640 FE0F
+4560,🦸🏻‍♀️,People & Body,1F9B8 1F3FB 200D 2640 FE0F
+4562,🦸🏾‍♀️,People & Body,1F9B8 1F3FE 200D 2640 FE0F
+4564,🦸🏼‍♀️,People & Body,1F9B8 1F3FC 200D 2640 FE0F
+4566,🦸🏽‍♀️,People & Body,1F9B8 1F3FD 200D 2640 FE0F
+4568,🦹‍♀️,People & Body,1F9B9 200D 2640 FE0F
+4570,🦹🏿‍♀️,People & Body,1F9B9 1F3FF 200D 2640 FE0F
+4572,🦹🏻‍♀️,People & Body,1F9B9 1F3FB 200D 2640 FE0F
+4574,🦹🏾‍♀️,People & Body,1F9B9 1F3FE 200D 2640 FE0F
+4576,🦹🏼‍♀️,People & Body,1F9B9 1F3FC 200D 2640 FE0F
+4578,🦹🏽‍♀️,People & Body,1F9B9 1F3FD 200D 2640 FE0F
+4580,🏄‍♀️,People & Body,1F3C4 200D 2640 FE0F
+4582,🏄🏿‍♀️,People & Body,1F3C4 1F3FF 200D 2640 FE0F
+4584,🏄🏻‍♀️,People & Body,1F3C4 1F3FB 200D 2640 FE0F
+4586,🏄🏾‍♀️,People & Body,1F3C4 1F3FE 200D 2640 FE0F
+4588,🏄🏼‍♀️,People & Body,1F3C4 1F3FC 200D 2640 FE0F
+4590,🏄🏽‍♀️,People & Body,1F3C4 1F3FD 200D 2640 FE0F
+4592,🏊‍♀️,People & Body,1F3CA 200D 2640 FE0F
+4594,🏊🏿‍♀️,People & Body,1F3CA 1F3FF 200D 2640 FE0F
+4596,🏊🏻‍♀️,People & Body,1F3CA 1F3FB 200D 2640 FE0F
+4598,🏊🏾‍♀️,People & Body,1F3CA 1F3FE 200D 2640 FE0F
+4600,🏊🏼‍♀️,People & Body,1F3CA 1F3FC 200D 2640 FE0F
+4602,🏊🏽‍♀️,People & Body,1F3CA 1F3FD 200D 2640 FE0F
+4604,👩🏿‍🏫,People & Body,1F469 1F3FF 200D 1F3EB
+4605,👩🏻‍🏫,People & Body,1F469 1F3FB 200D 1F3EB
+4606,👩🏾‍🏫,People & Body,1F469 1F3FE 200D 1F3EB
+4607,👩🏼‍🏫,People & Body,1F469 1F3FC 200D 1F3EB
+4608,👩🏽‍🏫,People & Body,1F469 1F3FD 200D 1F3EB
+4609,👩🏿‍💻,People & Body,1F469 1F3FF 200D 1F4BB
+4610,👩🏻‍💻,People & Body,1F469 1F3FB 200D 1F4BB
+4611,👩🏾‍💻,People & Body,1F469 1F3FE 200D 1F4BB
+4612,👩🏼‍💻,People & Body,1F469 1F3FC 200D 1F4BB
+4613,👩🏽‍💻,People & Body,1F469 1F3FD 200D 1F4BB
+4614,💁‍♀️,People & Body,1F481 200D 2640 FE0F
+4616,💁🏿‍♀️,People & Body,1F481 1F3FF 200D 2640 FE0F
+4618,💁🏻‍♀️,People & Body,1F481 1F3FB 200D 2640 FE0F
+4620,💁🏾‍♀️,People & Body,1F481 1F3FE 200D 2640 FE0F
+4622,💁🏼‍♀️,People & Body,1F481 1F3FC 200D 2640 FE0F
+4624,💁🏽‍♀️,People & Body,1F481 1F3FD 200D 2640 FE0F
+4626,🧛‍♀️,People & Body,1F9DB 200D 2640 FE0F
+4628,🧛🏿‍♀️,People & Body,1F9DB 1F3FF 200D 2640 FE0F
+4630,🧛🏻‍♀️,People & Body,1F9DB 1F3FB 200D 2640 FE0F
+4632,🧛🏾‍♀️,People & Body,1F9DB 1F3FE 200D 2640 FE0F
+4634,🧛🏼‍♀️,People & Body,1F9DB 1F3FC 200D 2640 FE0F
+4636,🧛🏽‍♀️,People & Body,1F9DB 1F3FD 200D 2640 FE0F
+4638,🚶‍♀️,People & Body,1F6B6 200D 2640 FE0F
+4640,🚶🏿‍♀️,People & Body,1F6B6 1F3FF 200D 2640 FE0F
+4642,🚶🏻‍♀️,People & Body,1F6B6 1F3FB 200D 2640 FE0F
+4644,🚶🏾‍♀️,People & Body,1F6B6 1F3FE 200D 2640 FE0F
+4646,🚶🏼‍♀️,People & Body,1F6B6 1F3FC 200D 2640 FE0F
+4648,🚶🏽‍♀️,People & Body,1F6B6 1F3FD 200D 2640 FE0F
+4650,👳‍♀️,People & Body,1F473 200D 2640 FE0F
+4652,👳🏿‍♀️,People & Body,1F473 1F3FF 200D 2640 FE0F
+4654,👳🏻‍♀️,People & Body,1F473 1F3FB 200D 2640 FE0F
+4656,👳🏾‍♀️,People & Body,1F473 1F3FE 200D 2640 FE0F
+4658,👳🏼‍♀️,People & Body,1F473 1F3FC 200D 2640 FE0F
+4660,👳🏽‍♀️,People & Body,1F473 1F3FD 200D 2640 FE0F
+4662,👩‍🦳,People & Body,1F469 200D 1F9B3
+4663,🧕🏿,People & Body,1F9D5 1F3FF
+4664,🧕🏻,People & Body,1F9D5 1F3FB
+4665,🧕🏾,People & Body,1F9D5 1F3FE
+4666,🧕🏼,People & Body,1F9D5 1F3FC
+4667,🧕🏽,People & Body,1F9D5 1F3FD
+4668,👰‍♀️,People & Body,1F470 200D 2640 FE0F
+4670,👰🏿‍♀️,People & Body,1F470 1F3FF 200D 2640 FE0F
+4672,👰🏻‍♀️,People & Body,1F470 1F3FB 200D 2640 FE0F
+4674,👰🏾‍♀️,People & Body,1F470 1F3FE 200D 2640 FE0F
+4676,👰🏼‍♀️,People & Body,1F470 1F3FC 200D 2640 FE0F
+4678,👰🏽‍♀️,People & Body,1F470 1F3FD 200D 2640 FE0F
+4680,👩‍🦯,People & Body,1F469 200D 1F9AF
+4681,👩🏿‍🦯,People & Body,1F469 1F3FF 200D 1F9AF
+4682,👩🏻‍🦯,People & Body,1F469 1F3FB 200D 1F9AF
+4683,👩🏾‍🦯,People & Body,1F469 1F3FE 200D 1F9AF
+4684,👩🏼‍🦯,People & Body,1F469 1F3FC 200D 1F9AF
+4685,👩🏽‍🦯,People & Body,1F469 1F3FD 200D 1F9AF
+4686,🧟‍♀️,People & Body,1F9DF 200D 2640 FE0F
+4688,👢,Objects,1F462
+4689,👚,Objects,1F45A
+4690,👒,Objects,1F452
+4691,👡,Objects,1F461
+4692,👭,People & Body,1F46D
+4693,👭🏿,People & Body,1F46D 1F3FF
+4694,👩🏿‍🤝‍👩🏻,People & Body,1F469 1F3FF 200D 1F91D 200D 1F469 1F3FB
+4695,👩🏿‍🤝‍👩🏾,People & Body,1F469 1F3FF 200D 1F91D 200D 1F469 1F3FE
+4696,👩🏿‍🤝‍👩🏼,People & Body,1F469 1F3FF 200D 1F91D 200D 1F469 1F3FC
+4697,👩🏿‍🤝‍👩🏽,People & Body,1F469 1F3FF 200D 1F91D 200D 1F469 1F3FD
+4698,👭🏻,People & Body,1F46D 1F3FB
+4699,👩🏻‍🤝‍👩🏿,People & Body,1F469 1F3FB 200D 1F91D 200D 1F469 1F3FF
+4700,👩🏻‍🤝‍👩🏾,People & Body,1F469 1F3FB 200D 1F91D 200D 1F469 1F3FE
+4701,👩🏻‍🤝‍👩🏼,People & Body,1F469 1F3FB 200D 1F91D 200D 1F469 1F3FC
+4702,👩🏻‍🤝‍👩🏽,People & Body,1F469 1F3FB 200D 1F91D 200D 1F469 1F3FD
+4703,👭🏾,People & Body,1F46D 1F3FE
+4704,👩🏾‍🤝‍👩🏿,People & Body,1F469 1F3FE 200D 1F91D 200D 1F469 1F3FF
+4705,👩🏾‍🤝‍👩🏻,People & Body,1F469 1F3FE 200D 1F91D 200D 1F469 1F3FB
+4706,👩🏾‍🤝‍👩🏼,People & Body,1F469 1F3FE 200D 1F91D 200D 1F469 1F3FC
+4707,👩🏾‍🤝‍👩🏽,People & Body,1F469 1F3FE 200D 1F91D 200D 1F469 1F3FD
+4708,👭🏼,People & Body,1F46D 1F3FC
+4709,👩🏼‍🤝‍👩🏿,People & Body,1F469 1F3FC 200D 1F91D 200D 1F469 1F3FF
+4710,👩🏼‍🤝‍👩🏻,People & Body,1F469 1F3FC 200D 1F91D 200D 1F469 1F3FB
+4711,👩🏼‍🤝‍👩🏾,People & Body,1F469 1F3FC 200D 1F91D 200D 1F469 1F3FE
+4712,👩🏼‍🤝‍👩🏽,People & Body,1F469 1F3FC 200D 1F91D 200D 1F469 1F3FD
+4713,👭🏽,People & Body,1F46D 1F3FD
+4714,👩🏽‍🤝‍👩🏿,People & Body,1F469 1F3FD 200D 1F91D 200D 1F469 1F3FF
+4715,👩🏽‍🤝‍👩🏻,People & Body,1F469 1F3FD 200D 1F91D 200D 1F469 1F3FB
+4716,👩🏽‍🤝‍👩🏾,People & Body,1F469 1F3FD 200D 1F91D 200D 1F469 1F3FE
+4717,👩🏽‍🤝‍👩🏼,People & Body,1F469 1F3FD 200D 1F91D 200D 1F469 1F3FC
+4718,👯‍♀️,People & Body,1F46F 200D 2640 FE0F
+4720,🤼‍♀️,People & Body,1F93C 200D 2640 FE0F
+4722,🚺,Symbols,1F6BA
+4723,🗺,Travel & Places,1F5FA
+4724,✍,People & Body,270D
+4725,✍🏿,People & Body,270D 1F3FF
+4726,✍🏻,People & Body,270D 1F3FB
+4727,✍🏾,People & Body,270D 1F3FE
+4728,✍🏼,People & Body,270D 1F3FC
+4729,✍🏽,People & Body,270D 1F3FD
+4730,🩻,Objects,1FA7B
+4731,🟡,Symbols,1F7E1
+4732,💛,Smileys & Emotion,1F49B
+4733,🟨,Symbols,1F7E8
+4735,☯,Symbols,262F
